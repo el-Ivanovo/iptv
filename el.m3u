@@ -1,0 +1,129 @@
+#EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#
+# 1-20
+#
+#EXTINF:-1 channelId="1" tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/146.png" group-title="Эфирные" catchup-enable="1",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 channelId="2" tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/711.png" group-title="Эфирные" catchup-enable="1",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 channelId="3" tvg-id="match-tv" group-title="Эфирные" catchup-enable="1",Матч! ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 channelId="4" tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Эфирные" catchup-enable="1",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 channelId="5" tvg-id="5kanal-ru" group-title="Эфирные" catchup-enable="1",Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 channelId="6" tvg-id="kultura" group-title="Эфирные" catchup-enable="1",Россия К
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 channelId="7" tvg-id="rossia-24" group-title="Эфирные" catchup-enable="1",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 channelId="8" tvg-id="karusel" group-title="Эфирные" catchup-enable="1",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 channelId="9" tvg-id="otr" group-title="Эфирные" catchup-enable="1",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 channelId="10" tvg-id="tvcentr" group-title="Эфирные" catchup-enable="1",ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 channelId="11" tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Эфирные" catchup-enable="1",Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 channelId="12" tvg-id="spas" group-title="Эфирные" catchup-enable="1",Спас
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 channelId="13" tvg-id="sts" group-title="Эфирные" catchup-enable="1",СТС
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 channelId="14" tvg-id="domashny" group-title="Эфирные" catchup-enable="1",Домашний
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 channelId="15" tvg-id="tv3-ru" group-title="Эфирные" catchup-enable="1",ТВ-3
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 channelId="16" tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png" group-title="Эфирные" catchup-enable="1",Пятница
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 channelId="17" tvg-id="zvezda" group-title="Эфирные" catchup-enable="1",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 channelId="18" tvg-id="mir" group-title="Эфирные" catchup-enable="1",Мир
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 channelId="19" tvg-id="tnt" group-title="Эфирные" catchup-enable="1",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 channelId="20" tvg-id="muztv" group-title="Эфирные" catchup-enable="1",Муз-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#
+# HD
+#
+# https://iptv-org.github.io/iptv/countries/ru.m3u
+# https://okko.tv/collection/tvchannels (GEO block)
+#
+#EXTINF:-1 channelId="42" tvg-id="360-podmoskovie" tvg-name="360°" group-title="HD и UHD" catchup-enable="0",360° HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+# http://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 channelId="52" tvg-id="360-news" tvg-name="360° Новости" group-title="HD и UHD" catchup-enable="0",360° Новости HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 tvg-id="rtd-hd" tvg-logo="https://picon.ml/rtd-hd.png" group-title="HD и UHD" catchup-enable="0",RTД HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="russia-today" group-title="HD и UHD" catchup-enable="0",Russia Today HD
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 channelId="626" tvg-id="russian-extreme-uhd" group-title="HD и UHD" catchup-enable="1",Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 channelId="160" tvg-id="ultra-hd-cinema" group-title="HD и UHD" catchup-enable="1",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",Домашний HD
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="zvezda" group-title="HD и UHD" catchup-enable="0",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",Конный мир HD
+https://bl.uma.media/live/400930/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="mir" group-title="HD и UHD" catchup-enable="0",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-24" group-title="HD и UHD" catchup-enable="0",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 channelId="259" tvg-id="nasha-sibir-4k" group-title="HD и UHD" catchup-enable="1",Наша Сибирь 4K
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",Первый канал HD
+http://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+# http://cdn2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",Пятница HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
+# https://bl.uma.media/live/410336/HLS/6307840_6/1/1/playlist.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",РЕН ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",Россия 1 HD
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+# http://cdnmg.secure.live.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",Суббота! HD
+http://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",ТВ-3 HD
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
+# https://bl.uma.media/live/410336/HLS/6307840_6/1/1/playlist.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="1",ТЕО-ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TEOTV/variant.m3u8
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
+#EXTINF:-1 tvg-id="tnt4" group-title="HD и UHD" catchup-enable="0",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Groznyy" group-title="HD и UHD" catchup-enable="0",Грозный ТВ
+https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
