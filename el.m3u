@@ -3,3 +3,8 @@
 # 1-20
 #EXTINF:-1 ЧГТРК Грозный
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+
+#EXTINF:-1 group-title="HD и UHD" catchup-enable="0",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
+#EXTINF:-1 tvg-id="tnt4" group-title="HD и UHD" catchup-enable="0",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
