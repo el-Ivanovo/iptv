@@ -34,6 +34,9 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 
+#EXTINF:-1 group-title="Россия",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 #EXTINF:0 type="stream" channelId="125", ПЕРВЫЙ КАНАЛ HD
 http://188.242.217.211:81/udp/239.239.3.50:5239?q=zi/
 #EXTINF:0 type="stream" channelId="1" group="Россия", Первый канал
