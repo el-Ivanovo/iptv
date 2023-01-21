@@ -23,3 +23,7 @@ https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/3s/tv-5.m3u8?cdn=https%3A%
 #EXTINF:-1 tvg-id="CTC" tvg-name="CTC" catchup-enable="0",СТС
 #EXTVLCOPT:http-user-agent=okhttp/4.9.1
 https://ctc-live-edgecenter2.mediavitrina.ru/hls-live1/streams/ctc/3s/ctc.m3u8?token_version=v2&hash1=dWVKmiPbQ7572_Yqh37zhiZg2mXko5Gly8UJNJfuhGk&hash2=n9aL5WiGp29jJ5tXI_exdvhaC64VA1wwNBSUCBx7GXA&timestamp=1674908547&random=f586af4c56739be51841c6dde0b9e65b
+
+#EXTINF:-1 tvg-id="russia1" tvg-name="russia1" catchup-enable="0",Россия 1
+#EXTVLCOPT:http-user-agent=okhttp/4.9.1
+https://video.beeline.tv/live/h/channel304.isml/index-web_hls.m3u8
