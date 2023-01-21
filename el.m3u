@@ -614,9 +614,7 @@ http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8
 
 
-#
-
-EXTINF:-1 tvg-id="kinotv" tvg-name="kinotv" catchup-enable="0",КиноТВ
+#EXTINF:-1 tvg-id="kinotv" tvg-name="kinotv" catchup-enable="0",КиноТВ
 #EXTGRP:Фильмы и Сериалы
 #EXTVLCOPT:http-user-agent=okhttp/4.9.1
 https://stream201.24h.tv/hlsjwt/05e0507473ca4ab40d3c44cc0e654e5f8d1a42fc-381-0-str6815474-5-3119732005-1674309331-e128-mx77ZqspcIOOhkTeiWipk4EXMvVrYkz-MayEEvL0bOQ/index.m3u8
