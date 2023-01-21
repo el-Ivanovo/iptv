@@ -53,6 +53,12 @@ https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,107
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:0 type="stream" channelId="12" group="Россия", СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+
+#EXTINF:0 type="stream" channelId="12" group="Россия", СТС HD
+#EXTVLCOPT:http-user-agent=okhttp/4.9.1
+https://ctc-live-edgecenter2.mediavitrina.ru/hls-live1/streams/ctc/3s/ctc.m3u8?token_version=v2&hash1=dWVKmiPbQ7572_Yqh37zhiZg2mXko5Gly8UJNJfuhGk&hash2=n9aL5WiGp29jJ5tXI_exdvhaC64VA1wwNBSUCBx7GXA&timestamp=1674908547&random=f586af4c56739be51841c6dde0b9e65b
+
+
 #EXTINF:0 type="stream" channelId="3630" name="ТНТ HD" group="HD", ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:0 type="stream" channelId="16" name="ТНТ" group="Кино", ТНТ
