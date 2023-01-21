@@ -630,3 +630,13 @@ https://stream2.24h.tv/hlsjwt/7e6b6b352d50767d033b1ed03a9c6198ce82d6a9-2609-0-st
 #EXTGRP:Фильмы и Сериалы
 #EXTVLCOPT:http-user-agent=okhttp/4.9.1
 https://stream202.24h.tv/hlsjwt/7e6b6b352d50767d033b1ed03a9c6198ce82d6a9-93-0-str6544011-5-3119732014-1674320426-e128-Dic2O2xOGrOdzeSOu0I0DWRJH7P-Ue7uaWRl5jX2eYU/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="fba" tvg-name="FilmBox Arthouse" catchup-enable="0",FilmBox Arthouse
+#EXTGRP:Фильмы и Сериалы
+#EXTVLCOPT:http-user-agent=okhttp/4.9.1
+https://stream19.24h.tv/hlsjwt/7e6b6b352d50767d033b1ed03a9c6198ce82d6a9-2614-0-str6544011-5-3119732014-1674320973-e128-4b0hHoMYZoEkOoXD7jYzlCdR4CVEIPr4BAdxu0tfm0s/index.m3u8
