@@ -642,3 +642,12 @@ https://stream201.24h.tv/hlsjwt/7e6b6b352d50767d033b1ed03a9c6198ce82d6a9-5886-0-
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://stream202.24h.tv/hlsjwt/7e6b6b352d50767d033b1ed03a9c6198ce82d6a9-135-0-str6544011-5-3119732014-1674325701-e128-p4G5Mem83JS-KxR1saDlhFsDZPlkdOnQ4I_ccxwSZ2Q/index.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-id="black" tvg-name="black" catchup-enable="0",.black
+#EXTGRP:Фильмы и Сериалы
+#EXTVLCOPT:http-user-agent=okhttp/4.9.1
+https://stream19.24h.tv/hlsjwt/7e6b6b352d50767d033b1ed03a9c6198ce82d6a9-235-0-str6544011-5-3119732014-1674326319-e128-DlSwiQ0p99yvQPtMAkaiI2wmnDtXn_OGLomsiBrUJlw/index.m3u8
+
