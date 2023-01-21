@@ -618,3 +618,9 @@ https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/ind
 #EXTGRP:Фильмы и Сериалы
 #EXTVLCOPT:http-user-agent=okhttp/4.9.1
 https://stream201.24h.tv/hlsjwt/05e0507473ca4ab40d3c44cc0e654e5f8d1a42fc-381-0-str6815474-5-3119732005-1674309331-e128-mx77ZqspcIOOhkTeiWipk4EXMvVrYkz-MayEEvL0bOQ/index.m3u8
+
+
+#EXTINF:-1 tvg-id="terra" tvg-name="terra" catchup-enable="0",Terra
+#EXTGRP:Позновательные
+#EXTVLCOPT:http-user-agent=okhttp/4.9.1
+https://stream201.24h.tv/hlsjwt/7e6b6b352d50767d033b1ed03a9c6198ce82d6a9-5886-0-str6544011-5-3119732014-1674312150-e128-37iqVMrU0hkQ0-72jg3GN7aK7z1Me0fcRJwrHTToPV0/index.m3u8
