@@ -9,24 +9,13 @@ https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-id="ingushetia" tvg-name="Ингушетия" group-title="Региональные" catchup-enable="0",Ингушетия
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://mhd155.iptv2022.com/p/b7cbE-22XzRznkfYOu0mew,1674486208/streaming/ingushetia/324/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="put" tvg-name="ТРК Путь" group-title="Региональные" catchup-enable="0",ТРК Путь
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://live.chechensoft.ru/tvput/ngrp:tvput_all/chunklist_w807299474_b696000.m3u8
-#EXTINF:-1 tvg-id="vainahtv" tvg-name="Россия-Вайнах" group-title="Региональные" catchup-enable="0",Россия-Вайнах
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/chunklist_w227651559_b896000.m3u8
-#EXTINF:-1 tvg-id="vainahtv" tvg-name="Россия-Ингушетия" group-title="Региональные" catchup-enable="0",Россия-Ингушетия
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://river-6-601.rutube.ru/stream/musang-703.brz.rutube.ru/5WIYcHYT35WGpZvngM3rlg/1674068562/eff9b98140a0e43fec3d6829bca0f8cf/360p_stream.m3u8
+
 #EXTINF:-1 tvg-id="bashkortostan24" group-title="Региональные" catchup-enable="1",Башкортостан 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan" group-title="Региональные" catchup-enable="1",РГВК Дагестан
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
-#EXTINF:-1 tvg-id="rgvk-dagestan" group-title="Региональные" catchup-enable="0",РГВК Дагестан HD
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-sever" group-title="Региональные" catchup-enable="1",Русский Север
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
@@ -61,8 +50,7 @@ https://ctc-live-edgecenter2.mediavitrina.ru/hls-live1/streams/ctc/3s/ctc.m3u8?t
 
 #EXTINF:0 type="stream" channelId="1104" group="Российские", Известия HD
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Эфирные HD" logo="https://i.imgur.com/boiRyie.jpg", IZ.RU HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="22", Че
 https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
 #EXTINF:0 type="stream" channelId="8" group="Эфирные", ТВ-3 HD
@@ -71,8 +59,7 @@ https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,107
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:0 type="stream" channelId="3630" name="ТНТ HD" group="HD", ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:0 type="stream" channelId="16" name="ТНТ" group="Кино", ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+
 #EXTINF:0 type="stream" channelId="7" name="Пятый Канал (okko tv)" group="Развлекательные", Пятый Канал (okko tv)
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:0 type="stream" channelId="498", НТВ HD
@@ -99,16 +86,14 @@ http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v1a1/index.m3u8
 http://78.25.155.47:1309/channel/Rus_rom.ts
 #EXTINF:0 type="stream" channelId="147" group="KINO+", ДОРАМА
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
-#EXTINF:0 type="stream" channelId="198" group="Фильмы", РУССКИЙ РОМАН
-http://194.113.234.110:4052
+
 #EXTINF:0 type="stream" channelId="1628", Русский Детектив
 http://78.25.155.47:1309/channel/rus_d.ts
 #EXTINF:0 type="stream" channelId="189", Русский Иллюзион
 http://78.25.155.47:1309/channel/Rus_illuz.ts
 #EXTINF:0 type="stream" channelId="17" group="Общероссийские" logo="https://karnei4.github.io/convert/logo-z/48f61415a32b4111fee20ef9e7b6ff3b.png" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-days="3", Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:0 type="stream" channelId="784", ОТР
-http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
+
 #EXTINF:0 type="stream" channelId="394", НТК
 https://sc.id-tv.kz/NTK_34_35.m3u8
 #EXTINF:0 type="stream" channelId="217" group="ОБЩИЕ", Euronews
@@ -133,8 +118,7 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:0 type="stream" channelId="605" group-title="Кино", VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:0 type="stream" channelId="3982" group-title="Кино", Ultra HD Cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw20000000/variant.m3u8
+
 #EXTINF:0 type="stream" channelId="162" group-title="Кино", ТЕХНО 24
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:0 type="stream" channelId="342" group-title="Кино", Кино ТВ
@@ -145,120 +129,70 @@ http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1633" group-title="Кино", Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:0 type="stream" channelId="230" group-title="Кино", Комедийное HD
-http://50.7.92.90/Kinopokaz_HD2/mono.m3u8
-#EXTINF:0 type="stream" channelId="71" group-title="Кино", Комедия
-http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
+
 #EXTINF:0 type="stream" channelId="3926" group-title="Кино", FAN HD
 http://hlss.goodgame.ru/hls/157239.m3u8
-#EXTINF:0 type="stream" channelId="3926" group-title="Кино", FAN
-http://94.230.240.17:8080/fan/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="4518" group-title="Кино", Star Cinema
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/480p.m3u8
-#EXTINF:0 type="stream" channelId="181" group-title="Кино", Cinema
-http://195.26.83.96:7024/play/68
+
 #EXTINF:0 type="stream" channelId="181" group-title="Кино", Cinema
 https://sc.id-tv.kz/Cinema_36_37.m3u8
-#EXTINF:0 type="stream" channelId="599" group-title="Кино", Кинопоказ HD
-http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+
 #EXTINF:0 type="stream" channelId="413" group-title="Кино", Киносвидание HD
 http://95.217.196.109:8081/russia/kinosvidanie_sd_new/playlist.m3u8
-#EXTINF:0 type="stream" channelId="413" group-title="Кино", Киносвидание HD
-https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
-#EXTINF:0 type="stream" channelId="413" name="Киносвидание HD" group-title="Кино", Киносвидание HD
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:0 type="stream" channelId="169" group-title="Кино", Мужское Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+
+
 #EXTINF:0 type="stream" channelId="315" group-title="Кино", Наше новое кино
 http://46.181.193.122:81/udp/239.255.42.142:1234
 #EXTINF:0 type="stream" channelId="270" name="Киномикс HD" group-title="Кино", Киномикс HD
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="316" group-title="Кино", Родное Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:0 type="stream" channelId="568" group-title="Кино", Киносемья HD
-http://95.217.196.109:8081/russia/kinosemya_sd_new/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Киносемья FHD
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="195" group-title="Кино", КИНОСЕРИЯ
 https://sc.id-tv.kz/Kinoseriya_hd.m3u8
-#EXTINF:0 type="stream" channelId="409" name="Кинохит" group-title="Кино", Кинохит
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+
 #EXTINF:0 type="stream" channelId="409" group-title="Кино", Кинохит HD
 https://sc.id-tv.kz/Kinohit_hd.m3u8
-#EXTINF:0 type="stream" channelId="1859" group-title="Кино", Киноужас
-http://ott.dugatv.me/ch393/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+
 #EXTINF:0 type="stream" channelId="270" group-title="Кино", Киномикс HD
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8?token=iptv.org.ua
-#EXTINF:0 type="stream" channelId="270" group-title="Кино", Киномикс
-http://185.32.44.154/kinomiks/index.m3u8?token=iptv.org.ua
-#EXTINF:0 type="stream" channelId="410" group-title="Кино", КИНОПРЕМЬЕРА HD
-http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кинопремьера FHD
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:0 type="stream" channelId="194" group-title="Кино", Кинокомедия HD
-http://185.32.44.154/kinokomedia/index.m3u8
+
 #EXTINF:0 type="stream" channelId="194" name="Кинокомедия" ggroup-title="Кино", Кинокомедия
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="168" group-title="Кино", Индийское кино
 https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2802" group-title="Кино", Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:0 type="stream" channelId="3919" group-title="Кино", Hollywood
-http://iptv.prosto.tv:7000/ch157/video.m3u8
-#EXTINF:0 type="stream" channelId="3920" group-title="Кино", HOLLYWOOD HD
-http://213.172.73.171:8081/nimble_live/1179__MGM_HD/playlist.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Hollywood HD r
 http://185.32.44.154/hollywood/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Киноужас FHD
-http://50.7.92.90/kinoujas_tv/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Ужастик
-https://v2.catcast.tv/content/38896/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Ужас HD
-http://autopilot.catcast.tv/content/41000/index.m3u8
-#EXTINF:0 type="stream" channelId="1746" group-title="Кино", Страшное HD
-http://50.7.188.186/StrashnoeHD/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Шокирующие HD
-http://50.7.92.90/Kinopokaz_HD1/mono.m3u8
+
+
 #EXTINF:0 type="stream" channelId="3186" group-title="Кино", SCI-FI
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:0 type="stream" channelId="-1" ggroup-title="Кино", Фантастика HD
-http://50.7.188.186/FANTASTIKA_HD/mono.m3u8
-#EXTINF:0 type="stream" channelId="1699" group-title="Кино", Paramount Comedy
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
+
 #EXTINF:0 type="stream" channelId="2923" group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кинозал 33
 https://v2.catcast.tv/content/39005/index.m3u8
-#EXTINF:0 type="stream" channelId="215" group-title="Кино", Кинолюкс
-http://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:0 type="stream" channelId="2657" group-title="Кино", Дом кино премиум HD
-https://sc.id-tv.kz/domkino_hd.m3u8
-#EXTINF:0 type="stream" channelId="2657" group-title="Кино", ДОМ КИНО ПРЕМИУМ HD
-http://193.233.9.49/streams/media/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:0 type="stream" channelId="3925" group-title="Кино", Приключения HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
+
 #EXTINF:0 type="stream" channelId="79" group-title="Кино", Еврокино
 http://91.220.135.165:81/30/index.m3u8
-#EXTINF:0 type="stream" channelId="79" group-title="Кино", Еврокино
-http://193.233.9.49/streams/media/EVROKINO/index.m3u8
-#EXTINF:0 type="stream" channelId="68" group-title="Кино", ДОМ КИНО
-http://213.172.73.170:8081/nimble_live/1127__Dom_Kino/playlist.m3u8
-#EXTINF:0 type="stream" channelId="197" group-title="Кино", Феникс+ кино
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=fenixkino
-#EXTINF:0 type="stream" channelId="314" group-title="Кино", НАШЕ ЛЮБИМОЕ КИНО
-http://213.172.73.170:8081/nimble_live/1049__Lyubimoye_Kino/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1719" group-title="Кино", PARAMOUNT CHANNEL
-http://livetv.mylifeisgood.ml/channels/paramount_channel
-#EXTINF:0 type="stream" channelId="4643" group-title="Кино", КиноСат
-http://37.17.12.119:8907/play/a007
+
 #EXTINF:0 type="stream" channelId="272", НСТ
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:0 type="stream" channelId="887", История
 http://78.25.155.47:1309/channel/Istoria.ts
-#EXTINF:0 type="stream" channelId="2674" group="Детские", Капитан Фантастика HD
-http://50.7.92.90/Ginger_HD/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Фантастика Sci-Fi
-https://autopilot.catcast.tv/content/38801/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sony ET
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино и сериалы", Start Air HD
@@ -275,8 +209,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HD", Kronehit TV [FHD]
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 type="stream" channelId="3917" group="Музыка", ACB TV
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="Познавательные", Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 type="stream" channelId="2786" group="Музыка", Xite HD
@@ -285,8 +218,7 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2959" group="Кино", Film Box
 http://94.230.240.17:8080/film_box/index.m3u8
-#EXTINF:0 type="stream" channelId="192" group="Дети", Уникум
-http://46.174.83.66/Unikum/mpegts
+
 #EXTINF:0 type="stream" channelId="19" group="Дети", ДИСНЕЙ
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 #EXTINF:0 type="stream" channelId="3879" group="Дети", CTC Kids HD
@@ -295,18 +227,14 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 https://sc.id-tv.kz:443/Gulli_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="186" group="Дети", Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
-#EXTINF:0 type="stream" channelId="20", Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+
 #EXTINF:0 type="stream" channelId="14", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="322", Nick Jr
-https://sc.id-tv.kz/NickJr_36_37.m3u8
+
 #EXTINF:0 type="stream" channelId="41", Nickelodeon
 https://sc.id-tv.kz/Nickelodeon_34_35.m3u8
-#EXTINF:0 type="stream" channelId="2798", Рыжий
-https://stream.sputnik24.tv/ryzhiy/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Мультимания LV
-http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Жара Kids TV HD
@@ -319,8 +247,7 @@ https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="323" group="ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8?token=iptv.org.ua
-#EXTINF:0 type="stream" channelId="220" group="ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ
-http://46.174.83.66/Drive/mpegts
+
 #EXTINF:0 type="stream" channelId="206" group="ПОЗНАВАТЕЛЬНЫЕ", National Geographic Wild HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:0 type="stream" channelId="207", Nat Geo HD
