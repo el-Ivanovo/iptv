@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Региональные" catchup-enable="0",Грозный HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 tvg-id="ingushetia" tvg-name="Ингушетия" group-title="Региональные" catchup-enable="0",Ингушетия
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://mhd155.iptv2022.com/p/b7cbE-22XzRznkfYOu0mew,1674486208/streaming/ingushetia/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="put" tvg-name="ТРК Путь" group-title="Региональные" catchup-enable="0",ТРК Путь
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live.chechensoft.ru/tvput/ngrp:tvput_all/chunklist_w807299474_b696000.m3u8
