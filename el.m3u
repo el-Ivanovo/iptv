@@ -266,8 +266,7 @@ https://sc.id-tv.kz/FlixSnip_34_35.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="1201", History 2
 https://sc.id-tv.kz/H2HD_36_37.m3u8
-#EXTINF:0 type="stream" channelId="1494", RTG HD
-http://tv.streams.baikal-telecom.net/RTG_HD/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1887", Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:0 type="stream" channelId="67", TLC
@@ -276,7 +275,7 @@ https://sc.id-tv.kz/TLCHD_34_35.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=oruzhie
 #EXTINF:0 type="stream" channelId="4118", Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
-#EXTINF:0 type="stream" channelId="323", Мужской
+#EXTINF:0 type="stream" channelId="323" group-title="Позновательные", Мужской
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 #EXTINF:0 type="stream" channelId="3709", Диалоги о рыбалке
 https://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8
@@ -308,7 +307,7 @@ https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Российские", С1 HD
 https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ПОЗНАВАТЕЛЬНЫЕ", MOSOBR TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Позновательные", MOSOBR TV HD
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ПОЗНАВАТЕЛЬНЫЕ", NG Wild Russia HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
