@@ -479,7 +479,7 @@ https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
 
-#EXTINF:0 type="stream" channelId="72" group-title="Позновательные", Рыбалка и охота
+#EXTINF:0 type="stream" channelId="72" group-title="Познавательные", Рыбалка и охота
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
 #EXTINF:0 type="stream" channelId="251", Психология
 http://37.17.12.119:8907/play/a00a
