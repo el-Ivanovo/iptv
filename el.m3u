@@ -12,7 +12,7 @@ https://mhd155.iptv2022.com/p/b7cbE-22XzRznkfYOu0mew,1674486208/streaming/ingush
 
 #EXTINF:-1 tvg-id="bashkortostan24" group-title="Региональные" catchup-enable="1",Башкортостан 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-http://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+https://salam-2.rutube.ru/dive/river-6-601.rutube.ru/Ly5RBX7-6dMvp6EPzVCaHw/stream/musang-606.cvt.rutube.ru/qPfZeYkv2aO_zcwQm3YZgg/1674494134/cf7e6ad2c24ce743b5b60478c176037b/240p_stream.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan" group-title="Региональные" catchup-enable="1",РГВК Дагестан
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://dgndvr.mediacdn.ru/dvr/dagestan/playlist_hdlow.m3u8
