@@ -534,3 +534,8 @@ https://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/pl
 #EXTINF:0 type="stream" group-title="Спортивные", Сила
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8
+
+
+#EXTINF:0 type="stream" group-title="Спортивные", Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://mhd156.iptv2022.com/p/j2nADmlbmNgzjogtW--SCg,1674589451/streaming/oribalke/324/1/tracks-v1a1/mono.m3u8
