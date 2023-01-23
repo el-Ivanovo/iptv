@@ -78,15 +78,13 @@ https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 
 #EXTINF:0 type="stream" channelId="1628", Русский Детектив
 http://78.25.155.47:1309/channel/rus_d.ts
-#EXTINF:0 type="stream" channelId="189", Русский Иллюзион
-http://78.25.155.47:1309/channel/Rus_illuz.ts
+
 #EXTINF:0 type="stream" channelId="17" group="Общероссийские" logo="https://karnei4.github.io/convert/logo-z/48f61415a32b4111fee20ef9e7b6ff3b.png" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-days="3", Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
 
 #EXTINF:0 type="stream" channelId="394", НТК
 https://sc.id-tv.kz/NTK_34_35.m3u8
-#EXTINF:0 type="stream" channelId="217" group="ОБЩИЕ", Euronews
-https://sc.id-tv.kz:443/Euronews_34_35.m3u8
+
 #EXTINF:0 type="stream" channelId="65" group-title="Кино", TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:0 type="stream" channelId="66" name="TV1000 HD" group-title="Кино", TV1000 HD
@@ -108,8 +106,7 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 
 #EXTINF:0 type="stream" channelId="162" group-title="Кино", ТЕХНО 24
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
-#EXTINF:0 type="stream" channelId="342" group-title="Кино", Кино ТВ
-http://vod.tuva.ru/kinotv/index.m3u8
+
 #EXTINF:0 type="stream" channelId="342" group-title="Кино", Кино ТВ
 http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1637" group-title="Кино", Премиальное HD
