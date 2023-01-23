@@ -21,9 +21,6 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 tvg-id="maidantv" group-title="Региональные" catchup-enable="1",Майдан ТАТ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/93/%D0%AD%D1%84%D0%B8%D1%80_%28%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29_%282010%29.png/revision/latest/scale-to-width-down/1000?cb=20220510200922&path-prefix=ru" group-title="Региональные" catchup-enable="1",Эфир (Казань)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-name="pervy" catchup-enable="0",Первый канал
 #EXTVLCOPT:http-user-agent=okhttp/4.9.1
@@ -96,12 +93,10 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:0 type="stream" channelId="214" name="TV1000 Action HD" group-title="Кино", TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Kino Watch TV - ХИТ
-https://edge-01.kino.watch/hit/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", ТВ 1000 World Kino
 http://93.189.60.202:8080/1065/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Kino Watch-СВЕЖАКИ
-https://edge-01.kino.watch/fresh/index.m3u8
+
 #EXTINF:0 type="stream" channelId="3894" group-title="Кино", VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:0 type="stream" channelId="607" group-title="Кино", VIP Comedy
