@@ -183,8 +183,7 @@ http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино и сериалы", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:0 type="stream" channelId="1571" group="Российские", СТС Love
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
 #EXTINF:0 type="stream" channelId="9", РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:0 type="stream" channelId="1333", Red Bull TV
@@ -227,16 +226,15 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1827" group="СПОРТ", Бокс ТВ
 https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
-#EXTINF:0 type="stream" channelId="1282" group="ПОЗНАВАТЕЛЬНЫЕ", Авто24
+#EXTINF:0 type="stream" channelId="1282" group-title="ПОЗНАВАТЕЛЬНЫЕ", Авто24
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8?token=iptv.org.ua
-#EXTINF:0 type="stream" channelId="323" group="ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ
+#EXTINF:0 type="stream" channelId="323" group-title="ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8?token=iptv.org.ua
 
-#EXTINF:0 type="stream" channelId="206" group="ПОЗНАВАТЕЛЬНЫЕ", National Geographic Wild HD
+#EXTINF:0 type="stream" channelId="206" group-title="ПОЗНАВАТЕЛЬНЫЕ", TERRA
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:0 type="stream" channelId="207", Nat Geo HD
-https://sc.id-tv.kz/NatGeogHD_34_35.m3u8
-#EXTINF:0 type="stream" channelId="57", Discovery
+
+#EXTINF:0 type="stream" channelId="57" group-title="ПОЗНАВАТЕЛЬНЫЕ", Discovery
 https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2035" group="ПОЗНАВАТЕЛЬНЫЕ", LOVE Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
