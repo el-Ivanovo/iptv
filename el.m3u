@@ -56,13 +56,8 @@ https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:0 type="stream" channelId="120", Рен ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
-#EXTINF:0 type="stream" channelId="3630" name="ТНТ HD" group="HD", ТНТ HD
-https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="7" name="Пятый Канал (okko tv)" group="Развлекательные", Пятый Канал (okko tv)
-https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
-#EXTINF:0 type="stream" channelId="498", НТВ HD
-http://ntv-hls-orig.cdnvideo.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="23", Ю
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="1762", Моя Планета HD
@@ -73,12 +68,10 @@ https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="26", Пятница!HD
 https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="10", Россия 24
-http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
+
 #EXTINF:0 type="stream" channelId="4" group="ТВ", Матч HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
-#EXTINF:0 type="stream" channelId="203" group="Российские", Россия 1 HD
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+
 #EXTINF:0 type="stream" channelId="783", RT HD
 http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="198", Русский Роман
