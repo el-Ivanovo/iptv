@@ -222,9 +222,9 @@ https://sc.id-tv.kz/Nickelodeon_34_35.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Жара Kids TV HD
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
-#EXTINF:0 type="stream" channelId="156" group="СПОРТ", Extreme sports
+#EXTINF:0 type="stream" channelId="156" group="Спортивные", Extreme sports
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
-#EXTINF:0 type="stream" channelId="1827" group="СПОРТ", Бокс ТВ
+#EXTINF:0 type="stream" channelId="1827" group-title="Спортивные", Бокс ТВ
 https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
 #EXTINF:0 type="stream" channelId="1282" group-title="Познавательные", Авто24
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8?token=iptv.org.ua
@@ -267,7 +267,7 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="1201", History 2
 https://sc.id-tv.kz/H2HD_36_37.m3u8
 
-#EXTINF:0 type="stream" channelId="1887", Red
+#EXTINF:0 type="stream" channelId="1887" group-title="Познавательные", Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:0 type="stream" channelId="67", TLC
 https://sc.id-tv.kz/TLCHD_34_35.m3u8
@@ -418,7 +418,7 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="KINDER TV" group="Детские", KINDER TV
 https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Reel life (рыбалка)" group="Познавательные", Reel life (рыбалка)
+#EXTINF:0 type="stream" channelId="-1" name="Reel life (рыбалка)" group-title="Познавательные", Reel life (рыбалка)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1039
 #EXTINF:0 type="stream" channelId="1282" name="Авто24" group="Познавательные", Авто24
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8
