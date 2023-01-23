@@ -452,13 +452,13 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 http://1music.hu/1music.m3u8
 #EXTINF:0 type="stream" channelId="-1", Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="RTД HD" group="Познавательные", RTД HD
+#EXTINF:0 type="stream" channelId="-1" name="RTД HD" group-title="Познавательные", RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Познавательные", T-24
 http://195.26.83.96:7024/play/83
 #EXTINF:0 type="stream" channelId="2808" name="Fight Box HD" group="HD", Fight Box HD
 http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/230/stream.m3u8
-#EXTINF:0 type="stream" channelId="235", Travel Channel HD
+#EXTINF:0 type="stream" channelId="235" group-title="Познавательные", Travel Channel HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/307/stream.m3u8
 #EXTINF:0 type="stream" channelId="280", Fashion TV
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/226/stream.m3u8
@@ -470,8 +470,7 @@ http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3642/stream.m3u8
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
 #EXTINF:0 type="stream" channelId="4847" group="Россия", Твоё ТВ
 http://stream-norst.cf:8080/tvoetv/index.m3u8
-#EXTINF:0 type="stream" channelId="60" group="Познавательные", DTX
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Fentezy HD
@@ -482,9 +481,9 @@ https://stream.backustv.ru/content/39864/index.m3u8
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:0 type="stream" channelId="57" group="Познавательные", Discovery
+#EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
-#EXTINF:0 type="stream" channelId="72" group="Познавательные", Рыбалка и охота
+#EXTINF:0 type="stream" channelId="72" group-title="Познавательные", Рыбалка и охота
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
 #EXTINF:0 type="stream" channelId="251", Психология
 http://37.17.12.119:8907/play/a00a
