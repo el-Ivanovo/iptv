@@ -66,7 +66,7 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="26", Пятница!HD
 https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="4" group="ТВ", Матч HD
+#EXTINF:0 type="stream" channelId="4" group-title="Спортивные", Матч HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 
 #EXTINF:0 type="stream" channelId="783", RT HD
@@ -271,8 +271,7 @@ https://sc.id-tv.kz/H2HD_36_37.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:0 type="stream" channelId="67", TLC
 https://sc.id-tv.kz/TLCHD_34_35.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Позновательные", ОРУЖИЕ r
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=oruzhie
+
 #EXTINF:0 type="stream" channelId="4118", Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 
@@ -417,7 +416,7 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="KINDER TV" group="Детские", KINDER TV
 https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Reel life (рыбалка)" group="Познавательные", Reel life (рыбалка)
+#EXTINF:0 type="stream" channelId="-1" name="Reel life (рыбалка)" group="Позновательные", Reel life (рыбалка)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1039
 #EXTINF:0 type="stream" channelId="1282" name="Авто24" group="Познавательные", Авто24
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8
@@ -449,14 +448,13 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 http://1music.hu/1music.m3u8
 #EXTINF:0 type="stream" channelId="-1", Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="RTД HD" group-title="Познавательные", RTД HD
+#EXTINF:0 type="stream" channelId="-1" name="RTД HD" group-title="Позновательные", RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Познавательные", T-24
 http://195.26.83.96:7024/play/83
 #EXTINF:0 type="stream" channelId="2808" name="Fight Box HD" group="HD", Fight Box HD
 http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/230/stream.m3u8
-#EXTINF:0 type="stream" channelId="235" group-title="Познавательные", Travel Channel HD
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/307/stream.m3u8
+
 #EXTINF:0 type="stream" channelId="280", Fashion TV
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/226/stream.m3u8
 #EXTINF:0 type="stream" channelId="2808", FightBox HD
@@ -478,9 +476,8 @@ https://stream.backustv.ru/content/39864/index.m3u8
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
-#EXTINF:0 type="stream" channelId="72" group-title="Познавательные", Рыбалка и охота
+
+#EXTINF:0 type="stream" channelId="72" group-title="Позновательные", Рыбалка и охота
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
 #EXTINF:0 type="stream" channelId="251", Психология
 http://37.17.12.119:8907/play/a00a
