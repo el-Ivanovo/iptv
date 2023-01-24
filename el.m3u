@@ -486,9 +486,6 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Познавательные", MOSOBR TV HD
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:0 type="stream" channelId="3709" group-title="Познавательные", Диалоги о рыбалке
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8
 #EXTINF:0 type="stream" channelId="1456" group-title="Познавательные", History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0 type="stream" channelId="1282" group-title="Познавательные", Авто24
