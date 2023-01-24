@@ -345,12 +345,3 @@ http://31.148.48.15/Nauka_2.0/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 type="stream" group-title="Познавательные", Просвещение
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="Познавательные", Поехали
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz/poehali_34_35.m3u8?session=12909964d226ee2702277b6be4491418
-#EXTINF:0 type="stream" group-title="Познавательные", Viasat Nature East
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz/ViasatNature_34_35.m3u8?session=c912fcaea4bbec2047297dad42e21daf
-#EXTINF:0 type="stream" group-title="Познавательные", Outdoor Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-http://mfe01.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
