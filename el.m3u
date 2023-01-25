@@ -345,3 +345,36 @@ http://31.148.48.15/Nauka_2.0/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 type="stream" group-title="Познавательные", Просвещение
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+
+
+#Казахские
+
+#EXTINF:0 type="stream" group-title="Казахские", Aqjaiyq
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:0 type="stream" group-title="Казахские", Aqtóbe
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:0 type="stream" group-title="Казахские", Atyraý
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+
+#EXTINF:0 type="stream" group-title="Казахские", QAZAQSTAN TV
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Казахские", Хабар
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Казахские", Хабар 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Казахские", Первый канал Евразия
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:0 type="stream" group-title="Казахские", Astana TV
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Казахские", KTK
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz/KTK.m3u8
+
