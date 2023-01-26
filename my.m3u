@@ -2197,6 +2197,7 @@ http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/908/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2310" tvg-logo="http://epg.it999.ru/img/2310.png" tvg-rec="3",Первый космический HD orig
 http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/9049/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2186" tvg-logo="http://epg.it999.ru/img/2186.png" tvg-rec="3",DocuBox HD
+#EXTVLCOPT:http-user-agent=lifestream:android_tablet
 http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/968/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="521" tvg-logo="http://epg.it999.ru/img/521.png" tvg-rec="3",Viasat Explore HD orig
 http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/9075/index.m3u8
