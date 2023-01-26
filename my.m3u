@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#ID:6KPA5QMR4XYRDA
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый FHD
 http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/2402/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD 50
