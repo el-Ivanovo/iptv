@@ -269,9 +269,6 @@ https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/ind
 
 #Спорт
 
-#EXTINF:0 type="stream" group-title="Спортивные", Старт
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://stream-msk-02.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Поединок
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8
@@ -288,6 +285,13 @@ https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", KHL HD
+https://okkotv-live.cdnvideo.ru/channel/KHL_HD_2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Start Triumph HD
+https://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Старт 
+https://okkotv-live.cdnvideo.ru/channel/Start/playlist.m3u8
+
 
 
 
@@ -345,3 +349,21 @@ http://31.148.48.15/Nauka_2.0/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 type="stream" group-title="Познавательные", Просвещение
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Viasat Explore HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Da Vinci
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://okkotv-live.cdnvideo.ru/channel/Da_Vinci/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Nano HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://okkotv-nano.cdnvideo.ru/Nano_HD_poz/index.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Ратник ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://live-okkotv.cdnvideo.ru/ratnik/ratnik_5q.smil/playlist.m3u8
