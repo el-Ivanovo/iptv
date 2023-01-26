@@ -83,6 +83,34 @@ https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #Кино
 
 
+
+
+
+
+#EXTINF:0 type="stream" channelId="1887" group-title="Кино", .red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+#EXTINF:0 type="stream" channelId="1887" group-title="Кино", .red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", .red
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
+https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:0 type="stream" channelId="3926" group-title="Кино", FAN HD
+http://hlss.goodgame.ru/hls/157239.m3u8
+#EXTINF:0 type="stream" channelId="342" group-title="Кино", Кино ТВ
+http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
+#EXTINF:0 type="stream" channelId="162" group-title="Кино", ТЕХНО 24
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
+#EXTINF:0 type="stream" channelId="181" group-title="Кино", Cinema
+https://sc.id-tv.kz/Cinema_36_37.m3u8
+#EXTINF:0 type="stream" channelId="205" group-title="Кино", Сапфир
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", .black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:0 type="stream" channelId="198", Русский Роман
 http://78.25.155.47:1309/channel/Rus_rom.ts
 #EXTINF:0 type="stream" channelId="147" group-title="Кино", ДОРАМА
@@ -107,20 +135,12 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:0 type="stream" channelId="605" group-title="Кино", VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:0 type="stream" channelId="162" group-title="Кино", ТЕХНО 24
-https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
-#EXTINF:0 type="stream" channelId="342" group-title="Кино", Кино ТВ
-http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1637" group-title="Кино", Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1633" group-title="Кино", Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3926" group-title="Кино", FAN HD
-http://hlss.goodgame.ru/hls/157239.m3u8
 #EXTINF:0 type="stream" channelId="4518" group-title="Кино", Star Cinema
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/480p.m3u8
-#EXTINF:0 type="stream" channelId="181" group-title="Кино", Cinema
-https://sc.id-tv.kz/Cinema_36_37.m3u8
 #EXTINF:0 type="stream" channelId="413" group-title="Кино", Киносвидание HD
 http://95.217.196.109:8081/russia/kinosvidanie_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="315" group-title="Кино", Наше новое кино
@@ -159,14 +179,10 @@ https://v2.catcast.tv/content/39005/index.m3u8
 http://91.220.135.165:81/30/index.m3u8
 #EXTINF:0 type="stream" channelId="272" group-title="Кино", НСТ
 http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Sony ET
-http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:0 type="stream" channelId="205" group-title="Кино", FOX Life hd
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 #EXTINF:0 type="stream" channelId="1699" group-title="Кино", Paramount Comedy
 http://109.200.130.124:7000/play/a00j
 #EXTINF:0 type="stream" channelId="913" group-title="Кино", A1 HD
@@ -181,26 +197,16 @@ https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
 https://sc.id-tv.kz/Astana_34_35.m3u8
 #EXTINF:0 type="stream" channelId="253" group-title="Кино", Zee TV
 https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
-#EXTINF:0 type="stream" channelId="1887" group-title="Кино", Red
-https://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Kinoklub
 http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино", ВидеокассетА
 https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Свое ТВ HD
 http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", BLACK Arthouse
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Backustv HD
-http://stream.backustv.ru/live/btv/index.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Память SSSR
 https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Север HD
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUS TV HD
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUSTV Страшное HD
-http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Cinema Classic TV
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0 type="stream" channelId="201" group-title="Кино", Миллет
@@ -209,16 +215,10 @@ http://live.trkmillet.ru/millet/index.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Fentezy HD
-https://autopilot.catcast.tv/content/38144/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUSTV Страшное HD
-https://stream.backustv.ru/content/39864/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", NST Настоящее страшное ТВ
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
-https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", START Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Детское кино International HD
@@ -231,8 +231,6 @@ http://hls.goodgame.ru/hls/5346.m3u8
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:0 type="stream" channelId="3966" name="Свое ТВ" group-title="Кино", Свое ТВ
 https://live.stv24.tv/svoetv/MQ_video.m3u8
-#EXTINF:0 type="stream" channelId="1887" group-title="Кино", Red
-https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Trash
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 #EXTINF:0 type="stream" channelId="3884" group-title="Кино", Bolt (Россия)
