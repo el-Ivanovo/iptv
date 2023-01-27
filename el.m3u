@@ -449,4 +449,15 @@ https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Любимый HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Надежда
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8?hls_proxy_host=a8b876ccbc510550c20ccdb22a311ba2
+#EXTINF:0 type="stream" group-title="Познавательные", Рыболов
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://serv30.vintera.tv/sport/oir_28/chunks.m3u8?nimblesessionid=916967909&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIzIDEwOjA5OjAxIFBNJmhhc2hfdmFsdWU9ZWsyTkExaGtVRmk3N1BBVFZWT3l1UT09JnZhbGlkbWludXRlcz00ODA=
+
+#EXTINF:0 type="stream" group-title="Познавательные", Jou Cook
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://serv25.vintera.tv/restream/joycook/chunks.m3u8?nimblesessionid=144676888&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIzIDEwOjEyOjIxIFBNJmhhc2hfdmFsdWU9RW9udlhDQW9WMDhCWFh5TXNncUh1dz09JnZhbGlkbWludXRlcz00ODA=
+
 
