@@ -29,14 +29,18 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?h
 
 #Казахские
 
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", 31 канал
-https://sc.id-tv.kz/31Kanal.m3u8
+
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
+#http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Astana TV
 https://sc.id-tv.kz/Astana.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Ел Арна
-https://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", КТК
 https://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", 31 канал
+https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Ел Арна
+https://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Рика ТВ
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/chunklist.m3u8?hls_proxy_host=f1000e6461d9bb38c984a45330f11f82
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
@@ -44,9 +48,7 @@ https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
 https://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQTV
-https://kazakhtv.ultraiptv.com/kazakhtv/0-03.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
-https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Muzzone
 https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Балапан ТВ
