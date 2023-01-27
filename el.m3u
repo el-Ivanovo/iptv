@@ -393,3 +393,51 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Ратник ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://live-okkotv.cdnvideo.ru/ratnik/ratnik_5q.smil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Моя Планета
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Драйв
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
+#EXTINF:0 type="stream" group-title="Познавательные", Большая азия
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://109.197.192.121:8080/bigasia/index.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
+#EXTINF:0 type="stream" group-title="Познавательные", Natgeo
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://190.2.143.146/natgeo/mono.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Туран
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz/TuranTV_36_37.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Министерство идей
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Univer TV HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Живая Планета
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://109.171.45.109:81/udp/239.54.5.166:1224
+
+#EXTINF:0 type="stream" group-title="Познавательные", Наша Сибирь 4K UHD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
+
+#EXTINF:0 type="stream" group-title="Познавательные", Глазами туриста 4K UHD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
+
+
+
+
+
+#EXTINF:0 type="stream" group-title="Познавательные", Живая природа HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
+
+
