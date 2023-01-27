@@ -35,8 +35,8 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?h
 
 
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
-https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
-#http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Astana TV
 https://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", КТК
