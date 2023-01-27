@@ -27,6 +27,52 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 
 
+#Казахские
+
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", 31 канал
+https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Almaty TV
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Astana TV
+https://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Atameken Business TV
+https://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Ел Арна
+https://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", КТК
+https://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", СТВ Казахстан
+https://sc.id-tv.kz/STV.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
+https://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Халык Арна
+https://sc.id-tv.kz/HalykArna.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQTV
+https://kazakhtv.ultraiptv.com/kazakhtv/0-03.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Muzzone
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Балапан ТВ
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", 7 Канал
+https://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Атамекен Бизнес
+https://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Домбра ТВ
+https://sc.id-tv.kz/Dombyra.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Gakku
+https://sc.id-tv.kz/Gakku.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Hit Tv
+https://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", KMA
+https://sc.id-tv.kz/KMA.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", MTRK
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+
+
 #Федеральные
 
 
