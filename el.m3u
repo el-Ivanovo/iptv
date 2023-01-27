@@ -169,10 +169,6 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 https://v2.catcast.tv/content/39005/index.m3u8
 #EXTINF:0 type="stream" channelId="79" group-title="Кино", Еврокино
 http://91.220.135.165:81/30/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start Air HD
-https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start World HD
-https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:0 type="stream" channelId="1699" group-title="Кино", Paramount Comedy
 http://109.200.130.124:7000/play/a00j
 #EXTINF:0 type="stream" channelId="913" group-title="Кино", A1 HD
@@ -242,6 +238,11 @@ http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Феникс Плюс Кино
+https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Star Family HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/playlist.m3u8
 
 
 
