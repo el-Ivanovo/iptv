@@ -30,6 +30,10 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 
+#EXTINF:0 type="stream" group-title="Познавательные", CGTN Русский
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
 
 #Казахские
 
@@ -65,6 +69,9 @@ https://sc.id-tv.kz/Gakku.m3u8
 https://sc.id-tv.kz/HitTV.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", MTRK
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Новое телевидение
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://serv25.vintera.tv/novoetv/nov_tv/chunks.m3u8?nimblesessionid=144686849&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIzIDEwOjQ0OjA2IFBNJmhhc2hfdmFsdWU9Umo5eTlIajZkQVFwdUl5UEZLYnhOQT09JnZhbGlkbWludXRlcz00ODA=
 
 
 #Федеральные
@@ -352,6 +359,9 @@ https://sc.id-tv.kz:443/Avto24_36_37.m3u8?token=iptv.org.ua
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Terra incognita
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://serv25.vintera.tv/restream/terra/chunks.m3u8?nimblesessionid=144685464&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIzIDEwOjM4OjU1IFBNJmhhc2hfdmFsdWU9RkJRcmUvaXEwcld4ZWRRalQzZnBjQT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
