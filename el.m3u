@@ -10,6 +10,10 @@
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Региональные" catchup-enable="0",Грозный HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+
+#EXTINF:-1 tvg-id="put" tvg-name="put" group-title="Региональные" catchup-enable="0", ТРК ПУТЬ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://live.chechensoft.ru/tvput/ngrp:tvput_all/chunklist_w1843610230_b696000.m3u8
 #EXTINF:-1 tvg-id="ingushetia" tvg-name="Ингушетия" group-title="Региональные" logo="https://upload.wikimedia.org/wikipedia/ru/e/e9/%D0%9D%D0%A2%D0%A0%D0%9A_%C2%AB%D0%98%D0%BD%D0%B3%D1%83%D1%88%D0%B5%D1%82%D0%B8%D1%8F%C2%BB.png" catchup-enable="0",Ингушетия
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
