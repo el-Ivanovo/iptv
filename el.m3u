@@ -10,7 +10,6 @@
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Региональные" catchup-enable="0",Грозный HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-
 #EXTINF:-1 tvg-id="put" tvg-name="put" group-title="Региональные" catchup-enable="0" tvg-logo="https://trk-put.ru/templates/main/images/logo_new2.png", ТРК ПУТЬ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live.chechensoft.ru/tvput/ngrp:tvput_all/chunklist_w1843610230_b696000.m3u8
@@ -29,9 +28,7 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 tvg-id="maidantv" group-title="Региональные" catchup-enable="1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
-#EXTINF:0 type="stream" group-title="Познавательные", CGTN Русский
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
 
 
 #Казахские
@@ -56,8 +53,6 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/chunklist.m3u8?hls_proxy
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
 https://sc.id-tv.kz/Khabar.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQTV
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Muzzone
 https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Балапан ТВ
@@ -70,9 +65,6 @@ https://sc.id-tv.kz/Gakku.m3u8
 https://sc.id-tv.kz/HitTV.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", MTRK
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="Познавательные", Новое телевидение
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://mhd155.iptv2022.com/p/ybd1o81cidJwNZ3jgcMPoQ,1674986555/streaming/novoetv/324/1/tracks-v1a1/mono.m3u8
 
 #Федеральные
 
@@ -443,7 +435,6 @@ http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
 #EXTINF:0 type="stream" group-title="Познавательные", Усадьба
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://94.230.240.17:8080/usadba/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Познавательные", ВОТ ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
@@ -459,6 +450,9 @@ http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Надежда
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8?hls_proxy_host=a8b876ccbc510550c20ccdb22a311ba2
+#EXTINF:0 type="stream" group-title="Познавательные", CGTN Русский
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 
 
