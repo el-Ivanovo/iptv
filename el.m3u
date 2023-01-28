@@ -359,9 +359,6 @@ https://sc.id-tv.kz:443/Avto24_36_37.m3u8?token=iptv.org.ua
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:0 type="stream" group-title="Познавательные", Terra incognita
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://serv25.vintera.tv/restream/terra/chunks.m3u8?nimblesessionid=144685464&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIzIDEwOjM4OjU1IFBNJmhhc2hfdmFsdWU9RkJRcmUvaXEwcld4ZWRRalQzZnBjQT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
@@ -462,12 +459,6 @@ http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Надежда
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8?hls_proxy_host=a8b876ccbc510550c20ccdb22a311ba2
-#EXTINF:0 type="stream" group-title="Познавательные", Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://serv30.vintera.tv/sport/oir_28/chunks.m3u8?nimblesessionid=916967909&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIzIDEwOjA5OjAxIFBNJmhhc2hfdmFsdWU9ZWsyTkExaGtVRmk3N1BBVFZWT3l1UT09JnZhbGlkbWludXRlcz00ODA=
 
-#EXTINF:0 type="stream" group-title="Познавательные", Jou Cook
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://serv25.vintera.tv/restream/joycook/chunks.m3u8?nimblesessionid=144676888&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIzIDEwOjEyOjIxIFBNJmhhc2hfdmFsdWU9RW9udlhDQW9WMDhCWFh5TXNncUh1dz09JnZhbGlkbWludXRlcz00ODA=
 
 
