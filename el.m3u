@@ -52,19 +52,15 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/chunklist.m3u8?hls_proxy
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Muzzone
-https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Балапан ТВ
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", 7 Канал
 https://sc.id-tv.kz/7_kanal.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Gakku
-https://sc.id-tv.kz/Gakku.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Hit Tv
 https://sc.id-tv.kz/HitTV.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", MTRK
-https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+
 
 #Федеральные
 
@@ -327,6 +323,19 @@ https://okkotv-live.cdnvideo.ru/channel/Start/playlist.m3u8
 #Познавательные
 
 
+
+#EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+#EXTINF:0 type="stream" channelId="67" group-title="Познавательные", TLC
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:0 type="stream" channelId="596" group-title="Познавательные", Travel + Adventure HD
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", Усадьба
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:0 type="stream" channelId="221" group-title="Познавательные, Охота и Рыбалка
 http://78.25.155.47:1309/channel/Ohota_i_rib.ts
 #EXTINF:0 type="stream" channelId="72" group-title="Познавательные", Рыбалка и охота
@@ -345,11 +354,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="323" group-title="Познавательные", МУЖСКОЙ
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8?token=iptv.org.ua
-#EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2035" group="Познавательные", LOVE Nature
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -357,10 +361,6 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 type="stream" channelId="887" group-title="Познавательные", История
 http://78.25.155.47:1309/channel/Istoria.ts
-#EXTINF:0 type="stream" channelId="67" group-title="Познавательные", TLC
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
-#EXTINF:0 type="stream" channelId="596" group-title="Познавательные", Travel + Adventure HD
-http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Познавательные", С1 HD
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:0 type="stream" channelId="4644" group-title="Познавательные", Тайна
@@ -428,9 +428,6 @@ https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Живая природа HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
-#EXTINF:0 type="stream" group-title="Познавательные", Усадьба
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", ТВ Экстра HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
