@@ -41,7 +41,8 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Astana TV
-https://sc.id-tv.kz/Astana.m3u8
+https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/playlist.m3u8
+#https://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w204355752_b3064000_slrus.m3u8
 #https://sc.id-tv.kz/KTK.m3u8
