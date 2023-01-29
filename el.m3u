@@ -42,7 +42,7 @@ https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/playlist
 #https://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w204355752_b3064000_slrus.m3u8
-#https://sc.id-tv.kz/KTK.m3u8
+https://sc.id-tv.kz/KTK.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", 31 канал
 https://31kz-streams.daitsuna.net/31kz/31kz/playlist.m3u8
 #https://sc.id-tv.kz/31Kanal.m3u8
