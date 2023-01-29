@@ -10,9 +10,6 @@
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Региональные" catchup-enable="0",Грозный HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 tvg-id="put" tvg-name="put" group-title="Региональные" catchup-enable="0" tvg-logo="https://trk-put.ru/templates/main/images/logo_new2.png", ТРК ПУТЬ
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://live.chechensoft.ru/tvput/ngrp:tvput_all/chunklist_w1843610230_b696000.m3u8
 #EXTINF:-1 tvg-id="ingushetia" tvg-name="Ингушетия" group-title="Региональные" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/e/e9/%D0%9D%D0%A2%D0%A0%D0%9A_%C2%AB%D0%98%D0%BD%D0%B3%D1%83%D1%88%D0%B5%D1%82%D0%B8%D1%8F%C2%BB.png" catchup-enable="0",Ингушетия
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
@@ -237,14 +234,8 @@ http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Cinema Classic
-https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", NST Настоящее страшное ТВ
 https://sc.id-tv.kz/NSTV_34_35.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Trash
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
-#EXTINF:0 type="stream" channelId="272" group-title="Кино", НСТ
-http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AKUDJI TV HD" group-title="Кино", AKUDJI TV HD
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
@@ -253,15 +244,10 @@ https://autopilot.catcast.tv/content/41596/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Детское кино International HD
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", BESTFILM
-http://50.7.188.186/BESTFILM_HD/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="TV PRO" group-title="Кино", TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:0 type="stream" channelId="3966" name="Свое ТВ" group-title="Кино", Свое ТВ
 https://live.stv24.tv/svoetv/MQ_video.m3u8
-#EXTINF:0 type="stream" channelId="3884" group-title="Кино", Bolt (Россия)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1
-http://46.181.193.122:81/udp/239.255.42.152:1234
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start World HD
@@ -272,11 +258,9 @@ http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="1802" group-title="Кино", Ники ТВ
 http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1571" name="СТС Love (okko tv)" group-title="Кино", СТС Love (okko tv)
+#EXTINF:0 type="stream" channelId="1571" name="СТС Love" group-title="Кино", СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Феникс Плюс Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Star Family HD
