@@ -31,6 +31,47 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?h
 #Казахские
 
 
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2569" tvg-logo="http://epg.it999.ru/img2/2569.png" tvg-rec="3",Казахстан
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2210/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2570" tvg-logo="http://epg.it999.ru/img2/2570.png" tvg-rec="3",КТК
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2211/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2571" tvg-logo="http://epg.it999.ru/img2/2571.png" tvg-rec="3",Первый канал Евразия
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2212/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2572" tvg-logo="http://epg.it999.ru/img2/2572.png" tvg-rec="3",Седьмой канал
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2213/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2573" tvg-logo="http://epg.it999.ru/img2/2573.png" tvg-rec="3",Astana TV
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2214/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2574" tvg-logo="http://epg.it999.ru/img2/2574.png" tvg-rec="3",Kazakh TV
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2215/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2638" tvg-logo="http://epg.it999.ru/img2/2638.png" tvg-rec="3",Новое телевидение KZ
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2216/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2639" tvg-logo="http://epg.it999.ru/img2/2639.png" tvg-rec="3",31 канал KZ
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2217/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2640" tvg-logo="http://epg.it999.ru/img2/2640.png" tvg-rec="3",НТК
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2218/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2641" tvg-logo="http://epg.it999.ru/img2/2641.png" tvg-rec="3",СТВ KZ
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2219/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2642" tvg-logo="http://epg.it999.ru/img2/2642.png" tvg-rec="3",ТАН
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2220/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2643" tvg-logo="http://epg.it999.ru/img2/2643.png" tvg-rec="3",5 канал KZ
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2221/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2575" tvg-logo="http://epg.it999.ru/img2/2575.png" tvg-rec="3",Казахстан Караганда
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2222/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2578" tvg-logo="http://epg.it999.ru/img2/2578.png" tvg-rec="3",Хабар 24
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2225/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2576" tvg-logo="http://epg.it999.ru/img2/2576.png" tvg-rec="3",Хабар
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2223/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2579" tvg-logo="http://epg.it999.ru/img2/2579.png" tvg-rec="3",Асыл Арна
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2229/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2577" tvg-logo="http://epg.it999.ru/img2/2577.png" tvg-rec="3",Qazsport KZ
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/2224/index.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="6130" tvg-logo="http://epg.it999.ru/img2/6130.png" tvg-rec="0",Insport HD
+http://he11o.akadatel.com/iptv/425EWL2BTT2UN4/16071/index.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
@@ -57,6 +98,8 @@ https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/playlist_dvr.m3u8
 https://sc.id-tv.kz/7_kanal.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Hit Tv
 https://sc.id-tv.kz/HitTV.m3u8
+
+
 
 
 #Федеральные
