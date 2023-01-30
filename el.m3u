@@ -25,6 +25,9 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 tvg-id="maidantv" group-title="Региональные" catchup-enable="1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
+#EXTINF:-1 tvg-id="maidantv" group-title="Региональные" catchup-enable="1" , Матур ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
 
 
 
