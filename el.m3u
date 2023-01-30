@@ -290,9 +290,12 @@ http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
 #Радио
 
-#EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Радио Грозный" catchup-enable="0",Радио Грозный
+#EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Радио" catchup-enable="0",Радио Грозный
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8
+#EXTINF:-1  group-title="Радио" catchup-enable="0",Радио Ингушетии
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://77.87.97.62:8086/ingradio?1582880552334
 
 
 #Спорт
