@@ -228,8 +228,6 @@ https://sc.id-tv.kz/A2_34_35.m3u8
 https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1830" group-title="Кино", Astana TV
 https://sc.id-tv.kz/Astana_34_35.m3u8
-#EXTINF:0 type="stream" channelId="253" group-title="Кино", Zee TV
-https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Kinoklub
 http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино", ВидеокассетА
