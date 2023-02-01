@@ -77,8 +77,8 @@ https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="pervy" tvg-name="pervy" catchup-enable="0",Первый канал
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1
-https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="russia1" tvg-name="russia1" catchup-enable="0",Россия 1
 #EXTVLCOPT:http-user-agent=okhttp/4.9.1
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
@@ -126,7 +126,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 type="stream" channelId="9", РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:0 type="stream" channelId="77", ТНТ4
-https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz/tnt4.m3u8
 
 
 
