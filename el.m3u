@@ -70,6 +70,9 @@ https://live-qazaqtv.cdnvideo.ru/qazaqtv-test/qazaqtvtest.smil/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Aktobe TV
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Caspian News
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz/CaspianNews_36_37.m3u8
 
 
 
@@ -238,6 +241,8 @@ https://autopilot.catcast.tv/content/37925/index.m3u8
 http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Память SSSR
 https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Север HD
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Cinema Classic TV
@@ -647,6 +652,9 @@ http://109.171.45.109:81/udp/239.54.5.166:1224
 #EXTINF:0 type="stream" group-title="Познавательные", Кухня ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:0 type="stream" group-title="Познавательные", ЕДА HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Живая природа HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
