@@ -300,6 +300,12 @@ https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Жулдыз ФМ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://91.201.214.229:8000/zhulduz
+#EXTINF:-1  group-title="Радио" catchup-enable="0", Казахское Радио
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://hls-01-regions.emgsound.ru/11_kazakhstan/32/playlist.m3u8
+#EXTINF:-1  group-title="Радио" catchup-enable="0", Актобе
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://85.29.144.124:8000/;audio.mp3?1675355024767
 
 
 
