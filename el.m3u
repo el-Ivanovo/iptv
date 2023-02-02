@@ -531,6 +531,12 @@ https://okkotv-live.cdnvideo.ru/channel/KHL_HD_2/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Старт 
 https://okkotv-live.cdnvideo.ru/channel/Start/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Матч! ФУТБОЛ 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Матч! АРЕНА HD
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Матч! ПЛАНЕТА
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 
 
 
@@ -683,8 +689,11 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Поехали
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/poehali_34_35.m3u8
-#EXTINF:0 type="stream" channelId="162" group-title="Кино", ТЕХНО 24
+#EXTINF:0 type="stream" channelId="162" group-title="Познавательные", ТЕХНО 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
+#EXTINF:0 type="stream" channelId="162" group-title="Познавательные", Русский экстрим
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
 
 
