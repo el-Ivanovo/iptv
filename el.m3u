@@ -191,7 +191,8 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/480p.m3u8
 http://95.217.196.109:8081/russia/kinosvidanie_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="315" group-title="Кино", Наше новое кино
 http://46.181.193.122:81/udp/239.255.42.142:1234
-#EXTINF:0 type="stream" channelId="270" name="Киномикс HD" group-title="Кино", Киномикс HD
+https://sc.id-tv.kz/Nnk_hd_34_35.m3u8
+#EXTINF:0 type="stream" channelId="270"  group-title="Кино", Киномикс HD
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="316" group-title="Кино", Родное Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
@@ -207,7 +208,7 @@ https://sc.id-tv.kz/Kinohit_hd.m3u8
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кинопремьера FHD
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:0 type="stream" channelId="194" name="Кинокомедия" group-title="Кино", Кинокомедия
+#EXTINF:0 type="stream" channelId="194" group-title="Кино", Кинокомедия
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="168" group-title="Кино", Индийское кино
 https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
@@ -227,8 +228,6 @@ http://109.200.130.124:7000/play/a00j
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:0 type="stream" channelId="914" group-title="Кино", A2 HD
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
-#EXTINF:0 type="stream" channelId="914" group-title="Кино", Amedia 2
-https://sc.id-tv.kz/A2_34_35.m3u8
 #EXTINF:0 type="stream" channelId="915" group-title="Кино", Amedia Premium HD
 https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1830" group-title="Кино", Astana TV
@@ -253,7 +252,7 @@ http://live.trkmillet.ru/millet/index.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", NST Настоящее страшное ТВ
 https://sc.id-tv.kz/NSTV_34_35.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="AKUDJI TV HD" group-title="Кино", AKUDJI TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", AKUDJI TV HD
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
