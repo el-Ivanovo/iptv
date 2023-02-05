@@ -49,6 +49,12 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Новое телевидение KZ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Q Kino Alem
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz:443/QKinoAlem
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Q Kino HIT
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz:443/QKinoHIT
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", 31 канал
 https://sc.id-tv.kz/31Kanal.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Ел Арна
@@ -73,6 +79,9 @@ https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Caspian News
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/CaspianNews_36_37.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Jibek Joly
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz:443/KAZAKHTV
 
 
 #Федеральные
@@ -216,6 +225,10 @@ https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Hollywood HD r
 http://185.32.44.154/hollywood/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Иллюзион+
+https://sc.id-tv.kz:443/IlluzionPlus
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Русский Иллюзион
+https://sc.id-tv.kz:443/RusIlluzion
 #EXTINF:0 type="stream" channelId="2923" group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кинозал 33
@@ -254,6 +267,9 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", AKUDJI TV HD
 http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Киноужас
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://sc.id-tv.kz:443/Kinouzhas_hd
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", START Air HD
@@ -266,6 +282,8 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 https://live.stv24.tv/svoetv/MQ_video.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Flix Snip
+https://sc.id-tv.kz:443/FlixSnip
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="1748" group-title="Кино", TVM Channel
