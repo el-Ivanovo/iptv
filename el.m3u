@@ -289,13 +289,15 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" group-title="Мусульманский канал" catchup-enable="0",Хузур ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Мусульманский канал/Радио" catchup-enable="0", Мир Радио (Ислам)
+
+
+#EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Мир Радио (Ислам)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://miradio.s02.radio-tochka.com:6095/radio
-#EXTINF:-1 group-title="Мусульманский канал/Радио" catchup-enable="0", Исламское Радио
+#EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Исламское Радио
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://pub0102.101.ru:8443/stream/personal/aacp/64/756167
-#EXTINF:-1 group-title="Мусульманский канал/Радио" catchup-enable="0", Азан (Ислам)
+#EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Азан (Ислам)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://hls-iptv.tattelecom.ru/hls/huzur/radio/s1/azan.m3u8
 
