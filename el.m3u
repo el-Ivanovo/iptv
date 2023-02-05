@@ -45,6 +45,7 @@ https://sc.id-tv.kz/KTK.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQSTAN
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#https://sc.id-tv.kz/Qazaqstan_international_HD_36_37.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Новое телевидение KZ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
@@ -358,6 +359,16 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Viasat Sport HD
 https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", INSPORT HD
+https://sc.id-tv.kz/INSPORTHD.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", M-1
+https://sc.id-tv.kz:443/M-1
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Q Sport HD
+https://sc.id-tv.kz:443/Q_Sport_HD
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 1 HD
+https://sc.id-tv.kz:443/Eurosport_1HD
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 2 HD
+https://sc.id-tv.kz:443/Eurosport_2HD
 
 
 #Познавательные
