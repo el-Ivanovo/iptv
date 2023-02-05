@@ -291,7 +291,7 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/playlist.m3u8
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="xuzur-tv" group-title="Мусульманский канал" catchup-enable="0", Мир Радио (Ислам)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-http://s02.radio-tochka.com:6090/radio
+https://miradio.s02.radio-tochka.com:6095/radio
 
 #Радио
 
