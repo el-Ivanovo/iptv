@@ -303,6 +303,9 @@ https://str5.pcradio.ru/vatan-med
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Азан
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://hls-iptv.tattelecom.ru/hls/huzur/radio/s0/azan.m3u8
+#EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", test
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://www.youtube.com/watch?v=zzteYM2Xv0M&list=PLYpyzisv5Ga6Iy1brXCDeUJFaBCu1F0vH&index=6
 
 
 #Радио
