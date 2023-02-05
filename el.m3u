@@ -184,6 +184,8 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4518" group-title="Кино", Star Cinema
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/480p.m3u8
+#EXTINF:0 type="stream" channelId="4518" group-title="Кино", BOLT
+https://okkotv-live.cdnvideo.ru/dash/bolt_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="413" group-title="Кино", Киносвидание HD
 http://95.217.196.109:8081/russia/kinosvidanie_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="315" group-title="Кино", Наше новое кино
@@ -332,8 +334,6 @@ http://85.29.144.124:8000/;audio.mp3?1675355024767
 #Спорт
 
 
-#EXTINF:0 type="stream" channelId="-1" name="Red Bull TV HD" group-title="Спортивные", Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:0 type="stream" channelId="156" group="Спортивные", Extreme sports
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1827" group-title="Спортивные", Бокс ТВ
@@ -344,6 +344,8 @@ https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", KHL HD
 https://okkotv-live.cdnvideo.ru/channel/KHL_HD_2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", KHL PRIME HD
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Start Triumph HD
 https://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Старт 
@@ -354,6 +356,8 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Матч! ПЛАНЕТА
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Viasat Sport HD
+https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
 
 
 #Познавательные
