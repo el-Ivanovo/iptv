@@ -364,6 +364,8 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA Инкогнита
+https://mhd116.iptv2022.com/p/S0xDtp9aRkdL1Gx_FmqZ7g,1675700082/streaming/terra/324/1/index.m3u8
 #EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
