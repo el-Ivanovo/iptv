@@ -1,10 +1,7 @@
 #EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
-#
-# 1-20
 
 
 #Региональные
-
 
 
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Региональные" catchup-enable="0",Грозный HD
@@ -28,7 +25,6 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?h
 #EXTINF:-1 tvg-id="maidantv" group-title="Региональные" catchup-enable="1" , Матур ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
-
 
 
 #Казахские
@@ -73,7 +69,6 @@ https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Caspian News
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/CaspianNews_36_37.m3u8
-
 
 
 #Федеральные
@@ -131,7 +126,6 @@ http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:0 type="stream" channelId="77", ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/tnt4.m3u8
-
 
 
 #Кино
@@ -283,12 +277,15 @@ https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/playlist.m3u8
 
 
-
 #Мусульманские
+
 
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" group-title="Мусульманский канал" catchup-enable="0",Хузур ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+
+
+#Исламское Радио
 
 
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Мир Радио (Ислам)
@@ -304,7 +301,9 @@ https://str5.pcradio.ru/vatan-med
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://hls-iptv.tattelecom.ru/hls/huzur/radio/s0/azan.m3u8
 
+
 #Радио
+
 
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Радио" catchup-enable="0",Радио Грозный
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
@@ -354,9 +353,6 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Матч! ПЛАНЕТА
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-
-
-
 
 
 #Познавательные
