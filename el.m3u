@@ -379,7 +379,9 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", INSPORT HD
 https://sc.id-tv.kz/INSPORTHD.m3u8
-#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", M-1
+#EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTINF:-1 type="stream" channelId="1333" group-title="Спортивные", M-1
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz:443/M-1
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Q Sport HD
 https://sc.id-tv.kz:443/Q_Sport_HD
@@ -400,6 +402,9 @@ https://mhd116.iptv2022.com/p/S0xDtp9aRkdL1Gx_FmqZ7g,1675700082/streaming/terra/
 #EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+#EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://185.32.44.154/discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="67" group-title="Познавательные", TLC
 https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="596" group-title="Познавательные", Travel + Adventure HD
