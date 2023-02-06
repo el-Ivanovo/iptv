@@ -269,7 +269,7 @@ https://sc.id-tv.kz/NSTV_34_35.m3u8
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Киноужас
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz:443/Kinouzhas_hd
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", START Air HD
@@ -283,7 +283,7 @@ https://live.stv24.tv/svoetv/MQ_video.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Flix Snip
-https://sc.id-tv.kz:443/FlixSnip
+https://sc.id-tv.kz:443/FlixSnip_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="1748" group-title="Кино", TVM Channel
@@ -378,16 +378,16 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Viasat Sport HD
 https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", INSPORT HD
-https://sc.id-tv.kz/INSPORTHD.m3u8
+https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
 #EXTINF:-1 type="stream" channelId="1333" group-title="Спортивные", M-1
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sc.id-tv.kz/M-1_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Q Sport HD
-https://sc.id-tv.kz:443/Q_Sport_HD
+https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 1 HD
-https://sc.id-tv.kz:443/Eurosport_1HD
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 2 HD
-https://sc.id-tv.kz:443/Eurosport_2HD
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 
 
 #Познавательные
