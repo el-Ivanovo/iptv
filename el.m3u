@@ -267,9 +267,9 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", AKUDJI TV HD
 http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Киноужас
+#EXTINF:-1 type="stream" channelId="-1" group-title="Кино", Киноужас
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8?hls_proxy_host=f1000e6461d9bb38c984a45330f11f82
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", START Air HD
