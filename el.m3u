@@ -379,7 +379,7 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", INSPORT HD
 https://sc.id-tv.kz/INSPORTHD_34_35.m3u8?token-eb8d5626ff8b7781e3a2ec6c3990785697adb99f
-XT#EINF:-1 type="stream" group-title="Спортивные", MMA-TV
+#EXTINF:0 type="stream" group-title="Спортивные", MMA-TV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Q Sport HD
