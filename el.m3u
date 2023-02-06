@@ -34,14 +34,17 @@ http://185.78.112.46:8077/9-volna/index.m3u8
 
 
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Astana TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/playlist.m3u8
 #https://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", КТК
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w204355752_b3064000_slrus.m3u8
-https://sc.id-tv.kz/KTK.m3u8
+https://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQSTAN
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
@@ -50,38 +53,42 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Q Kino Alem
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz:443/QKinoAlem
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz:443/QKinoAlem_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Q Kino HIT
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz:443/QKinoHIT
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz:443/QKinoHIT_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", 31 канал
-https://sc.id-tv.kz/31Kanal.m3u8
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Ел Арна
-https://sc.id-tv.kz/ElArna.m3u8
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Рика ТВ
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/chunklist.m3u8?hls_proxy_host=f1000e6461d9bb38c984a45330f11f82
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz/Khabar.m3u8
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Khabar_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", 7 Канал
-https://sc.id-tv.kz/7_kanal.m3u8
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Hit Tv
-https://sc.id-tv.kz/HitTV.m3u8
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/HitTV_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Qazaq TV
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://live-qazaqtv.cdnvideo.ru/qazaqtv-test/qazaqtvtest.smil/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Aktobe TV
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Caspian News
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz/CaspianNews_36_37.m3u8
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/CaspianNews_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Jibek Joly
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz:443/KAZAKHTV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz:443/KAZAKHTV_34_35.m3u8
 
 
 #Федеральные
