@@ -378,16 +378,16 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Viasat Sport HD
 https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", INSPORT HD
-https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
+https://sc.id-tv.kz/INSPORTHD_34_35.m3u8?token-eb8d5626ff8b7781e3a2ec6c3990785697adb99f
 #EXTINF:-1 type="stream" channelId="1333" group-title="Спортивные", M-1
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://sc.id-tv.kz/M-1_34_35.m3u8
+https://sc.id-tv.kz/M-1_34_35.m3u8?token-eb8d5626ff8b7781e3a2ec6c3990785697adb99f
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Q Sport HD
-https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
+https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8?token-eb8d5626ff8b7781e3a2ec6c3990785697adb99f
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 1 HD
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8?token-eb8d5626ff8b7781e3a2ec6c3990785697adb99f
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 2 HD
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8?token-eb8d5626ff8b7781e3a2ec6c3990785697adb99f
 
 
 #Познавательные
