@@ -48,6 +48,7 @@ https://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQSTAN
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+https://sc.id-tv.kz:443/Qazaqstan_international_HD
 #https://sc.id-tv.kz/Qazaqstan_international_HD_36_37.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Новое телевидение KZ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
@@ -438,6 +439,9 @@ https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 2 HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Match Planeta
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
 
 
 #Познавательные
