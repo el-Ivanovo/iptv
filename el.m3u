@@ -366,7 +366,9 @@ http://live.mplus.fm:8000/radio
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Радио Ватан
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://str5.pcradio.ru/vatan-med
-
+#EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Quran Live Radio
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://str2.pcradio.ru/quran_live-med
 
 
 #Радио
