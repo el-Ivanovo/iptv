@@ -390,7 +390,7 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?h
 
 #EXTINF:0 type="stream" channelId="156" group="Спортивные", Extreme sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
+https://sc.id-tv.kz:443/ExtremeSportsHD_36_37.m3u8
 #EXTINF:0 type="stream" channelId="1827" group-title="Спортивные", Бокс ТВ
 https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
 #EXTINF:0 type="stream" channelId="4" group-title="Спортивные", Матч HD
@@ -416,22 +416,22 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", INSPORT HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/INSPORTHD
+https://sc.id-tv.kz:443/INSPORTHD_36_37.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", MMA-TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/M-1_34_35.m3u8
+https://sc.id-tv.kz:443/M-1_36_37.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Q Sport HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
+https://sc.id-tv.kz:443/Q_Sport_HD_36_37.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+https://sc.id-tv.kz:443/Eurosport_1HD_36_37.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+https://sc.id-tv.kz:443/Eurosport_2HD_36_37.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Match Planeta
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
+https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
 
 #Познавательные
 
@@ -439,12 +439,12 @@ https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+https://sc.id-tv.kz/Disc_chHD_36_37.m3u8
 #EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery Science
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 http://185.32.44.154/discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="67" group-title="Познавательные", TLC
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
+https://sc.id-tv.kz/TLCHD_36_37.m3u8
 #EXTINF:0 type="stream" channelId="596" group-title="Познавательные", Travel + Adventure HD
 http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Усадьба
