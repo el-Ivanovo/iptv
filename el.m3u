@@ -19,15 +19,8 @@ https://live.rusevertv.ru/rs/1080/s.m3u8
 #EXTINF:-1 tvg-id="tnv" group-title="Региональные" catchup-enable="1" tvg-logo="https://tnv.ru/local/static/images/logo.svg", ТНВ-Татарстан
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
-#EXTINF:-1 tvg-id="maidantv" group-title="Региональные" catchup-enable="1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
-#EXTINF:-1 tvg-id="maidantv" group-title="Региональные" catchup-enable="1" , Матур ТВ
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="maidantv" group-title="Региональные" catchup-enable="1" , 9 Волна
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://185.78.112.46:8077/9-volna/index.m3u8
+
+
 
 
 #Казахские
@@ -165,6 +158,7 @@ http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:0 type="stream" channelId="77", ТНТ4
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/tnt4.m3u8
+
 
 
 #Кино
@@ -402,6 +396,21 @@ https://hls-01-regions.emgsound.ru/11_kazakhstan/32/playlist.m3u8
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Актобе
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://85.29.144.124:8000/;audio.mp3?1675355024767
+
+
+
+
+#Музыкальные
+
+#EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" , Матур ТВ
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" , 9 Волна
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://185.78.112.46:8077/9-volna/index.m3u8
+#EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 
 
 #Спорт
