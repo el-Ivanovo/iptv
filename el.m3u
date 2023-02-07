@@ -1,9 +1,6 @@
 #EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-
 #Региональные
-
-
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Региональные" catchup-enable="0",Грозный HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
@@ -19,13 +16,7 @@ https://live.rusevertv.ru/rs/1080/s.m3u8
 #EXTINF:-1 tvg-id="tnv" group-title="Региональные" catchup-enable="1" tvg-logo="https://tnv.ru/local/static/images/logo.svg", ТНВ-Татарстан
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
-
-
-
-
 #Казахские
-
-
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
@@ -101,11 +92,7 @@ https://sc.id-tv.kz/CaspianNews_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Jibek Joly
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/KAZAKHTV_34_35.m3u8
-
-
 #Федеральные
-
-
 #EXTINF:-1 tvg-id="pervy" tvg-name="pervy" catchup-enable="0",Первый канал
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
@@ -158,12 +145,7 @@ http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:0 type="stream" channelId="77", ТНТ4
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/tnt4.m3u8
-
-
-
 #Кино
-
-
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", .red
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
@@ -338,19 +320,11 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Star Family HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/playlist.m3u8
-
-
 #Мусульманские
-
-
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" group-title="Мусульманский канал" catchup-enable="0",Хузур ТВ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-
-
 #Исламское Радио
-
-
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Мир Радио (Ислам)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://miradio.s02.radio-tochka.com:6095/radio
@@ -369,12 +343,7 @@ http://144.76.84.153:21500/;
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Радио Нашиды 1
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://radio.garden/api/ara/content/listen/Aj1alN5G/channel.mp3?r=1&1675768029847
-
-
-
 #Радио
-
-
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Радио" catchup-enable="0",Радио Грозный
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8
@@ -396,12 +365,7 @@ https://hls-01-regions.emgsound.ru/11_kazakhstan/32/playlist.m3u8
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Актобе
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://85.29.144.124:8000/;audio.mp3?1675355024767
-
-
-
-
 #Музыкальные
-
 #EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" , Матур ТВ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
@@ -411,11 +375,7 @@ http://185.78.112.46:8077/9-volna/index.m3u8
 #EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
-
-
 #Спорт
-
-
 #EXTINF:0 type="stream" channelId="156" group="Спортивные", Extreme sports
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
@@ -460,12 +420,7 @@ https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Match Planeta
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
-
-
 #Познавательные
-
-
-
 #EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA Инкогнита
