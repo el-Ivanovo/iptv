@@ -397,9 +397,9 @@ https://sc.id-tv.kz:443/BoksTV_34_35.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", KHL HD
+#EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1006_smarttv_1634289428169.png" group-title="Спортивные", KHL HD
 https://okkotv-live.cdnvideo.ru/channel/KHL_HD_2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", KHL PRIME HD
+#EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1006_smarttv_1634289428169.png" group-title="Спортивные", KHL PRIME HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Start Triumph HD
@@ -420,7 +420,7 @@ https://sc.id-tv.kz:443/INSPORTHD_34_35.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1554_smarttv_1578560562349.png" group-title="Спортивные", MMA-TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
-#EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Q Sport HD
+#EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1831_smarttv_1652431800157.png" group-title="Спортивные", Q Sport HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 1 HD
@@ -429,7 +429,7 @@ https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
-#EXTINF:0 type="stream" tvg-logo=""https://smart-tv.id-tv.kz/pictures/channelposter_997_smarttv_1550458382916.png"" group-title="Спортивные", Match Planeta
+#EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_997_smarttv_1550458382916.png"" group-title="Спортивные", Match Planeta
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
 
