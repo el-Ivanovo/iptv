@@ -77,6 +77,24 @@ https://sc.id-tv.kz/7_kanal_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Hit Tv
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/HitTV_34_35.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Toi Duman
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/ToiDuman.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Munara TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/MunaraTV.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Turkistan
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Turkistan.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", NTK
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/NTK.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", TALIMTV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/TALIMTV.m3u8
+#EXTINF:-1 group-title="Казахские" catchup-enable="0", Otyrar
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://sc.id-tv.kz/Otyrar.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Qazaq TV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://live-qazaqtv.cdnvideo.ru/qazaqtv-test/qazaqtvtest.smil/playlist.m3u8
