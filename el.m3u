@@ -372,6 +372,9 @@ https://str2.pcradio.ru/quran_live-med
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Радио Нашиды
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://144.76.84.153:21500/;
+#EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Радио Нашиды
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+https://radio.garden/api/ara/content/listen/Aj1alN5G/channel.mp3?r=1&1675768029847
 
 
 
