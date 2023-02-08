@@ -3,125 +3,125 @@
 #Региональные
 
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Региональные" catchup-enable="7" tvg-rec="7", Грозный HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-id="ingushetia" tvg-name="Ингушетия" group-title="Региональные" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/e/e9/%D0%9D%D0%A2%D0%A0%D0%9A_%C2%AB%D0%98%D0%BD%D0%B3%D1%83%D1%88%D0%B5%D1%82%D0%B8%D1%8F%C2%BB.png" catchup-enable="0",Ингушетия
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan" group-title="Региональные" catchup-enable="1" tvg-logo="https://online-red.com/images/tv/rgvk-dagestan.png", РГВК Дагестан
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://dgndvr.mediacdn.ru/dvr/dagestan/playlist_hdlow.m3u8
 #EXTINF:-1 tvg-id="russky-sever" group-title="Региональные" catchup-enable="1" tvg-logo="https://sun3-11.userapi.com/lhXPWF9IwW5B38db4d-vqA56eBQPC0G_fCKBEQ/M8MxOElTj40.jpg", Русский Север
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://live.rusevertv.ru/rs/1080/s.m3u8
 #EXTINF:-1 tvg-id="tnv" group-title="Региональные" catchup-enable="1" tvg-logo="https://tnv.ru/local/static/images/logo.svg", ТНВ-Татарстан
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
 #Казахские
 
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Astana TV
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/playlist.m3u8
 #https://sc.id-tv.kz/Astana_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", КТК
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w204355752_b3064000_slrus.m3u8
 https://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQSTAN
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 https://sc.id-tv.kz:443/Qazaqstan_international_HD
 #https://sc.id-tv.kz/Qazaqstan_international_HD_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Новое телевидение KZ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Q Kino Alem
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/QKinoAlem_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Q Kino HIT
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/QKinoHIT_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", 31 канал
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Ел Арна
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Рика ТВ
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/chunklist.m3u8?hls_proxy_host=f1000e6461d9bb38c984a45330f11f82
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Khabar_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", 7 Канал
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/7_kanal_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Hit Tv
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/HitTV_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Toi Duman
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/ToiDuman_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Munara TV
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/MunaraTV.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Turkistan
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Turkistan.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", NTK
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/NTK.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", TALIMTV
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/TALIMTV_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Otyrar
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Otyrar_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Qazaq TV
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://live-qazaqtv.cdnvideo.ru/qazaqtv-test/qazaqtvtest.smil/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Aktobe TV
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Caspian News
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/CaspianNews_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Jibek Joly
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/KAZAKHTV_34_35.m3u8
 
 #Федеральные
 
 #EXTINF:-1 group-title="Федеральные" tvg-id="pervy" tvg-name="pervy" catchup-enable="0", Первый канал
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные" tvg-id="russia1" tvg-name="russia1" catchup-enable="0", Россия 1
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="russiak" tvg-name="russiak" catchup-enable="0", Россия K
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="russia24" tvg-name="russia24" catchup-enable="0", Россия 24
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="ntv0" tvg-name="ntv0" catchup-enable="0", НТВ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://188.242.232.210:81/udp/239.239.1.3:5239
 #EXTINF:-1 group-title="Федеральные" tvg-id="ntv0" tvg-name="ntv0" catchup-enable="0", ПЕРВЫЙ КРЫМСКИЙ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://mrlive.1tvcrimea.ru/1tvcrimea.m3u8
 https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv0h/playlist.m3u8?cdn=https%3A%2F%2Fntv-live-megafon.mediavitrina.ru&token=v2.x8zNjudtMMUoTZhTu1Uv2lXQBFsFjzQjx9E2YVeN44k.ZdqvP44Ku5SOSDgPP04bHLqlnmWK5N0ImwTBRgE09dE.1674911058.03bcc09ebe71548fa8554a7314fd3cfe
 #EXTINF:-1 group-title="Федеральные" tvg-id="tv5" tvg-name="tv5" catchup-enable="0", 5 канал
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="CTC" tvg-name="CTC" catchup-enable="0", СТС
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:0 group-title="Федеральные" type="stream" channelId="1104", Известия HD
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
@@ -146,7 +146,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="Федеральные" type="stream" channelId="9", РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:0 group-title="Федеральные" type="stream" channelId="77", ТНТ4
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/tnt4_34_35.m3u8
 
 #Кино
@@ -154,7 +154,7 @@ https://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", .red
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUS TV HD
 http://stream.backustv.ru/live/btv/index.m3u8
@@ -179,7 +179,7 @@ https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1628" group-title="Кино", Русский Детектив
 http://78.25.155.47:1309/channel/rus_d.ts
 #EXTINF:0 type="stream" channelId="394" group-title="Кино", НТК
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/NTK_34_35.m3u8
 #EXTINF:0 type="stream" channelId="65" group-title="Кино", TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
@@ -208,49 +208,49 @@ https://okkotv-live.cdnvideo.ru/dash/bolt_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="413" group-title="Кино", Киносвидание HD
 http://95.217.196.109:8081/russia/kinosvidanie_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="315" group-title="Кино", Наше новое кино
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://46.181.193.122:81/udp/239.255.42.142:1234
 https://sc.id-tv.kz/Nnk_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="270"  group-title="Кино", Киномикс HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="316" group-title="Кино", Родное Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2959" group=title="Кино", Film Box
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Киносемья FHD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="195" group-title="Кино", КИНОСЕРИЯ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Kinoseriya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="409" group-title="Кино", Кинохит HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="270" group-title="Кино", Киномикс HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кинопремьера FHD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="194" group-title="Кино", Кинокомедия
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="168" group-title="Кино", Индийское кино
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2802" group-title="Кино", Bollywood HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Hollywood HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://185.32.44.154/hollywood/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Иллюзион+
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/IlluzionPlus_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Русский Иллюзион
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2923" group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -265,10 +265,10 @@ https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:0 type="stream" channelId="914" group-title="Кино", A2 HD
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:0 type="stream" channelId="915" group-title="Кино", Amedia Premium HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1830" group-title="Кино", Astana TV
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Astana_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Kinoklub
 http://autopilot.catcast.tv/content/39005/index.m3u8
@@ -279,7 +279,7 @@ http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Память SSSR
 https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Победа
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Север HD
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
@@ -294,7 +294,7 @@ https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", AKUDJI TV HD
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group-title="Кино", Киноужас
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Kinouzhas_hd.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
@@ -329,67 +329,67 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/playlist.m3u8
 #Мусульманские
 
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" group-title="Мусульманский канал" catchup-enable="0", Хузур ТВ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
 #Исламское Радио
 
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Мир Радио (Ислам)
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://miradio.s02.radio-tochka.com:6095/radio
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", MPlus FM
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://live.mplus.fm:8000/radio
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Радио Ватан
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://str5.pcradio.ru/vatan-med
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Quran Live Radio
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://str2.pcradio.ru/quran_live-med
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Радио Нашиды
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://144.76.84.153:21500/;
 
 #Радио
 
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Радио" catchup-enable="0",Радио Грозный
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8
 #EXTINF:-1  group-title="Радио" catchup-enable="0",Радио Ингушетии
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://77.87.97.62:8086/ingradio?1582880552334
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Кавказ ХИТ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://77.39.8.153:3304/radio_mount
 #EXTINF:-1  group-title="Радио" catchup-enable="0",Радио Астана
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Жулдыз ФМ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://91.201.214.229:8000/zhulduz
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Казахское Радио
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://hls-01-regions.emgsound.ru/11_kazakhstan/32/playlist.m3u8
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Актобе
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://85.29.144.124:8000/;audio.mp3?1675355024767
 
 #Музыкальные
 
 #EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" , Матур ТВ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" , 9 Волна
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://185.78.112.46:8077/9-volna/index.m3u8
 #EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 
 #Спорт
 
 #EXTINF:0 type="stream" channelId="156" group="Спортивные", Extreme sports
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1827" group-title="Спортивные", Бокс ТВ
 https://sc.id-tv.kz:443/BoksTV_34_35.m3u8
@@ -400,7 +400,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1006_smarttv_1634289428169.png" group-title="Спортивные", KHL HD
 https://okkotv-live.cdnvideo.ru/channel/KHL_HD_2/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1006_smarttv_1634289428169.png" group-title="Спортивные", KHL PRIME HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Start Triumph HD
 https://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/playlist.m3u8
@@ -421,16 +421,16 @@ https://sc.id-tv.kz:443/INSPORTHD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW)
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1831_smarttv_1652431800157.png" group-title="Спортивные", Q Sport HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 1 HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 2 HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_997_smarttv_1550458382916.png"" group-title="Спортивные", Match Planeta
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
 
 #Познавательные
@@ -438,26 +438,26 @@ https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
 #EXTINF:0 type="stream" channelId="206" group-title="Познавательные", TERRA
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="57" group-title="Познавательные", Discovery Science
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://185.32.44.154/discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="67" group-title="Познавательные", TLC
 https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="596" group-title="Познавательные", Travel + Adventure HD
 http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Усадьба
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:-1 type="stream" group-title="Познавательные", Охота и Рыбалка
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://78.25.155.47:1309/channel/Ohota_i_rib.ts
 #EXTINF:0 type="stream" channelId="72" group-title="Познавательные", Рыбалка и охота
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Ribalka_Ohota_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Познавательные", T-24
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://195.26.83.96:7024/play/83
 #EXTINF:0 type="stream" channelId="-1" name="RTД HD" group-title="Познавательные", RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
@@ -466,12 +466,12 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 type="stream" channelId="1456" group-title="Познавательные", History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0 type="stream" channelId="1282" group-title="Познавательные", Авто24
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Avto24_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="323" group-title="Познавательные", МУЖСКОЙ
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="2035" group="Познавательные", LOVE Nature
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Познавательные", Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
@@ -482,110 +482,110 @@ https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:0 type="stream" channelId="4644" group-title="Познавательные", Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4118", Viasat Explore HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Наука
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://31.148.48.15/Nauka_2.0/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 type="stream" group-title="Познавательные", Просвещение
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Viasat Explore HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Da Vinci
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Nano HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-nano.cdnvideo.ru/Nano_HD_poz/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Viasat History
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Viasat Nature
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Ратник ТВ
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://live-okkotv.cdnvideo.ru/ratnik/ratnik_5q.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Моя Планета
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Драйв
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
 #EXTINF:0 type="stream" group-title="Познавательные", Большая азия
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://109.197.192.121:8080/bigasia/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Nat Geo Wild
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Galaxy
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
 #EXTINF:0 type="stream" group-title="Познавательные", Natgeo
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://190.2.143.146/natgeo/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Туран
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/TuranTV_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Министерство идей
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Univer TV HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Живая Планета
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://109.171.45.109:81/udp/239.54.5.166:1224
 #EXTINF:0 type="stream" group-title="Познавательные", Кухня ТВ HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", ЕДА HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Живая природа HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
 #EXTINF:0 type="stream" group-title="Познавательные", ТВ Экстра HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Родной канал HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Любимый HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Надежда
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8?hls_proxy_host=a8b876ccbc510550c20ccdb22a311ba2
 #EXTINF:0 type="stream" group-title="Познавательные", CGTN Русский
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Конний мир
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Luxury
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Mezzo Life
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/mezzo_life_hd_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Бобер
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/bober_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Доктор
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://195.26.83.96:7024/play/69
 #EXTINF:0 type="stream" group-title="Познавательные", HDL
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Поехали
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:0 type="stream" channelId="162" group-title="Познавательные", ТЕХНО 24
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:0 type="stream" channelId="162" group-title="Познавательные", Русский экстрим
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/SymbianOS/22.478; U; en) Presto/2.5.25 Version/10.54
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
