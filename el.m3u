@@ -415,10 +415,10 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Viasat Sport HD
 https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1865_smarttv_1662953899752.png" group-title="Спортивные", INSPORT HD
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/27.1407; U; en) Presto/2.8.119 Версия/11.10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW)
 https://sc.id-tv.kz:443/INSPORTHD.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1554_smarttv_1578560562349.png" group-title="Спортивные", MMA-TV
-#EXTVLCOPT:http-user-agent=Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/27.1407; U; en) Presto/2.8.119 Версия/11.10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW)
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1831_smarttv_1652431800157.png" group-title="Спортивные", Q Sport HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
