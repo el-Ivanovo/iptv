@@ -418,11 +418,11 @@ https://okkotv-live.cdnvideo.ru/dash/viasat_sport_hd/playlist.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://sc.id-tv.kz:443/INSPORTHD.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1554_smarttv_1578560562349.png" group-title="Спортивные", MMA-TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/M-1_36_37.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/109.0.5414.112 Mobile/15E148 Safari/604.1
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1831_smarttv_1652431800157.png" group-title="Спортивные", Q Sport HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://sc.id-tv.kz:443/Q_Sport_HD.m3u8
+https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1333" group-title="Спортивные", Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
