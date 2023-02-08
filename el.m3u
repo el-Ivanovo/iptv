@@ -401,9 +401,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 https://okkotv-live.cdnvideo.ru/channel/KHL_HD_2/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1006_smarttv_1634289428169.png" group-title="Спортивные", KHL PRIME HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
-https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/KHL_PRIME_HD.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Start Triumph HD
-https://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/playlist.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Старт 
 https://okkotv-live.cdnvideo.ru/channel/Start/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Матч! ФУТБОЛ 1 HD
