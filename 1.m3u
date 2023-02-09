@@ -1,4 +1,9 @@
 #EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="default" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+
+
+#Кино
+
+
 #EXTINF:-1 group-title="Кино",TV1000 HD
 #EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
@@ -65,3 +70,30 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1 group-title="Кино",САПФИР
 #EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+
+
+#Спорт
+
+
+
+#EXTINF:-1 group-title="Спорт",Матч HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1 group-title="Спорт",KHL HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/KHL_HD_2/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",KHL Prime
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/KHL_PRIME_HD.m3u8
+#EXTINF:-1 group-title="Спорт",СТАРТ
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Start/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",СТАРТ ТРИУМФ HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
+
+
+
