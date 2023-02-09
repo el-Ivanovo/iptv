@@ -35,7 +35,7 @@ https://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQSTAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
-https://sc.id-tv.kz:443/Qazaqstan_international_HD
+#https://sc.id-tv.kz:443/Qazaqstan_international_HD
 #https://sc.id-tv.kz/Qazaqstan_international_HD_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Новое телевидение KZ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
