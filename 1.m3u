@@ -1,45 +1,45 @@
 #EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="default" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #EXTINF:-1 group-title="Кино",TV1000 HD
-https://okkotv-live.cdnvideo.ru/dash/tv1000_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/tv1000_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 ACTION HD
-https://okkotv-live.cdnvideo.ru/dash/tv1000_action_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/tv1000_action_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино HD
-https://okkotv-live.cdnvideo.ru/dash/tv1000_rus_kino_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/tv1000_rus_kino_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",А1
-https://okkotv-live.cdnvideo.ru/dash/a1_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/a1_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",А2
-https://okkotv-live.cdnvideo.ru/dash/a2_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/a2_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",ViP Premiere HD
-https://okkotv-live.cdnvideo.ru/dash/vip_premiere_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/vip_premiere_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",ViP Megahit HD
-https://okkotv-live.cdnvideo.ru/dash/vip_megahit_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/vip_megahit_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
-https://okkotv-live.cdnvideo.ru/dash/amedia_hit_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/amedia_hit_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium HD
-https://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/channel/amedia_premium_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
-https://okkotv-live.cdnvideo.ru/dash/vip_comedy_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/vip_comedy_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",ViP Serial
-https://okkotv-live.cdnvideo.ru/dash/vip_serial_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/vip_serial_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",START Air
-https://okkotv-live.cdnvideo.ru/dash/start_air/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/start_air/playlist.m3u8
 #EXTINF:-1 group-title="Кино",START World
-https://okkotv-live.cdnvideo.ru/dash/start_world/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/start_world/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Star Cinema
-https://okkotv-live.cdnvideo.ru/dash/star_cinema_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/star_cinema_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Star Family
-https://okkotv-live.cdnvideo.ru/dash/star_family_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/star_family_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",.black
-https://okkotv-live.cdnvideo.ru/dash/sony_turbo/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/sony_turbo/playlist.m3u8
 #EXTINF:-1 group-title="Кино",.red
-https://okkotv-live.cdnvideo.ru/dash/sony_et/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/sony_et/playlist.m3u8
 #EXTINF:-1 group-title="Кино",.Sci-Fi
-https://okkotv-live.cdnvideo.ru/dash/sony_scifi/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/sony_scifi/playlist.m3u8
 #EXTINF:-1 group-title="Кино",BOLT
-https://okkotv-live.cdnvideo.ru/dash/bolt_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/bolt_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",ФЕНИКС+КИНО
-https://okkotv-live.cdnvideo.ru/dash/Phoenix_HD/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино",КИНЕКО
-https://okkotv-live.cdnvideo.ru/dash/fox_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/fox_hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",САПФИР
-https://okkotv-live.cdnvideo.ru/dash/fox_life_hd/playlist.mpd
+https://okkotv-live.cdnvideo.ru/channel/fox_life_hd/playlist.m3u8
