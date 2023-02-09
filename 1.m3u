@@ -1,45 +1,67 @@
 #EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="default" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #EXTINF:-1 group-title="Кино",TV1000 HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 ACTION HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:-1 group-title="Кино",А1
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 group-title="Кино",А2
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:-1 group-title="Кино",ViP Premiere HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1 group-title="Кино",ViP Megahit HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium HD
-https://okkotv-live.cdnvideo.ru/channel/Amedia_premiere_HD.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
-https://okkotv-live.cdnvideo.ru/channel/vip_comedy_hd.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1 group-title="Кино",ViP Serial
-https://okkotv-live.cdnvideo.ru/channel/vip_serial_hd.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1 group-title="Кино",START Air
-https://okkotv-live.cdnvideo.ru/channel/start_air.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Start_Air.m3u8
 #EXTINF:-1 group-title="Кино",START World
-https://okkotv-live.cdnvideo.ru/channel/start_world.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Start_World.m3u8
 #EXTINF:-1 group-title="Кино",Star Cinema
-https://okkotv-live.cdnvideo.ru/channel/star_cinema_hd.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD.m3u8
 #EXTINF:-1 group-title="Кино",Star Family
-https://okkotv-live.cdnvideo.ru/channel/star_family_hd.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD.m3u8
 #EXTINF:-1 group-title="Кино",.black
-https://okkotv-live.cdnvideo.ru/channel/sony_turbo.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 group-title="Кино",.red
-https://okkotv-live.cdnvideo.ru/channel/sony_et.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 group-title="Кино",.Sci-Fi
-https://okkotv-live.cdnvideo.ru/channel/sony_scifi.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1 group-title="Кино",BOLT
-https://okkotv-live.cdnvideo.ru/channel/bolt_hd.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
 #EXTINF:-1 group-title="Кино",ФЕНИКС+КИНО
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
 #EXTINF:-1 group-title="Кино",КИНЕКО
-https://okkotv-live.cdnvideo.ru/channel/fox_hd.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1 group-title="Кино",САПФИР
-https://okkotv-live.cdnvideo.ru/channel/fox_life_hd.m3u8
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
