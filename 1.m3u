@@ -125,3 +125,71 @@ https://okkotv-nano.cdnvideo.ru/Nano_HD_poz/index.m3u8
 http://live-okkotv.cdnvideo.ru/ratnik/ratnik_5q.smil/playlist.m3u8
 
 
+
+#Казахские
+
+#EXTINF:-1 group-title="Казахские",Qazsport HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",31 Канал
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/icon/31kanal/31kanal_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Пьятница КЗ
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Казахстан
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/Qazaqstan_HD/Qazaqstan_HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Хабар
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/Khabar_HD/Khabar_HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",КТК
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK_480p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",НТК
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_NTK/SWM_NTK_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Астана
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Первый канал Евразия
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Кино Алем
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/KinoAlem/KinoAlem_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Той Думан
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/Toy_Duman/Toy_Duman_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",8 Канал
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_8/SWM_8_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Домашний
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/Domashniy_int/Domashniy_int_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Balapan
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/Balapan_HD/Balapan_HD_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Алматы
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_Almaty-Alt/SWM_Almaty-Alt_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Bilim
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_Bilim/SWM_Bilim_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",el Arna
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_Elarna/SWM_Elarna_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",5 Канал
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",7 Канал
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/SWM_7/SWM_7_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",AsylArna
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/SWM_AsylArna/SWM_AsylArna_576p_2000kbps.m3u8
+
+
+
+
+
