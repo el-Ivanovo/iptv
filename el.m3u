@@ -22,7 +22,7 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz:443/1KanalEvraziya.m3u8
+https://sc.id-tv.kz:443/1KanalEvraziya_34_35.m3u8
 #http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Astana TV
