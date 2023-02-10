@@ -84,7 +84,7 @@ https://edge02.beetv.kz/btv/SWM/SWM_AsylArna/SWM_AsylArna_576p_2000kbps.m3u8
 #Федеральные
 
 #EXTINF:-1 group-title="Федеральные" tvg-id="pervy" tvg-name="pervy" catchup-enable="0", Первый канал
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные" tvg-id="russia1" tvg-name="russia1" catchup-enable="0", Россия 1
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
