@@ -20,81 +20,66 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
 #Казахские
 
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Первый Канал Евразия
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Astana TV
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/playlist.m3u8
-#https://sc.id-tv.kz/Astana_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", КТК
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w204355752_b3064000_slrus.m3u8
-https://sc.id-tv.kz/KTK_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", QAZAQSTAN
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
-#https://sc.id-tv.kz:443/Qazaqstan_international_HD
-#https://sc.id-tv.kz/Qazaqstan_international_HD_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Новое телевидение KZ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Q Kino Alem
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz:443/QKinoAlem_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Q Kino HIT
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz:443/QKinoHIT_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", 31 канал
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/31Kanal_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Ел Арна
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/ElArna_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Рика ТВ
-https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/chunklist.m3u8?hls_proxy_host=f1000e6461d9bb38c984a45330f11f82
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
-https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Хабар 24
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/Khabar_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", 7 Канал
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/7_kanal_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Hit Tv
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/HitTV_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Toi Duman
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/ToiDuman_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Munara TV
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/MunaraTV.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Turkistan
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/Turkistan.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", NTK
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/NTK.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", TALIMTV
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/TALIMTV_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Otyrar
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/Otyrar_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Qazaq TV
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://live-qazaqtv.cdnvideo.ru/qazaqtv-test/qazaqtvtest.smil/playlist.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Aktobe TV
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Caspian News
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz/CaspianNews_34_35.m3u8
-#EXTINF:-1 group-title="Казахские" catchup-enable="0", Jibek Joly
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz:443/KAZAKHTV.m3u8
+#EXTINF:-1 group-title="Казахские",Qazsport HD
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",31 Канал
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/icon/31kanal/31kanal_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Пьятница КЗ
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Казахстан
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/Qazaqstan_HD/Qazaqstan_HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Хабар
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/Khabar_HD/Khabar_HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",КТК
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK_480p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",НТК
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_NTK/SWM_NTK_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Астана
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Первый канал Евразия
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Кино Алем
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/KinoAlem/KinoAlem_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Той Думан
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/Toy_Duman/Toy_Duman_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",8 Канал
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_8/SWM_8_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Домашний
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/Domashniy_int/Domashniy_int_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Balapan
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/Balapan_HD/Balapan_HD_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Алматы
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_Almaty-Alt/SWM_Almaty-Alt_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",Bilim
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_Bilim/SWM_Bilim_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",el Arna
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge01.beetv.kz/btv/SWM/SWM_Elarna/SWM_Elarna_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",5 Канал
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",7 Канал
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/SWM_7/SWM_7_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",AsylArna
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/SWM_AsylArna/SWM_AsylArna_576p_2000kbps.m3u8
 
 #Федеральные
 
