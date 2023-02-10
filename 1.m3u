@@ -151,10 +151,10 @@ https://edge01.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK_480p_2000kbps.m3u8
 https://edge01.beetv.kz/btv/SWM/SWM_NTK/SWM_NTK_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Казахские",Астана
 #EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
-https://edge02.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA_576p_2000kbps.m3u8
+https://edge02.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Казахские",Первый канал Евразия
 #EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
-https://edge01.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz_576p_2000kbps.m3u8
+https://edge01.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Казахские",Кино Алем
 #EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://edge01.beetv.kz/btv/SWM/KinoAlem/KinoAlem_576p_2000kbps.m3u8
