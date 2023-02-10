@@ -95,7 +95,7 @@ https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 https://sc.id-tv.kz/CaspianNews_34_35.m3u8
 #EXTINF:-1 group-title="Казахские" catchup-enable="0", Jibek Joly
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz:443/KAZAKHTV_34_35.m3u8
+https://sc.id-tv.kz:443/KAZAKHTV.m3u8
 
 #Федеральные
 
