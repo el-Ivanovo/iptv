@@ -132,7 +132,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:0 group-title="Федеральные" type="stream" channelId="77", ТНТ4
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/tnt4_34_35.m3u8
+https://sc.id-tv.kz/tnt4_34_35.m3u8
 
 #Кино
 
@@ -140,7 +140,7 @@ https://89.106.234.0-89.106.234.15/tnt4_34_35.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/FOX_HD_34_35.m3u8
+https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUS TV HD
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUSTV Страшное HD
@@ -150,7 +150,7 @@ http://hlss.goodgame.ru/hls/157239.m3u8
 #EXTINF:0 type="stream" channelId="342" group-title="Кино", Кино ТВ
 http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="181" group-title="Кино", Cinema
-https://89.106.234.0-89.106.234.15/Cinema_34_35.m3u8
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0 type="stream" channelId="205" group-title="Кино", Сапфир
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", .black
@@ -160,12 +160,12 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:0 type="stream" channelId="198", Русский Роман
 http://78.25.155.47:1309/channel/Rus_rom.ts
 #EXTINF:0 type="stream" channelId="147" group-title="Кино", ДОРАМА
-https://89.106.234.0-89.106.234.15/dorama_hd_34_35.m3u8
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1628" group-title="Кино", Русский Детектив
 http://78.25.155.47:1309/channel/rus_d.ts
 #EXTINF:0 type="stream" channelId="394" group-title="Кино", НТК
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/NTK_34_35.m3u8
+https://sc.id-tv.kz/NTK_34_35.m3u8
 #EXTINF:0 type="stream" channelId="65" group-title="Кино", TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:0 type="stream" channelId="66" name="TV1000 HD" group-title="Кино", TV1000 HD
@@ -195,48 +195,48 @@ http://95.217.196.109:8081/russia/kinosvidanie_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="315" group-title="Кино", Наше новое кино
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://46.181.193.122:81/udp/239.255.42.142:1234
-https://89.106.234.0-89.106.234.15/Nnk_hd_34_35.m3u8
+https://sc.id-tv.kz/Nnk_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="270"  group-title="Кино", Киномикс HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Kinomix_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="316" group-title="Кино", Родное Кино
-https://89.106.234.0-89.106.234.15/Rodnoe_kino_34_35.m3u8
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2959" group=title="Кино", Film Box
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Киносемья FHD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Kinosemiya_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="195" group-title="Кино", КИНОСЕРИЯ
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Kinoseriya_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinoseriya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="409" group-title="Кино", Кинохит HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Kinohit_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="270" group-title="Кино", Киномикс HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Kinomix_hd_34_35.m3u8?token=iptv.org.ua
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кинопремьера FHD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Kinopremiera_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="194" group-title="Кино", Кинокомедия
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Kinokomediya_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="168" group-title="Кино", Индийское кино
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/Indiiskoe_kino_34_35.m3u8
+https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2802" group-title="Кино", Bollywood HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/bollywood_hd_34_35.m3u8
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Hollywood HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://185.32.44.154/hollywood/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Иллюзион+
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/IlluzionPlus_34_35.m3u8
+https://sc.id-tv.kz:443/IlluzionPlus_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Русский Иллюзион
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/RusIlluzion_34_35.m3u8
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:0 type="stream" channelId="2923" group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кинозал 33
@@ -251,10 +251,10 @@ https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:0 type="stream" channelId="915" group-title="Кино", Amedia Premium HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/amedia_pr_hd_34_35.m3u8
+https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1830" group-title="Кино", Astana TV
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Astana_34_35.m3u8
+https://sc.id-tv.kz/Astana_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Kinoklub
 http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино", ВидеокассетА
@@ -265,7 +265,7 @@ http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Победа
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Pobeda_34_35.m3u8
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Север HD
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Cinema Classic TV
@@ -275,12 +275,12 @@ http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", NST Настоящее страшное ТВ
-https://89.106.234.0-89.106.234.15/NSTV_34_35.m3u8
+https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", AKUDJI TV HD
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group-title="Кино", Киноужас
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/Kinouzhas_hd.m3u8
+https://sc.id-tv.kz:443/Kinouzhas_hd.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", START Air HD
@@ -294,7 +294,7 @@ https://live.stv24.tv/svoetv/MQ_video.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Flix Snip
-https://89.106.234.0-89.106.234.15:443/FlixSnip_34_35.m3u8
+https://sc.id-tv.kz:443/FlixSnip_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="1748" group-title="Кино", TVM Channel
@@ -375,9 +375,9 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?h
 
 #EXTINF:0 type="stream" group="Спортивные", Extreme sports
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/ExtremeSportsHD_34_35.m3u8
+https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Бокс ТВ
-https://89.106.234.0-89.106.234.15:443/BoksTV_34_35.m3u8
+https://sc.id-tv.kz:443/BoksTV_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Матч HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Red Bull TV
@@ -401,22 +401,22 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1865_smarttv_1662953899752.png" group-title="Спортивные", INSPORT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW)
-https://89.106.234.0-89.106.234.15:443/INSPORTHD_576p_2000kbps.m3u8
+https://sc.id-tv.kz:443/INSPORTHD_34_35.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1554_smarttv_1578560562349.png" group-title="Спортивные", MMA-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW)
-https://89.106.234.0-89.106.234.15:443/M-1_34_35.m3u8
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1831_smarttv_1652431800157.png" group-title="Спортивные", Q Sport HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/Q_Sport_HD_34_35.m3u8
+https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/Eurosport_1HD_34_35.m3u8
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/Eurosport_2HD_34_35.m3u8
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_997_smarttv_1550458382916.png"" group-title="Спортивные", Match Planeta
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/MatchPlaneta_34_35.m3u8
+https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
 
 #Познавательные
 
@@ -424,12 +424,12 @@ https://89.106.234.0-89.106.234.15:443/MatchPlaneta_34_35.m3u8
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Discovery
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/Disc_chHD_34_35.m3u8
+https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Discovery Science
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://185.32.44.154/discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", TLC
-https://89.106.234.0-89.106.234.15/TLCHD_34_35.m3u8
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Travel + Adventure HD
 http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Усадьба
@@ -440,7 +440,7 @@ http://94.230.240.17:8080/usadba/index.m3u8
 http://78.25.155.47:1309/channel/Ohota_i_rib.ts
 #EXTINF:0 type="stream" group-title="Познавательные", Рыбалка и охота
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/Ribalka_Ohota_34_35.m3u8
+https://sc.id-tv.kz:443/Ribalka_Ohota_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", T-24
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://195.26.83.96:7024/play/83
@@ -452,9 +452,9 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Авто24
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/Avto24_34_35.m3u8?token=iptv.org.ua
+https://sc.id-tv.kz:443/Avto24_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" group-title="Познавательные", МУЖСКОЙ
-https://89.106.234.0-89.106.234.15/Mujskoi_34_35.m3u8?token=iptv.org.ua
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" group="Познавательные", LOVE Nature
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -513,7 +513,7 @@ http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
 http://190.2.143.146/natgeo/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Туран
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/TuranTV_34_35.m3u8
+https://sc.id-tv.kz/TuranTV_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Министерство идей
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
@@ -525,10 +525,10 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 http://109.171.45.109:81/udp/239.54.5.166:1224
 #EXTINF:0 type="stream" group-title="Познавательные", Кухня ТВ HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/kuhnya_hd_34_35.m3u8
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", ЕДА HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/EdaHD_34_35.m3u8
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Живая природа HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
@@ -555,22 +555,22 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Mezzo Life
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/mezzo_life_hd_34_35.m3u8
+https://sc.id-tv.kz:443/mezzo_life_hd_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Бобер
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/bober_34_35.m3u8
+https://sc.id-tv.kz/bober_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Доктор
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://195.26.83.96:7024/play/69
 #EXTINF:0 type="stream" group-title="Познавательные", HDL
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/hdl_34_35.m3u8
+https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Поехали
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15/poehali_34_35.m3u8
+https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", ТЕХНО 24
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://89.106.234.0-89.106.234.15:443/Tehno24_34_35.m3u8
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Русский экстрим
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
