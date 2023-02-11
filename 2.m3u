@@ -104,3 +104,6 @@ https://edge02.beetv.kz/btv/SWM/Turkestan/Turkestan_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Казахские",ТВК 6
 #EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://edge02.beetv.kz/btv/SWM/Test_TVK6/Test_TVK6_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Казахские",M-1
+#EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
+https://edge02.beetv.kz/btv/SWM/M1-Global/M1-Global_576p_2000kbps.m3u8
