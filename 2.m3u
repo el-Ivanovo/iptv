@@ -1,7 +1,7 @@
 #EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="default" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #EXTINF:-1 group-title="Казахские",Qazsport HD
 #EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
-https://176.222.190.73/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
+https://176.222.190.0-176.222.191.255/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Казахские",31 Канал
 #EXTVLCOPT:http-user-agent=Okko Android client/8.29.0 (Linux;Android 10) ExoPlayerLib/2.17
 https://edge02.beetv.kz/btv/icon/31kanal/31kanal_576p_2000kbps.m3u8
