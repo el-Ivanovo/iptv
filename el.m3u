@@ -401,7 +401,7 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1865_smarttv_1662953899752.png" group-title="Спортивные", INSPORT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW)
-https://89.106.234.0-89.106.234.15:443/INSPORTHD.m3u8
+https://89.106.234.0-89.106.234.15:443/INSPORTHD_576p_2000kbps.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1554_smarttv_1578560562349.png" group-title="Спортивные", MMA-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW)
 https://89.106.234.0-89.106.234.15:443/M-1_34_35.m3u8
