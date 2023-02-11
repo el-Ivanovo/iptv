@@ -1,5 +1,194 @@
 #EXTM3U
 
+
+#Казахские
+
+
+#EXTINF:-1 group-title="Казахские",Первый канал Евразия
+https://edge02.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8
+#EXTINF:-1 group-title="Казахские",ASTANA
+https://edge02.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA.m3u8
+#EXTINF:-1 group-title="Казахские",КТК
+https://edge02.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK.m3u8
+#EXTINF:-1 group-title="Казахские",Semei
+https://edge02.beetv.kz/btv/SWM/semei/semei.m3u8
+#EXTINF:-1 group-title="Казахские",Туран
+https://edge02.beetv.kz/btv/SWM/SWM_TuranTV/SWM_TuranTV.m3u8
+#EXTINF:-1 group-title="Казахские",TDK42
+https://edge02.beetv.kz/btv/SWM/TDK42/TDK42.m3u8
+#EXTINF:-1 group-title="Казахские",Taraz
+https://edge02.beetv.kz/btv/SWM/Taraz_TV/Taraz_TV.m3u8
+#EXTINF:-1 group-title="Казахские",TVK6
+https://edge02.beetv.kz/btv/SWM/Test_TVK6/Test_TVK6.m3u8
+#EXTINF:-1 group-title="Казахские",Turkestan
+https://edge02.beetv.kz/btv/SWM/Turkestan/Turkestan.m3u8
+#EXTINF:-1 group-title="Казахские",Zhetisy
+https://edge02.beetv.kz/btv/SWM/Zhetisy/Zhetisu.m3u8
+#EXTINF:-1 group-title="Казахские",31 Канал
+https://edge02.beetv.kz/btv/icon/31kanal/31kanal.m3u8
+#EXTINF:-1 group-title="Казахские",ABayTV
+https://edge02.beetv.kz/btv/icon/ABayTV/ABayTV.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan_Aktau
+https://edge02.beetv.kz/btv/icon/Kazakhstan_Aktau/Kazakhstan_Aktau.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Kokshetau
+https://edge02.beetv.kz/btv/icon/Kazakhstan_Kokshetau/Kazakhstan_Kokshetau.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Kostanay
+https://edge02.beetv.kz/btv/icon/Kazakhstan_Kostanay/Kazakhstan_Kostanay.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Kyzylorda
+https://edge02.beetv.kz/btv/icon/Kazakhstan_Kyzylorda/Kazakhstan_Kyzylorda.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Oral
+https://edge02.beetv.kz/btv/icon/Kazakhstan_Oral/Kazakhstan_Oral.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Petropavlovsk
+https://edge02.beetv.kz/btv/icon/Kazakhstan_Petropavlovsk/Kazakhstan_Petropavlovsk.m3u8
+#EXTINF:-1 group-title="Казахские",Ertis
+https://edge02.beetv.kz/btv/SWM/ertis/ertis.m3u8
+#EXTINF:-1 group-title="Казахские",Jambyl
+https://edge02.beetv.kz/btv/SWM/jambyl/jambyl.m3u8
+#EXTINF:-1 group-title="Казахские",Aigak
+https://edge02.beetv.kz/btv/SWM/Aigak/Aigak.m3u8
+#EXTINF:-1 group-title="Казахские",Alau
+https://edge02.beetv.kz/btv/SWM/Alau_tv/Alau_tv.m3u8
+#EXTINF:-1 group-title="Казахские",NTK
+https://edge02.beetv.kz/btv/SWM/SWM_NTK/SWM_NTK.m3u8
+#EXTINF:-1 group-title="Казахские",Cartoon-Network
+https://edge02.beetv.kz/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
+#EXTINF:-1 group-title="Казахские",Irbis
+https://edge02.beetv.kz/btv/SWM/Irbis/Irbis.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Аtyrau
+https://edge02.beetv.kz/btv/SWM/Kazakhstan_Atyrau/Kazakhstan_Atyrau.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Karaganda
+https://edge02.beetv.kz/btv/SWM/Kazakhstan_Karaganda/Kazakhstan_Karaganda.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Oskemen
+https://edge02.beetv.kz/btv/SWM/Kazakhstan_Oskemen/Kazakhstan_Oskemen.m3u8
+#EXTINF:-1 group-title="Казахские",Kazakhstan Shymkent
+https://edge02.beetv.kz/btv/SWM/Kazakhstan_Shymkent/Kazakhstan_Shymkent.m3u8
+#EXTINF:-1 group-title="Казахские",Khabar24 HD
+https://edge02.beetv.kz/btv/SWM/Khabar_24_HD/Khabar_24_HD.m3u8
+#EXTINF:-1 group-title="Казахские",Khabar HD
+https://edge02.beetv.kz/btv/SWM/Khabar_HD/Khabar_HD.m3u8
+#EXTINF:-1 group-title="Казахские",New TV
+https://edge02.beetv.kz/btv/SWM/New_TV/New_TV.m3u8
+#EXTINF:-1 group-title="Казахские",Otyrar
+https://edge02.beetv.kz/btv/SWM/Otyrar/Otyrar.m3u8
+#EXTINF:-1 group-title="Казахские",Qazaqstan HD
+https://edge02.beetv.kz/btv/SWM/Qazaqstan_HD/Qazaqstan_HD.m3u8
+#EXTINF:-1 group-title="Казахские",RIKA
+https://edge02.beetv.kz/btv/SWM/RIKA_TV/RIKA_TV.m3u8
+#EXTINF:-1 group-title="Казахские",7 Канал
+https://edge02.beetv.kz/btv/SWM/SWM_7/SWM_7.m3u8
+#EXTINF:-1 group-title="Казахские",77 TV
+https://edge02.beetv.kz/btv/SWM/SWM_77TV/SWM_77TV.m3u8
+#EXTINF:-1 group-title="Казахские",Первый Карагандинский
+https://edge02.beetv.kz/btv/SWM/1Karagand/1Karagand.m3u8
+#EXTINF:-1 group-title="Казахские",5 Канал
+https://edge02.beetv.kz/btv/SWM/5kanal/5kanal.m3u8
+#EXTINF:-1 group-title="Казахские",SetantaKZ HD
+https://edge02.beetv.kz/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
+#EXTINF:-1 group-title="Казахские",Almaty
+https://edge02.beetv.kz/btv/SWM/SWM_Almaty-Alt/SWM_Almaty-Alt.m3u8
+#EXTINF:-1 group-title="Казахские",AsylArna
+https://edge02.beetv.kz/btv/SWM/SWM_AsylArna/SWM_AsylArna.m3u8
+#EXTINF:-1 group-title="Казахские",Bilim
+https://edge02.beetv.kz/btv/SWM/SWM_Bilim/SWM_Bilim.m3u8
+#EXTINF:-1 group-title="Казахские",El arna
+https://edge02.beetv.kz/btv/SWM/SWM_Elarna/SWM_Elarna.m3u8
+#EXTINF:-1 group-title="Казахские",Qazaqstan HD
+https://edge02.beetv.kz/btv/SWM/Qazaqstan_HD_int/Qazaqstan_HD_int.m3u8
+#EXTINF:-1 group-title="Казахские",5 Канал
+https://edge02.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
+#EXTINF:-1 group-title="Казахские",8 Канал
+https://edge02.beetv.kz/btv/SWM/SWM_8/SWM_8.m3u8
+#EXTINF:-1 group-title="Казахские",Первый Канал HD
+https://edge02.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
+#EXTINF:-1 group-title="Казахские",Atameken
+https://edge02.beetv.kz/btv/SWM/Atameken/Atameken.m3u8
+#EXTINF:-1 group-title="Казахские",BBC World
+https://edge02.beetv.kz/btv/SWM/BBC_World/BBC_World.m3u8
+#EXTINF:-1 group-title="Казахские",Paramount Comedy
+https://edge02.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
+#EXTINF:-1 group-title="Казахские",Победа
+https://edge02.beetv.kz/btv/SWM/Pobeda/Pobeda.m3u8
+#EXTINF:-1 group-title="Казахские",RTVi
+https://edge02.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
+#EXTINF:-1 group-title="Казахские",НТВ
+https://edge02.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
+#EXTINF:-1 group-title="Казахские",Первый Канал HD
+https://edge02.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
+#EXTINF:-1 group-title="Казахские",TB 3
+https://edge02.beetv.kz/btv/SWM/TB_3_International/TB_3_International.m3u8
+#EXTINF:-1 group-title="Казахские",R24
+https://edge02.beetv.kz/btv/icon/R24/R24.m3u8
+#EXTINF:-1 group-title="Казахские",Belarus
+https://edge02.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
+#EXTINF:-1 group-title="Казахские",CNN
+https://edge02.beetv.kz/btv/SWM/CNN/CNN.m3u8
+#EXTINF:-1 group-title="Казахские",Caspio News
+https://edge02.beetv.kz/btv/SWM/CaspioNews/CaspioNews.m3u8
+#EXTINF:-1 group-title="Казахские",EuroNews English HD
+https://edge02.beetv.kz/btv/SWM/EuroNews_English_HD/EuroNews_English_HD.m3u8
+#EXTINF:-1 group-title="Казахские",RBK TV
+https://edge02.beetv.kz/btv/SWM/RBK_TV/RBK_TV.m3u8
+#EXTINF:-1 group-title="Казахские",BoxTV
+https://edge02.beetv.kz/btv/SWM/SWM_BoxTV/SWM_BoxTV.m3u8
+#EXTINF:-1 group-title="Казахские",Euronews
+https://edge02.beetv.kz/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
+#EXTINF:-1 group-title="Казахские",France24
+https://edge02.beetv.kz/btv/SWM/SWM_France24_test/SWM_France24.m3u8
+#EXTINF:-1 group-title="Казахские",RTR
+https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
+#EXTINF:-1 group-title="Казахские",Avaz
+https://edge02.beetv.kz/btv/SWM/TRT_Avaz/TRT_Avaz.m3u8
+#EXTINF:-1 group-title="Казахские",HD
+https://edge02.beetv.kz/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
+#EXTINF:-1 group-title="Казахские",ETV
+https://edge02.beetv.kz/btv/SWM/etv/etv.m3u8
+#EXTINF:-1 group-title="Казахские",Татарстан
+https://edge02.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
+#EXTINF:-1 group-title="Казахские",Deutsche_Welle
+https://edge02.beetv.kz/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
+#EXTINF:-1 group-title="Казахские",Домашний
+https://edge02.beetv.kz/btv/SWM/Domashniy_int/Domashniy_int.m3u8
+#EXTINF:-1 group-title="Казахские",English Club
+https://edge02.beetv.kz/btv/SWM/English_Club_TV/English_Club_TV.m3u8
+#EXTINF:-1 group-title="Казахские",Ren TV
+https://edge02.beetv.kz/btv/SWM/RenTV/RenTV.m3u8
+#EXTINF:-1 group-title="Казахские",Техно24
+https://edge02.beetv.kz/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
+#EXTINF:-1 group-title="Казахские",СПАС
+https://edge02.beetv.kz/btv/SWM/Spas/Spas.m3u8
+#EXTINF:-1 group-title="Казахские",TMB
+https://edge02.beetv.kz/btv/SWM/TMB_TV/TMB_TV.m3u8
+#EXTINF:-1 group-title="Казахские",Вопросы Ответы
+https://edge02.beetv.kz/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
+#EXTINF:-1 group-title="Казахские",Время
+https://edge02.beetv.kz/btv/SWM/Vremya/Vremya.m3u8
+#EXTINF:-1 group-title="Казахские",НТВ Стиль
+https://edge02.beetv.kz/btv/SWM/ntv_style/ntv_style.m3u8
+#EXTINF:-1 group-title="Казахские",Центральное ТВ
+https://edge02.beetv.kz/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
+#EXTINF:-1 group-title="Казахские",CTC International
+https://edge02.beetv.kz/btv/icon/CTC_International/CTC_International.m3u8
+#EXTINF:-1 group-title="Казахские",Россия К
+https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK.m3u8
+#EXTINF:-1 group-title="Казахские",Перец
+https://edge02.beetv.kz/btv/SWM/Perec/Perec.m3u8
+#EXTINF:-1 group-title="Казахские",Пятница
+https://edge02.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
+#EXTINF:-1 group-title="Казахские",ТНТ
+https://edge02.beetv.kz/btv/SWM/TNT/TNT.m3u8
+#EXTINF:-1 group-title="Казахские",ТНТ4
+https://edge02.beetv.kz/btv/SWM/TNT4/TNT4.m3u8
+#EXTINF:-1 group-title="Казахские",ТНТ HD
+https://edge02.beetv.kz/btv/SWM/TNT_HD/TNT_HD.m3u8
+#EXTINF:-1 group-title="Казахские",Анекдот HD
+https://edge02.beetv.kz/btv/SWM/anekdot_tv/anekdot_tv.m3u8
+#EXTINF:-1 group-title="Казахские",Avto24
+https://edge02.beetv.kz/btv/icon/Avto24/Avto24.m3u8
+#EXTINF:-1 group-title="Казахские",Мир
+https://edge02.beetv.kz/btv/SWM/SWM_MIR/SWM_MIR.m3u8
+#EXTINF:-1 group-title="Казахские",Мир24
+https://edge02.beetv.kz/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
+
 #Кино
 
 
@@ -272,198 +461,11 @@ https://edge02.beetv.kz/btv/SWM/Muzzone/Muzzone.m3u8
 https://edge02.beetv.kz/btv/SWM/Tnt_music/Tnt_music.m3u8
 #EXTINF:-1 group-title="Музыкальные",HitTV
 https://edge02.beetv.kz/btv/SWM/SWM_HitTV/SWM_HitTV.m3u8
-#EXTINF:-1 group-title="Казахские",Tvoy TV
+#EXTINF:-1 group-title="Музыкальные",Tvoy TV
 https://edge02.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
 
 
 
-#Казахские
-
-
-#EXTINF:-1 group-title="Казахские",Первый канал Евразия
-https://edge02.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8
-#EXTINF:-1 group-title="Казахские",ASTANA
-https://edge02.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA.m3u8
-#EXTINF:-1 group-title="Казахские",КТК
-https://edge02.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK.m3u8
-#EXTINF:-1 group-title="Казахские",Semei
-https://edge02.beetv.kz/btv/SWM/semei/semei.m3u8
-#EXTINF:-1 group-title="Казахские",Туран
-https://edge02.beetv.kz/btv/SWM/SWM_TuranTV/SWM_TuranTV.m3u8
-#EXTINF:-1 group-title="Казахские",TDK42
-https://edge02.beetv.kz/btv/SWM/TDK42/TDK42.m3u8
-#EXTINF:-1 group-title="Казахские",Taraz
-https://edge02.beetv.kz/btv/SWM/Taraz_TV/Taraz_TV.m3u8
-#EXTINF:-1 group-title="Казахские",TVK6
-https://edge02.beetv.kz/btv/SWM/Test_TVK6/Test_TVK6.m3u8
-#EXTINF:-1 group-title="Казахские",Turkestan
-https://edge02.beetv.kz/btv/SWM/Turkestan/Turkestan.m3u8
-#EXTINF:-1 group-title="Казахские",Zhetisy
-https://edge02.beetv.kz/btv/SWM/Zhetisy/Zhetisu.m3u8
-#EXTINF:-1 group-title="Казахские",31 Канал
-https://edge02.beetv.kz/btv/icon/31kanal/31kanal.m3u8
-#EXTINF:-1 group-title="Казахские",ABayTV
-https://edge02.beetv.kz/btv/icon/ABayTV/ABayTV.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan_Aktau
-https://edge02.beetv.kz/btv/icon/Kazakhstan_Aktau/Kazakhstan_Aktau.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Kokshetau
-https://edge02.beetv.kz/btv/icon/Kazakhstan_Kokshetau/Kazakhstan_Kokshetau.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Kostanay
-https://edge02.beetv.kz/btv/icon/Kazakhstan_Kostanay/Kazakhstan_Kostanay.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Kyzylorda
-https://edge02.beetv.kz/btv/icon/Kazakhstan_Kyzylorda/Kazakhstan_Kyzylorda.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Oral
-https://edge02.beetv.kz/btv/icon/Kazakhstan_Oral/Kazakhstan_Oral.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Petropavlovsk
-https://edge02.beetv.kz/btv/icon/Kazakhstan_Petropavlovsk/Kazakhstan_Petropavlovsk.m3u8
-#EXTINF:-1 group-title="Казахские",Ertis
-https://edge02.beetv.kz/btv/SWM/ertis/ertis.m3u8
-#EXTINF:-1 group-title="Казахские",Jambyl
-https://edge02.beetv.kz/btv/SWM/jambyl/jambyl.m3u8
-#EXTINF:-1 group-title="Казахские",Aigak
-https://edge02.beetv.kz/btv/SWM/Aigak/Aigak.m3u8
-#EXTINF:-1 group-title="Казахские",Alau
-https://edge02.beetv.kz/btv/SWM/Alau_tv/Alau_tv.m3u8
-#EXTINF:-1 group-title="Казахские",NTK
-https://edge02.beetv.kz/btv/SWM/SWM_NTK/SWM_NTK.m3u8
-#EXTINF:-1 group-title="Казахские",Cartoon-Network
-https://edge02.beetv.kz/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
-#EXTINF:-1 group-title="Казахские",Irbis
-https://edge02.beetv.kz/btv/SWM/Irbis/Irbis.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Аtyrau
-https://edge02.beetv.kz/btv/SWM/Kazakhstan_Atyrau/Kazakhstan_Atyrau.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Karaganda
-https://edge02.beetv.kz/btv/SWM/Kazakhstan_Karaganda/Kazakhstan_Karaganda.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Oskemen
-https://edge02.beetv.kz/btv/SWM/Kazakhstan_Oskemen/Kazakhstan_Oskemen.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan Shymkent
-https://edge02.beetv.kz/btv/SWM/Kazakhstan_Shymkent/Kazakhstan_Shymkent.m3u8
-#EXTINF:-1 group-title="Казахские",Khabar24 HD
-https://edge02.beetv.kz/btv/SWM/Khabar_24_HD/Khabar_24_HD.m3u8
-#EXTINF:-1 group-title="Казахские",Khabar HD
-https://edge02.beetv.kz/btv/SWM/Khabar_HD/Khabar_HD.m3u8
-#EXTINF:-1 group-title="Казахские",New TV
-https://edge02.beetv.kz/btv/SWM/New_TV/New_TV.m3u8
-#EXTINF:-1 group-title="Казахские",Otyrar
-https://edge02.beetv.kz/btv/SWM/Otyrar/Otyrar.m3u8
-#EXTINF:-1 group-title="Казахские",Qazaqstan HD
-https://edge02.beetv.kz/btv/SWM/Qazaqstan_HD/Qazaqstan_HD.m3u8
-#EXTINF:-1 group-title="Казахские",RIKA
-https://edge02.beetv.kz/btv/SWM/RIKA_TV/RIKA_TV.m3u8
-#EXTINF:-1 group-title="Казахские",7 Канал
-https://edge02.beetv.kz/btv/SWM/SWM_7/SWM_7.m3u8
-#EXTINF:-1 group-title="Казахские",77 TV
-https://edge02.beetv.kz/btv/SWM/SWM_77TV/SWM_77TV.m3u8
-#EXTINF:-1 group-title="Казахские",Первый Карагандинский
-https://edge02.beetv.kz/btv/SWM/1Karagand/1Karagand.m3u8
-#EXTINF:-1 group-title="Казахские",5 Канал
-https://edge02.beetv.kz/btv/SWM/5kanal/5kanal.m3u8
-#EXTINF:-1 group-title="Казахские",SetantaKZ HD
-https://edge02.beetv.kz/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
-#EXTINF:-1 group-title="Казахские",Almaty
-https://edge02.beetv.kz/btv/SWM/SWM_Almaty-Alt/SWM_Almaty-Alt.m3u8
-#EXTINF:-1 group-title="Казахские",AsylArna
-https://edge02.beetv.kz/btv/SWM/SWM_AsylArna/SWM_AsylArna.m3u8
-#EXTINF:-1 group-title="Казахские",Bilim
-https://edge02.beetv.kz/btv/SWM/SWM_Bilim/SWM_Bilim.m3u8
-#EXTINF:-1 group-title="Казахские",El arna
-https://edge02.beetv.kz/btv/SWM/SWM_Elarna/SWM_Elarna.m3u8
-#EXTINF:-1 group-title="Казахские",Qazaqstan HD
-https://edge02.beetv.kz/btv/SWM/Qazaqstan_HD_int/Qazaqstan_HD_int.m3u8
-#EXTINF:-1 group-title="Казахские",5 Канал
-https://edge02.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
-#EXTINF:-1 group-title="Казахские",8 Канал
-https://edge02.beetv.kz/btv/SWM/SWM_8/SWM_8.m3u8
-#EXTINF:-1 group-title="Казахские",Первый Канал HD
-https://edge02.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
-#EXTINF:-1 group-title="Казахские",Atameken
-https://edge02.beetv.kz/btv/SWM/Atameken/Atameken.m3u8
-#EXTINF:-1 group-title="Казахские",BBC World
-https://edge02.beetv.kz/btv/SWM/BBC_World/BBC_World.m3u8
-#EXTINF:-1 group-title="Казахские",Paramount Comedy
-https://edge02.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
-#EXTINF:-1 group-title="Казахские",Победа
-https://edge02.beetv.kz/btv/SWM/Pobeda/Pobeda.m3u8
-#EXTINF:-1 group-title="Казахские",RTVi
-https://edge02.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
-#EXTINF:-1 group-title="Казахские",НТВ
-https://edge02.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
-#EXTINF:-1 group-title="Казахские",Первый Канал HD
-https://edge02.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
-#EXTINF:-1 group-title="Казахские",TB 3
-https://edge02.beetv.kz/btv/SWM/TB_3_International/TB_3_International.m3u8
-#EXTINF:-1 group-title="Казахские",R24
-https://edge02.beetv.kz/btv/icon/R24/R24.m3u8
-#EXTINF:-1 group-title="Казахские",Belarus
-https://edge02.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
-#EXTINF:-1 group-title="Казахские",CNN
-https://edge02.beetv.kz/btv/SWM/CNN/CNN.m3u8
-#EXTINF:-1 group-title="Казахские",Caspio News
-https://edge02.beetv.kz/btv/SWM/CaspioNews/CaspioNews.m3u8
-#EXTINF:-1 group-title="Казахские",EuroNews English HD
-https://edge02.beetv.kz/btv/SWM/EuroNews_English_HD/EuroNews_English_HD.m3u8
-#EXTINF:-1 group-title="Казахские",RBK TV
-https://edge02.beetv.kz/btv/SWM/RBK_TV/RBK_TV.m3u8
-#EXTINF:-1 group-title="Казахские",BoxTV
-https://edge02.beetv.kz/btv/SWM/SWM_BoxTV/SWM_BoxTV.m3u8
-#EXTINF:-1 group-title="Казахские",Euronews
-https://edge02.beetv.kz/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
-#EXTINF:-1 group-title="Казахские",France24
-https://edge02.beetv.kz/btv/SWM/SWM_France24_test/SWM_France24.m3u8
-#EXTINF:-1 group-title="Казахские",RTR
-https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
-#EXTINF:-1 group-title="Казахские",Avaz
-https://edge02.beetv.kz/btv/SWM/TRT_Avaz/TRT_Avaz.m3u8
-#EXTINF:-1 group-title="Казахские",HD
-https://edge02.beetv.kz/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
-#EXTINF:-1 group-title="Казахские",ETV
-https://edge02.beetv.kz/btv/SWM/etv/etv.m3u8
-#EXTINF:-1 group-title="Казахские",Татарстан
-https://edge02.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
-#EXTINF:-1 group-title="Казахские",Deutsche_Welle
-https://edge02.beetv.kz/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
-#EXTINF:-1 group-title="Казахские",Домашний
-https://edge02.beetv.kz/btv/SWM/Domashniy_int/Domashniy_int.m3u8
-#EXTINF:-1 group-title="Казахские",English Club
-https://edge02.beetv.kz/btv/SWM/English_Club_TV/English_Club_TV.m3u8
-#EXTINF:-1 group-title="Казахские",Ren TV
-https://edge02.beetv.kz/btv/SWM/RenTV/RenTV.m3u8
-#EXTINF:-1 group-title="Казахские",Техно24
-https://edge02.beetv.kz/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
-#EXTINF:-1 group-title="Казахские",СПАС
-https://edge02.beetv.kz/btv/SWM/Spas/Spas.m3u8
-#EXTINF:-1 group-title="Казахские",TMB
-https://edge02.beetv.kz/btv/SWM/TMB_TV/TMB_TV.m3u8
-#EXTINF:-1 group-title="Казахские",Вопросы Ответы
-https://edge02.beetv.kz/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
-#EXTINF:-1 group-title="Казахские",Время
-https://edge02.beetv.kz/btv/SWM/Vremya/Vremya.m3u8
-#EXTINF:-1 group-title="Казахские",НТВ Стиль
-https://edge02.beetv.kz/btv/SWM/ntv_style/ntv_style.m3u8
-#EXTINF:-1 group-title="Казахские",Центральное ТВ
-https://edge02.beetv.kz/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
-#EXTINF:-1 group-title="Казахские",CTC International
-https://edge02.beetv.kz/btv/icon/CTC_International/CTC_International.m3u8
-#EXTINF:-1 group-title="Казахские",Россия К
-https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK.m3u8
-#EXTINF:-1 group-title="Казахские",Перец
-https://edge02.beetv.kz/btv/SWM/Perec/Perec.m3u8
-#EXTINF:-1 group-title="Казахские",Пятница
-https://edge02.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
-#EXTINF:-1 group-title="Казахские",ТНТ
-https://edge02.beetv.kz/btv/SWM/TNT/TNT.m3u8
-#EXTINF:-1 group-title="Казахские",ТНТ4
-https://edge02.beetv.kz/btv/SWM/TNT4/TNT4.m3u8
-#EXTINF:-1 group-title="Казахские",ТНТ HD
-https://edge02.beetv.kz/btv/SWM/TNT_HD/TNT_HD.m3u8
-#EXTINF:-1 group-title="Казахские",Анекдот HD
-https://edge02.beetv.kz/btv/SWM/anekdot_tv/anekdot_tv.m3u8
-#EXTINF:-1 group-title="Казахские",Avto24
-https://edge02.beetv.kz/btv/icon/Avto24/Avto24.m3u8
-#EXTINF:-1 group-title="Казахские",Мир
-https://edge02.beetv.kz/btv/SWM/SWM_MIR/SWM_MIR.m3u8
-#EXTINF:-1 group-title="Казахские",Мир24
-https://edge02.beetv.kz/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
 
 
 
