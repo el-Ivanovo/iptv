@@ -5,11 +5,11 @@
 
 
 #EXTINF:-1 group-title="Казахские",Первый канал Евразия
-https://edge02.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8?|X-Forwarded-For=188.0.147.102
+https://edge02.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8?|X-Forwarded-For=89.218.83.238
 #EXTINF:-1 group-title="Казахские",ASTANA
-https://edge02.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA.m3u8?|X-Forwarded-For=188.0.147.102
+https://edge02.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA.m3u8?|X-Forwarded-For=89.218.83.238
 #EXTINF:-1 group-title="Казахские",КТК
-https://edge02.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK.m3u8?|X-Forwarded-For=188.0.147.102
+https://edge02.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK.m3u8
 #EXTINF:-1 group-title="Казахские",Semei
 https://edge02.beetv.kz/btv/SWM/semei/semei.m3u8
 #EXTINF:-1 group-title="Казахские",Туран
