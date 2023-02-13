@@ -219,6 +219,9 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group-title="Кино", Киноужас
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 https://sc.id-tv.kz:443/Kinouzhas_hd.m3u8
+#EXTINF:-1 type="stream" channelId="-1" group-title="Кино", Trash
+#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+https://livetv.mylifeisgood.ml/channels/trash
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", START Air HD
@@ -313,9 +316,11 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?h
 
 #EXTINF:0 type="stream" group="Спортивные", Extreme sports
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
+http://185.32.44.154/extremesport/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Бокс ТВ
 https://sc.id-tv.kz:443/BoksTV_34_35.m3u8
+#EXTINF:0 type="stream" group-title="Спортивные", БОЕЦ
+http://185.32.44.154/boets/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Матч HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Red Bull TV
@@ -348,10 +353,12 @@ https://sc.id-tv.kz:443/M-1_34_35.m3u8
 https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+http://185.32.44.154/futbol1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+http://185.32.44.154/futbol2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="Спортивные", Футбол
+http://185.32.44.154/futbol/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_997_smarttv_1550458382916.png"" group-title="Спортивные", Match Planeta
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 https://sc.id-tv.kz:443/MatchPlaneta_34_35.m3u8
@@ -433,7 +440,8 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 http://live-okkotv.cdnvideo.ru/ratnik/ratnik_5q.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Моя Планета
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+http://185.32.44.154/moyaplaneta/tracks-v1a1/mono.m3u8
+#https://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Драйв
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
