@@ -23,8 +23,7 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
 #EXTINF:-1 group-title="Федеральные" tvg-id="pervy" tvg-name="pervy" catchup-enable="0", Первый канал
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
-#http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные" tvg-id="russia1" tvg-name="russia1" catchup-enable="0", Россия 1
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
