@@ -172,8 +172,6 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 https://live.stv24.tv/svoetv/MQ_video.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Flix Snip
-https://sc.id-tv.kz:443/FlixSnip_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:0 type="stream" channelId="1748" group-title="Кино", TVM Channel
@@ -255,8 +253,6 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?h
 #EXTINF:0 type="stream" group="Спортивные", Extreme sports
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://185.32.44.154/extremesport/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="Спортивные", Бокс ТВ
-https://sc.id-tv.kz:443/BoksTV_34_35.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", БОЕЦ
 http://185.32.44.154/boets/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Матч HD
