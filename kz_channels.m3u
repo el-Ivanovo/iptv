@@ -1,4 +1,4 @@
-#EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="default" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG" url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup="default" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
 
 #Казахские
