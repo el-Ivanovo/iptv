@@ -118,8 +118,6 @@ https://edge02.beetv.kz/btv/SWM/EuroNews_English_HD/EuroNews_English_HD.m3u8
 https://edge02.beetv.kz/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
 #EXTINF:-1 group-title="Казахские",France24
 https://edge02.beetv.kz/btv/SWM/SWM_France24_test/SWM_France24.m3u8
-#EXTINF:-1 group-title="Казахские",RTR
-https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
 #EXTINF:-1 group-title="Казахские",Avaz
 https://edge02.beetv.kz/btv/SWM/TRT_Avaz/TRT_Avaz.m3u8
 #EXTINF:-1 group-title="Казахские",HD
@@ -144,10 +142,7 @@ https://edge02.beetv.kz/btv/SWM/ntv_style/ntv_style.m3u8
 https://edge02.beetv.kz/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
 #EXTINF:-1 group-title="Казахские",Анекдот HD
 https://edge02.beetv.kz/btv/SWM/anekdot_tv/anekdot_tv.m3u8
-#EXTINF:-1 group-title="Казахские",Avto24
-https://edge02.beetv.kz/btv/icon/Avto24/Avto24.m3u8
-#EXTINF:-1 group-title="Казахские",Мир24
-https://edge02.beetv.kz/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
+
 
 
 
@@ -190,7 +185,13 @@ https://edge02.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
 #EXTINF:-1 group-title="Федеральные",Belarus
 https://edge02.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
 #EXTINF:-1 group-title="Федеральные",Татарстан
-https://edge02.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
+https://edge02.beetv.kz/btv/SWM/Tnv_Tatarstan/Tnv_Tatarstan.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия RTR
+https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
+#EXTINF:-1 group-title="Федеральные",Avto24
+https://edge02.beetv.kz/btv/icon/Avto24/Avto24.m3u8
+#EXTINF:-1 group-title="Федеральные",Мир24
+https://edge02.beetv.kz/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
 
 
 #Кино
