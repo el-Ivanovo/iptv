@@ -98,8 +98,6 @@ https://edge02.beetv.kz/btv/SWM/Qazaqstan_HD_int/Qazaqstan_HD_int.m3u8
 https://edge02.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
 #EXTINF:-1 group-title="Казахские",8 Канал
 https://edge02.beetv.kz/btv/SWM/SWM_8/SWM_8.m3u8
-#EXTINF:-1 group-title="Казахские",Первый Канал HD
-https://edge02.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
 #EXTINF:-1 group-title="Казахские",Atameken
 https://edge02.beetv.kz/btv/SWM/Atameken/Atameken.m3u8
 #EXTINF:-1 group-title="Казахские",BBC World
@@ -110,8 +108,6 @@ https://edge02.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 https://edge02.beetv.kz/btv/SWM/Pobeda/Pobeda.m3u8
 #EXTINF:-1 group-title="Казахские",RTVi
 https://edge02.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
-#EXTINF:-1 group-title="Казахские",Belarus
-https://edge02.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
 #EXTINF:-1 group-title="Казахские",CNN
 https://edge02.beetv.kz/btv/SWM/CNN/CNN.m3u8
 #EXTINF:-1 group-title="Казахские",Caspio News
@@ -130,8 +126,6 @@ https://edge02.beetv.kz/btv/SWM/TRT_Avaz/TRT_Avaz.m3u8
 https://edge02.beetv.kz/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
 #EXTINF:-1 group-title="Казахские",ETV
 https://edge02.beetv.kz/btv/SWM/etv/etv.m3u8
-#EXTINF:-1 group-title="Казахские",Татарстан
-https://edge02.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
 #EXTINF:-1 group-title="Казахские",Deutsche_Welle
 https://edge02.beetv.kz/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
 #EXTINF:-1 group-title="Казахские",English Club
@@ -159,12 +153,14 @@ https://edge02.beetv.kz/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
 
 #Федеральные
 
+
+
 #EXTINF:-1 group-title="Федеральные",Первый Канал HD
 https://edge02.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия24
+https://edge02.beetv.kz/btv/icon/R24/R24.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия К
 https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK.m3u8
-#EXTINF:-1 group-title="Федеральные",Russia24
-https://edge02.beetv.kz/btv/icon/R24/R24.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 https://edge02.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
@@ -191,6 +187,10 @@ https://edge02.beetv.kz/btv/SWM/Spas/Spas.m3u8
 https://edge02.beetv.kz/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница
 https://edge02.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
+#EXTINF:-1 group-title="Федеральные",Belarus
+https://edge02.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
+#EXTINF:-1 group-title="Казахские",Татарстан
+https://edge02.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
 
 
 #Кино
