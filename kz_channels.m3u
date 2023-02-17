@@ -185,7 +185,7 @@ https://edge02.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
 #EXTINF:-1 group-title="Федеральные",Belarus
 https://edge02.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
 #EXTINF:-1 group-title="Федеральные",Татарстан
-https://edge02.beetv.kz/btv/SWM/TNV_Tatarstan/TNV_Tatarstan.m3u8
+https://edge02.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия RTR
 https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
 #EXTINF:-1 group-title="Федеральные",Avto24
@@ -279,7 +279,7 @@ https://edge02.beetv.kz/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:-1 group-title="Кино",Феникс
 https://edge02.beetv.kz/btv/SWM/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="Кино",plan B
-https://edge02.beetv.kz/btv/SWM/plan_b/plan_b.m3u8
+https://edge02.beetv.kz/btv/SWM/plan_B/plan_B.m3u8
 
 
 
