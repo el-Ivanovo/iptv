@@ -294,7 +294,7 @@ https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://185.32.44.154/discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Travel + Adventure HD
-http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Усадьба
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
 http://94.230.240.17:8080/usadba/index.m3u8
