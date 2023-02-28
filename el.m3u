@@ -192,7 +192,7 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" group-title="Мусульманский канал" catchup-enable="0", Хузур ТВ
 #EXTVLCOPT:http-user-agent=okhttp/4.10.0
-http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/chunklist.m3u8?hls_proxy_host=6ae9ce5cd97bdc68227b151737204616
 
 #Исламское Радио
 
