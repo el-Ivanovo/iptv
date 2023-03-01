@@ -151,9 +151,9 @@ https://edge02.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
 https://edge02.beetv.kz/btv/SWM/ntv_style/ntv_style.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 https://edge02.beetv.kz/btv/SWM/TNT/TNT.m3u8
-#EXTINF:-1 group-title="Казахские",ТНТ HD
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
 https://edge02.beetv.kz/btv/SWM/TNT_HD/TNT_HD.m3u8
-#EXTINF:-1 group-title="Казахские",ТНТ4
+#EXTINF:-1 group-title="Федеральные",ТНТ4
 https://edge02.beetv.kz/btv/SWM/TNT4/TNT4.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний
 https://edge02.beetv.kz/btv/SWM/Domashniy_int/Domashniy_int.m3u8
