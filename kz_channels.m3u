@@ -144,6 +144,15 @@ https://edge02.beetv.kz/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
 https://edge02.beetv.kz/btv/SWM/anekdot_tv/anekdot_tv.m3u8
 
 
+#Региональные
+
+#EXTINF:-1 group-title="Региональные", Грозный HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="Региональные",Беларусь
+https://edge02.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
+#EXTINF:-1 group-title="Региональные",Татарстан
+https://edge02.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
 
 
 #Федеральные
@@ -182,10 +191,6 @@ https://edge02.beetv.kz/btv/SWM/Spas/Spas.m3u8
 https://edge02.beetv.kz/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница
 https://edge02.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
-#EXTINF:-1 group-title="Федеральные",Belarus
-https://edge02.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
-#EXTINF:-1 group-title="Федеральные",Татарстан
-https://edge02.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия RTR
 https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
 #EXTINF:-1 group-title="Федеральные",Avto24
@@ -280,6 +285,14 @@ https://edge02.beetv.kz/btv/SWM/mosfilm/mosfilm.m3u8
 https://edge02.beetv.kz/btv/SWM/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="Кино",plan B
 https://edge02.beetv.kz/btv/SWM/plan_b/plan_b.m3u8
+
+
+#Мусульманские
+
+#EXTINF:-1 group-title="Мусульманский канал" catchup-enable="0", Хузур ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/chunklist.m3u8?hls_proxy_host=6ae9ce5cd97bdc68227b151737204616
+
 
 
 
@@ -441,7 +454,21 @@ https://edge02.beetv.kz/btv/SWM/eda_premium_hd/eda_premium_hd.m3u8
 
 #Музыкальные
 
-
+#EXTINF:-1 group-title="Музыкальные",Gakku
+https://edge02.beetv.kz/btv/SWM/SWM_Gakku/SWM_Gakku.m3u8
+#EXTINF:-1 group-title="Музыкальные",Той Думан
+https://edge02.beetv.kz/btv/SWM/Toy_Duman/Toy_Duman.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка Первого
+https://edge02.beetv.kz/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo.m3u8
+#EXTINF:-1 group-title="Музыкальные" , Матур ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" , 9 Волна
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://185.78.112.46:8077/9-volna/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 #EXTINF:-1 group-title="Музыкальные",MTV
 https://edge02.beetv.kz/btv/SWM/mtv_00/mtv_00.m3u8
 #EXTINF:-1 group-title="Музыкальные",МТВ
@@ -450,14 +477,8 @@ https://edge02.beetv.kz/btv/SWM/mtv_live_hd/mtv_live_hd.m3u8
 https://edge02.beetv.kz/btv/SWM/MCM/MCM.m3u8
 #EXTINF:-1 group-title="Музыкальные",Mezzo
 https://edge02.beetv.kz/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
-#EXTINF:-1 group-title="Музыкальные",Музыка Первого
-https://edge02.beetv.kz/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo.m3u8
 #EXTINF:-1 group-title="Музыкальные",Shanson TV
 https://edge02.beetv.kz/btv/SWM/Shanson_TV/Shanson_TV.m3u8
-#EXTINF:-1 group-title="Музыкальные",Toy Duman
-https://edge02.beetv.kz/btv/SWM/Toy_Duman/Toy_Duman.m3u8
-#EXTINF:-1 group-title="Музыкальные",Gakku
-https://edge02.beetv.kz/btv/SWM/SWM_Gakku/SWM_Gakku.m3u8
 #EXTINF:-1 group-title="Музыкальные",Muz TV
 https://edge02.beetv.kz/btv/SWM/Muz_Tv/Muz_Tv.m3u8
 #EXTINF:-1 group-title="Музыкальные",Muzzone
