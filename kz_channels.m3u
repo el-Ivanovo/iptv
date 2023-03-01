@@ -28,7 +28,7 @@ https://edge02.beetv.kz/btv/SWM/Zhetisy/Zhetisu.m3u8
 https://edge02.beetv.kz/btv/icon/31kanal/31kanal.m3u8
 #EXTINF:-1 group-title="Казахские",ABayTV
 https://edge02.beetv.kz/btv/icon/ABayTV/ABayTV.m3u8
-#EXTINF:-1 group-title="Казахские",Kazakhstan_Aktau
+#EXTINF:-1 group-title="Казахские",Казахстан-Актау
 https://edge02.beetv.kz/btv/icon/Kazakhstan_Aktau/Kazakhstan_Aktau.m3u8
 #EXTINF:-1 group-title="Казахские",Kazakhstan Kokshetau
 https://edge02.beetv.kz/btv/icon/Kazakhstan_Kokshetau/Kazakhstan_Kokshetau.m3u8
@@ -50,8 +50,6 @@ https://edge02.beetv.kz/btv/SWM/Aigak/Aigak.m3u8
 https://edge02.beetv.kz/btv/SWM/Alau_tv/Alau_tv.m3u8
 #EXTINF:-1 group-title="Казахские",NTK
 https://edge02.beetv.kz/btv/SWM/SWM_NTK/SWM_NTK.m3u8
-#EXTINF:-1 group-title="Казахские",Cartoon-Network
-https://edge02.beetv.kz/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
 #EXTINF:-1 group-title="Казахские",Irbis
 https://edge02.beetv.kz/btv/SWM/Irbis/Irbis.m3u8
 #EXTINF:-1 group-title="Казахские",Kazakhstan Аtyrau
@@ -66,7 +64,7 @@ https://edge02.beetv.kz/btv/SWM/Kazakhstan_Shymkent/Kazakhstan_Shymkent.m3u8
 https://edge02.beetv.kz/btv/SWM/Khabar_24_HD/Khabar_24_HD.m3u8
 #EXTINF:-1 group-title="Казахские",Khabar HD
 https://edge02.beetv.kz/btv/SWM/Khabar_HD/Khabar_HD.m3u8
-#EXTINF:-1 group-title="Казахские",New TV
+#EXTINF:-1 group-title="Казахские",Новое телевидение HD
 https://edge02.beetv.kz/btv/SWM/New_TV/New_TV.m3u8
 #EXTINF:-1 group-title="Казахские",Otyrar
 https://edge02.beetv.kz/btv/SWM/Otyrar/Otyrar.m3u8
@@ -82,8 +80,6 @@ https://edge02.beetv.kz/btv/SWM/SWM_77TV/SWM_77TV.m3u8
 https://edge02.beetv.kz/btv/SWM/1Karagand/1Karagand.m3u8
 #EXTINF:-1 group-title="Казахские",5 Канал
 https://edge02.beetv.kz/btv/SWM/5kanal/5kanal.m3u8
-#EXTINF:-1 group-title="Казахские",SetantaKZ HD
-https://edge02.beetv.kz/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
 #EXTINF:-1 group-title="Казахские",Almaty
 https://edge02.beetv.kz/btv/SWM/SWM_Almaty-Alt/SWM_Almaty-Alt.m3u8
 #EXTINF:-1 group-title="Казахские",AsylArna
@@ -100,53 +96,37 @@ https://edge02.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
 https://edge02.beetv.kz/btv/SWM/SWM_8/SWM_8.m3u8
 #EXTINF:-1 group-title="Казахские",Atameken
 https://edge02.beetv.kz/btv/SWM/Atameken/Atameken.m3u8
-#EXTINF:-1 group-title="Казахские",BBC World
-https://edge02.beetv.kz/btv/SWM/BBC_World/BBC_World.m3u8
 #EXTINF:-1 group-title="Казахские",Paramount Comedy
 https://edge02.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 #EXTINF:-1 group-title="Казахские",Победа
 https://edge02.beetv.kz/btv/SWM/Pobeda/Pobeda.m3u8
 #EXTINF:-1 group-title="Казахские",RTVi
 https://edge02.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
-#EXTINF:-1 group-title="Казахские",CNN
-https://edge02.beetv.kz/btv/SWM/CNN/CNN.m3u8
 #EXTINF:-1 group-title="Казахские",Caspio News
 https://edge02.beetv.kz/btv/SWM/CaspioNews/CaspioNews.m3u8
-#EXTINF:-1 group-title="Казахские",EuroNews English HD
-https://edge02.beetv.kz/btv/SWM/EuroNews_English_HD/EuroNews_English_HD.m3u8
 #EXTINF:-1 group-title="Казахские",Euronews
 https://edge02.beetv.kz/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
-#EXTINF:-1 group-title="Казахские",France24
-https://edge02.beetv.kz/btv/SWM/SWM_France24_test/SWM_France24.m3u8
 #EXTINF:-1 group-title="Казахские",Avaz
 https://edge02.beetv.kz/btv/SWM/TRT_Avaz/TRT_Avaz.m3u8
-#EXTINF:-1 group-title="Казахские",HD
+#EXTINF:-1 group-title="Казахские",Точка отрыва
 https://edge02.beetv.kz/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
 #EXTINF:-1 group-title="Казахские",ETV
 https://edge02.beetv.kz/btv/SWM/etv/etv.m3u8
-#EXTINF:-1 group-title="Казахские",Deutsche_Welle
-https://edge02.beetv.kz/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
-#EXTINF:-1 group-title="Казахские",English Club
-https://edge02.beetv.kz/btv/SWM/English_Club_TV/English_Club_TV.m3u8
 #EXTINF:-1 group-title="Казахские",Техно24
 https://edge02.beetv.kz/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
-#EXTINF:-1 group-title="Казахские",TMB
-https://edge02.beetv.kz/btv/SWM/TMB_TV/TMB_TV.m3u8
 #EXTINF:-1 group-title="Казахские",Вопросы Ответы
 https://edge02.beetv.kz/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
-#EXTINF:-1 group-title="Казахские",Время
-https://edge02.beetv.kz/btv/SWM/Vremya/Vremya.m3u8
-#EXTINF:-1 group-title="Казахские",НТВ Стиль
-https://edge02.beetv.kz/btv/SWM/ntv_style/ntv_style.m3u8
-#EXTINF:-1 group-title="Казахские",Центральное ТВ
-https://edge02.beetv.kz/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
 #EXTINF:-1 group-title="Казахские",Анекдот HD
 https://edge02.beetv.kz/btv/SWM/anekdot_tv/anekdot_tv.m3u8
 
 
+
 #Региональные
 
-#EXTINF:-1 group-title="Региональные", Грозный HD
+
+
+
+#EXTINF:-1 group-title="Региональные",Грозный HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 group-title="Региональные",Беларусь
@@ -167,6 +147,8 @@ https://edge02.beetv.kz/btv/icon/R24/R24.m3u8
 https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 https://edge02.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ Стиль
+https://edge02.beetv.kz/btv/SWM/ntv_style/ntv_style.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 https://edge02.beetv.kz/btv/SWM/TNT/TNT.m3u8
 #EXTINF:-1 group-title="Казахские",ТНТ HD
@@ -175,7 +157,7 @@ https://edge02.beetv.kz/btv/SWM/TNT_HD/TNT_HD.m3u8
 https://edge02.beetv.kz/btv/SWM/TNT4/TNT4.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний
 https://edge02.beetv.kz/btv/SWM/Domashniy_int/Domashniy_int.m3u8
-#EXTINF:-1 group-title="Федеральные",Ren TV
+#EXTINF:-1 group-title="Федеральные",РЕН ТВ
 https://edge02.beetv.kz/btv/SWM/RenTV/RenTV.m3u8
 #EXTINF:-1 group-title="Федеральные",TB 3
 https://edge02.beetv.kz/btv/SWM/TB_3_International/TB_3_International.m3u8
@@ -197,6 +179,10 @@ https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
 https://edge02.beetv.kz/btv/icon/Avto24/Avto24.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир24
 https://edge02.beetv.kz/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
+#EXTINF:-1 group-title="Федеральные",Время
+https://edge02.beetv.kz/btv/SWM/Vremya/Vremya.m3u8
+#EXTINF:-1 group-title="Федеральные",Центральное ТВ
+https://edge02.beetv.kz/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
 
 
 #Кино
@@ -316,6 +302,8 @@ https://edge02.beetv.kz/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
 https://edge02.beetv.kz/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sport Plus HD
 https://edge02.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+#EXTINF:-1 group-title="Спортивные",SetantaKZ HD
+https://edge02.beetv.kz/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sport HD
 https://edge02.beetv.kz/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD KZ
@@ -368,6 +356,8 @@ https://edge02.beetv.kz/btv/SWM/Karusel/Karusel.m3u8
 https://edge02.beetv.kz/btv/SWM/Balapan_HD/Balapan_HD.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
 https://edge02.beetv.kz/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon-Network
+https://edge02.beetv.kz/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
 
 
 
@@ -471,6 +461,8 @@ http://185.78.112.46:8077/9-volna/index.m3u8
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 #EXTINF:-1 group-title="Музыкальные",MTV
 https://edge02.beetv.kz/btv/SWM/mtv_00/mtv_00.m3u8
+#EXTINF:-1 group-title="Музыкальные",TMB
+https://edge02.beetv.kz/btv/SWM/TMB_TV/TMB_TV.m3u8
 #EXTINF:-1 group-title="Музыкальные",МТВ
 https://edge02.beetv.kz/btv/SWM/mtv_live_hd/mtv_live_hd.m3u8
 #EXTINF:-1 group-title="Музыкальные",MCM
@@ -489,3 +481,21 @@ https://edge02.beetv.kz/btv/SWM/Tnt_music/Tnt_music.m3u8
 https://edge02.beetv.kz/btv/SWM/SWM_HitTV/SWM_HitTV.m3u8
 #EXTINF:-1 group-title="Музыкальные",Tvoy TV
 https://edge02.beetv.kz/btv/SWM/icon/TvoyTV/TvoyTV.m3u8
+
+
+
+#Иностранные
+
+
+#EXTINF:-1 group-title="Иностранные",CNN
+https://edge02.beetv.kz/btv/SWM/CNN/CNN.m3u8
+#EXTINF:-1 group-title="Иностранные",Deutsche_Welle
+https://edge02.beetv.kz/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
+#EXTINF:-1 group-title="Иностранные",English Club
+https://edge02.beetv.kz/btv/SWM/English_Club_TV/English_Club_TV.m3u8
+#EXTINF:-1 group-title="Иностранные",BBC World
+https://edge02.beetv.kz/btv/SWM/BBC_World/BBC_World.m3u8
+#EXTINF:-1 group-title="Иностранные",France24
+https://edge02.beetv.kz/btv/SWM/SWM_France24_test/SWM_France24.m3u8
+#EXTINF:-1 group-title="Иностранные",EuroNews English HD
+https://edge02.beetv.kz/btv/SWM/EuroNews_English_HD/EuroNews_English_HD.m3u8
