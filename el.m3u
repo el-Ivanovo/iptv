@@ -26,7 +26,7 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные" tvg-id="russia1" tvg-name="russia1" catchup-enable="0", Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="russiak" tvg-name="russiak" catchup-enable="0", Россия K
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
@@ -39,7 +39,6 @@ http://188.242.232.210:81/udp/239.239.1.3:5239
 #EXTINF:-1 group-title="Федеральные" tvg-id="ntv0" tvg-name="ntv0" catchup-enable="0", ПЕРВЫЙ КРЫМСКИЙ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://mrlive.1tvcrimea.ru/1tvcrimea.m3u8
-https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv0h/playlist.m3u8?cdn=https%3A%2F%2Fntv-live-megafon.mediavitrina.ru&token=v2.x8zNjudtMMUoTZhTu1Uv2lXQBFsFjzQjx9E2YVeN44k.ZdqvP44Ku5SOSDgPP04bHLqlnmWK5N0ImwTBRgE09dE.1674911058.03bcc09ebe71548fa8554a7314fd3cfe
 #EXTINF:-1 group-title="Федеральные" tvg-id="tv5" tvg-name="tv5" catchup-enable="0", 5 канал
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
