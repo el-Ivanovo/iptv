@@ -438,6 +438,8 @@ https://edge02.beetv.kz/btv/SWM/Ohotnik_i_ribolov/Ohotnik_i_ribolov.m3u8
 https://edge02.beetv.kz/btv/SWM/tlc_hd/tlc_hd.m3u8
 #EXTINF:-1 group-title="Познавательные",ЕДА HD
 https://edge02.beetv.kz/btv/SWM/eda_premium_hd/eda_premium_hd.m3u8
+#EXTINF:-1 group-title="Познавательные",BIG PLANET HD
+https://edge02.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
 
 
 
