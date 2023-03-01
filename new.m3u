@@ -235,7 +235,11 @@ http://185.246.66.5:8000/channel/7cce1c97/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f
 #EXTINF:-1 group-title="Yosso TV" tvg-logo="https://zigfreed.ru/img2/yosso/yosso-sovfilm.png",Yosso TV Советские фильмы
 http://185.246.66.5:8000/channel/n2766402d/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
 #EXTINF:-1 group-title="Yosso TV" tvg-logo="https://zigfreed.ru/img2/yosso/yosso-sexy.png",Yosso TV SEXY
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.246.66.5:8000/channel/1755c1aa/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
+#EXTINF:-1 group-title="Yosso TV" tvg-logo="https://zigfreed.ru/img2/yosso/yosso-sexy.png",Yosso TV SEXY 1
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://185.246.66.5:8000/channel/1755c1aa/index.m3u8?q=dd21b7b5a71f22ac7fa79db1e2f192b4
 #EXTINF:-1 group-title="Yosso TV" tvg-logo="https://zigfreed.ru/img2/yosso/yosso-newkino.png",Yosso TV NEW Кино
 http://185.246.66.5:8000/channel/3989376/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
 #EXTINF:-1 group-title="Yosso TV" tvg-logo="http://zigfreed.ru/img2/yosso/yosso-detskoe.png",Yosso TV Наше Детское
