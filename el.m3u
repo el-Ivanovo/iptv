@@ -26,7 +26,7 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные" tvg-id="russia1" tvg-name="russia1" catchup-enable="0", Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="russiak" tvg-name="russiak" catchup-enable="0", Россия K
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
