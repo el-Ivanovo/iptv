@@ -114,8 +114,6 @@ https://edge02.beetv.kz/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
 https://edge02.beetv.kz/btv/SWM/etv/etv.m3u8
 #EXTINF:-1 group-title="Казахские",Техно24
 https://edge02.beetv.kz/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
-#EXTINF:-1 group-title="Казахские",Вопросы Ответы
-https://edge02.beetv.kz/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
 #EXTINF:-1 group-title="Казахские",Анекдот HD
 https://edge02.beetv.kz/btv/SWM/anekdot_tv/anekdot_tv.m3u8
 
@@ -145,12 +143,12 @@ https://edge02.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
 https://edge02.beetv.kz/btv/icon/R24/R24.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия К
 https://edge02.beetv.kz/btv/icon/RussiaK/RussiaK.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия РТР
+https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 https://edge02.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ Стиль
 https://edge02.beetv.kz/btv/SWM/ntv_style/ntv_style.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ
-https://edge02.beetv.kz/btv/SWM/TNT/TNT.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
 https://edge02.beetv.kz/btv/SWM/TNT_HD/TNT_HD.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
@@ -163,18 +161,14 @@ https://edge02.beetv.kz/btv/SWM/RenTV/RenTV.m3u8
 https://edge02.beetv.kz/btv/SWM/TB_3_International/TB_3_International.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир
 https://edge02.beetv.kz/btv/SWM/SWM_MIR/SWM_MIR.m3u8
-#EXTINF:-1 group-title="Федеральные",RBK TV
+#EXTINF:-1 group-title="Федеральные",РБК ТВ
 https://edge02.beetv.kz/btv/SWM/RBK_TV/RBK_TV.m3u8
 #EXTINF:-1 group-title="Федеральные",CTC International
 https://edge02.beetv.kz/btv/icon/CTC_International/CTC_International.m3u8
-#EXTINF:-1 group-title="Федеральные",СПАС
-https://edge02.beetv.kz/btv/SWM/Spas/Spas.m3u8
 #EXTINF:-1 group-title="Федеральные",Перец
 https://edge02.beetv.kz/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница
 https://edge02.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия RTR
-https://edge02.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
 #EXTINF:-1 group-title="Федеральные",Avto24
 https://edge02.beetv.kz/btv/icon/Avto24/Avto24.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир24
@@ -209,8 +203,6 @@ https://edge02.beetv.kz/btv/SWM/Dorama/Dorama.m3u8
 https://edge02.beetv.kz/btv/SWM/Eurokino/Eurokino.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD
 https://edge02.beetv.kz/btv/SWM/FOX/FOX.m3u8
-#EXTINF:-1 group-title="Кино",ФАНТАСТИКА HD
-https://edge02.beetv.kz/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
 #EXTINF:-1 group-title="Кино",FilmUADrama
 https://edge02.beetv.kz/btv/SWM/FilmUADrama/FilmUADrama.m3u8
 #EXTINF:-1 group-title="Кино",FoxLife HD
@@ -275,11 +267,13 @@ https://edge02.beetv.kz/btv/SWM/plan_b/plan_b.m3u8
 https://edge02.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
 
 
-#Мусульманские
+#Религиозные
 
-#EXTINF:-1 group-title="Мусульманский канал", Хузур ТВ
+#EXTINF:-1 group-title="Религиозные", Хузур ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные",СПАС
+https://edge02.beetv.kz/btv/SWM/Spas/Spas.m3u8
 
 
 
@@ -343,13 +337,15 @@ https://edge02.beetv.kz/btv/SWM/TiJi_KZ/TiJi_KZ.m3u8
 https://edge02.beetv.kz/btv/SWM/U_Skazki/U_Skazki.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
 https://edge02.beetv.kz/btv/SWM/nicktoons/nicktoons.m3u8
+#EXTINF:-1 group-title="Детские",ФАНТАСТИКА HD
+https://edge02.beetv.kz/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
 #EXTINF:-1 group-title="Детские",Nick Jr
 https://edge02.beetv.kz/btv/icon/Nick_Jr/Nick_Jr.m3u8
 #EXTINF:-1 group-title="Детские",Didar
 https://edge02.beetv.kz/btv/SWM/Didar/Didar.m3u8
 #EXTINF:-1 group-title="Детские",Guilli
 https://edge02.beetv.kz/btv/SWM/Guilli/Guilli.m3u8
-#EXTINF:-1 group-title="Детские",CTC HD
+#EXTINF:-1 group-title="Детские",CTC Kids
 https://edge02.beetv.kz/btv/icon/CTC_kids/CTC_kids.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
 https://edge02.beetv.kz/btv/SWM/Karusel/Karusel.m3u8
@@ -441,6 +437,8 @@ https://edge02.beetv.kz/btv/SWM/tlc_hd/tlc_hd.m3u8
 https://edge02.beetv.kz/btv/SWM/eda_premium_hd/eda_premium_hd.m3u8
 #EXTINF:-1 group-title="Познавательные",BIG PLANET HD
 https://edge02.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+#EXTINF:-1 group-title="Познавательные",Вопросы Ответы
+https://edge02.beetv.kz/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
 
 
 
@@ -453,13 +451,13 @@ https://edge02.beetv.kz/btv/SWM/SWM_Gakku/SWM_Gakku.m3u8
 https://edge02.beetv.kz/btv/SWM/Toy_Duman/Toy_Duman.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Первого
 https://edge02.beetv.kz/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo.m3u8
-#EXTINF:-1 group-title="Музыкальные" , Матур ТВ
+#EXTINF:-1 group-title="Музыкальные" ,Матур ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные" , 9 Волна
+#EXTINF:-1 group-title="Музыкальные" ,9 Волна
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.78.112.46:8077/9-volna/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png",Майдан ТАТ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 #EXTINF:-1 group-title="Музыкальные",MTV
