@@ -3,48 +3,48 @@
 #Региональные
 
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Региональные" catchup-enable="7" tvg-rec="7", Грозный HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-id="ingushetia" tvg-name="Ингушетия" group-title="Региональные" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/e/e9/%D0%9D%D0%A2%D0%A0%D0%9A_%C2%AB%D0%98%D0%BD%D0%B3%D1%83%D1%88%D0%B5%D1%82%D0%B8%D1%8F%C2%BB.png" catchup-enable="0",Ингушетия
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan" group-title="Региональные" catchup-enable="1" tvg-logo="https://online-red.com/images/tv/rgvk-dagestan.png", РГВК Дагестан
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://dgndvr.mediacdn.ru/dvr/dagestan/playlist_hdlow.m3u8
 #EXTINF:-1 tvg-id="russky-sever" group-title="Региональные" catchup-enable="1" tvg-logo="https://sun3-11.userapi.com/lhXPWF9IwW5B38db4d-vqA56eBQPC0G_fCKBEQ/M8MxOElTj40.jpg", Русский Север
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live.rusevertv.ru/rs/1080/s.m3u8
 #EXTINF:-1 tvg-id="tnv" group-title="Региональные" catchup-enable="1" tvg-logo="https://tnv.ru/local/static/images/logo.svg", ТНВ-Татарстан
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
 
 #Федеральные
 
 #EXTINF:-1 group-title="Федеральные" tvg-id="pervy" tvg-name="pervy" catchup-enable="0", Первый канал
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные" tvg-id="russia1" tvg-name="russia1" catchup-enable="0", Россия 1
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="russiak" tvg-name="russiak" catchup-enable="0", Россия K
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="russia24" tvg-name="russia24" catchup-enable="0", Россия 24
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="ntv0" tvg-name="ntv0" catchup-enable="0", НТВ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://188.242.232.210:81/udp/239.239.1.3:5239
 #EXTINF:-1 group-title="Федеральные" tvg-id="ntv0" tvg-name="ntv0" catchup-enable="0", ПЕРВЫЙ КРЫМСКИЙ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://mrlive.1tvcrimea.ru/1tvcrimea.m3u8
 https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv0h/playlist.m3u8?cdn=https%3A%2F%2Fntv-live-megafon.mediavitrina.ru&token=v2.x8zNjudtMMUoTZhTu1Uv2lXQBFsFjzQjx9E2YVeN44k.ZdqvP44Ku5SOSDgPP04bHLqlnmWK5N0ImwTBRgE09dE.1674911058.03bcc09ebe71548fa8554a7314fd3cfe
 #EXTINF:-1 group-title="Федеральные" tvg-id="tv5" tvg-name="tv5" catchup-enable="0", 5 канал
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="CTC" tvg-name="CTC" catchup-enable="0", СТС
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:0 group-title="Федеральные" type="stream" channelId="1104", Известия HD
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
@@ -73,185 +73,236 @@ http://92.50.128.180/utv/1358/index.m3u8
 #Кино
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", .red
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUS TV HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", BACKUSTV Страшное HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:0 type="stream" channelId="3926" group-title="Кино", FAN HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://193.33.240.8:8080/fan/index.m3u8
 #EXTINF:0 type="stream" channelId="342" group-title="Кино", Кино ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="205" group-title="Кино", Сапфир
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", .black
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:0 type="stream" channelId="3186" group-title="Кино", SCI-FI
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:0 type="stream" channelId="198", Русский Роман
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://78.25.155.47:1309/channel/Rus_rom.ts
 #EXTINF:0 type="stream" channelId="1628" group-title="Кино", Русский Детектив
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://78.25.155.47:1309/channel/rus_d.ts
 #EXTINF:0 type="stream" channelId="65" group-title="Кино", TV1000 Русское кино HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:0 type="stream" channelId="66" name="TV1000 HD" group-title="Кино", TV1000 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:0 type="stream" channelId="214" name="TV1000 Action HD" group-title="Кино", TV1000 Action HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", ТВ 1000 World Kino
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://93.189.60.202:8080/1065/index.m3u8
 #EXTINF:0 type="stream" channelId="3894" group-title="Кино", VIP Serial
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:0 type="stream" channelId="607" group-title="Кино", VIP Comedy
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:0 type="stream" channelId="606" group-title="Кино", VIP Megahit
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:0 type="stream" channelId="605" group-title="Кино", VIP Premiere
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:0 type="stream" channelId="1637" group-title="Кино", Премиальное HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1633" group-title="Кино", Остросюжетное HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4518" group-title="Кино", Star Cinema
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/480p.m3u8
 #EXTINF:0 type="stream" channelId="4518" group-title="Кино", BOLT
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/dash/bolt_hd/playlist.mpd
 #EXTINF:0 type="stream" channelId="413" group-title="Кино", Киносвидание HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://95.217.196.109:8081/russia/kinosvidanie_sd_new/playlist.m3u8
 #EXTINF:0 type="stream" channelId="315" group-title="Кино", Наше новое кино
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://46.181.193.122:81/udp/239.255.42.142:1234
 #EXTINF:0 type="stream" channelId="2959" group=title="Кино", Film Box
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Hollywood HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.32.44.154/hollywood/index.m3u8
 #EXTINF:0 type="stream" channelId="2923" group-title="Кино", 312 Кино
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кинозал 33
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://v2.catcast.tv/content/39005/index.m3u8
 #EXTINF:0 type="stream" channelId="79" group-title="Кино", Еврокино
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://91.220.135.165:81/30/index.m3u8
 #EXTINF:0 type="stream" channelId="1699" group-title="Кино", Paramount Comedy
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://109.200.130.124:7000/play/a00j
 #EXTINF:0 type="stream" channelId="913" group-title="Кино", A1 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:0 type="stream" channelId="914" group-title="Кино", A2 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Kinoklub
+#EXTINF:0 type="stream" group-title="Кино", Kinoklub
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино", ВидеокассетА
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Свое ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Память SSSR
+#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Память CCCP
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Север HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Cinema Classic TV
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0 type="stream" channelId="201" group-title="Кино", Миллет
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Кино", Кино 1 International
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", AKUDJI TV HD
+#EXTINF:0 type="stream"  group-title="Кино", AKUDJI TV HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group-title="Кино", Trash
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTINF:-1 type="stream" group-title="Кино", Trash
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://livetv.mylifeisgood.ml/channels/trash
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Классика индийского кино
+#EXTINF:0 type="stream" group-title="Кино", Классика индийского кино
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:0 type="stream" channelId="208" group-title="Кино", START Air HD
+#EXTINF:0 type="stream" group-title="Кино", START Air HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Детское кино International HD
+#EXTINF:0 type="stream" group-title="Кино", Детское кино International HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="TV PRO" group-title="Кино", TV PRO
+#EXTINF:0 type="stream" group-title="Кино", TV PRO
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:0 type="stream" channelId="3966" name="Свое ТВ" group-title="Кино", Свое ТВ
+#EXTINF:0 type="stream" group-title="Кино", Свое ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live.stv24.tv/svoetv/MQ_video.m3u8
-#EXTINF:0 type="stream" channelId="208" group-title="Кино", Fox HD
+#EXTINF:0 type="stream" group-title="Кино", Fox HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Start World HD
+#EXTINF:0 type="stream" group-title="Кино", Start World HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
-#EXTINF:0 type="stream" channelId="1748" group-title="Кино", TVM Channel
+#EXTINF:0 type="stream" group-title="Кино", TVM Channel
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Star Cinema HD
+#EXTINF:0 type="stream" group-title="Кино", Star Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
-#EXTINF:0 type="stream" channelId="1802" group-title="Кино", Ники ТВ
+#EXTINF:0 type="stream" group-title="Кино", Ники ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1571" name="СТС Love" group-title="Кино", СТС Love
+#EXTINF:0 type="stream" group-title="Кино", СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Феникс Плюс Кино
+#EXTINF:0 type="stream" group-title="Кино", Феникс Плюс Кино
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Кино", Star Family HD
+#EXTINF:0 type="stream" group-title="Кино", Star Family HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/playlist.m3u8
 
 #Мусульманские
 
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" group-title="Мусульманский канал" catchup-enable="0", Хузур ТВ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/chunklist.m3u8?hls_proxy_host=6ae9ce5cd97bdc68227b151737204616
 
 #Исламское Радио
 
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Мир Радио (Ислам)
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://miradio.s02.radio-tochka.com:6095/radio
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", MPlus FM
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://live.mplus.fm:8000/radio
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Радио Ватан
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://str5.pcradio.ru/vatan-med
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Quran Live Radio
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://str2.pcradio.ru/quran_live-med
 #EXTINF:-1 group-title="Исламское Радио" catchup-enable="0", Радио Нашиды
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://144.76.84.153:21500/;
 
 #Радио
 
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" group-title="Радио" catchup-enable="0",Радио Грозный
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8
 #EXTINF:-1  group-title="Радио" catchup-enable="0",Радио Ингушетии
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://77.87.97.62:8086/ingradio?1582880552334
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Кавказ ХИТ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://77.39.8.153:3304/radio_mount
 #EXTINF:-1  group-title="Радио" catchup-enable="0",Радио Астана
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Жулдыз ФМ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://91.201.214.229:8000/zhulduz
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Казахское Радио
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://hls-01-regions.emgsound.ru/11_kazakhstan/32/playlist.m3u8
 #EXTINF:-1  group-title="Радио" catchup-enable="0", Актобе
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://85.29.144.124:8000/;audio.mp3?1675355024767
 
 #Музыкальные
 
 #EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" , Матур ТВ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" , 9 Волна
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.78.112.46:8077/9-volna/index.m3u8
 #EXTINF:-1 tvg-id="maidantv" group-title="Музыкальные" catchup-enable="1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10230/logo_256_1660805546.png", Майдан ТАТ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 
 #Спорт
 
 #EXTINF:0 type="stream" group="Спортивные", Extreme sports
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.32.44.154/extremesport/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", БОЕЦ
 http://185.32.44.154/boets/tracks-v1a1/mono.m3u8
@@ -262,7 +313,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1006_smarttv_1634289428169.png" group-title="Спортивные", KHL HD
 https://okkotv-live.cdnvideo.ru/channel/KHL_HD_2/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://smart-tv.id-tv.kz/pictures/channelposter_1006_smarttv_1634289428169.png" group-title="Спортивные", KHL PRIME HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/KHL_PRIME_HD.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Start Triumph HD
 https://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD.m3u8
@@ -279,10 +330,10 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Viasat Sport HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Eurosport 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.32.44.154/futbol1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Eurosport 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.32.44.154/futbol2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Спортивные", Футбол
 http://185.32.44.154/futbol/tracks-v1a1/mono.m3u8
@@ -291,122 +342,132 @@ http://185.32.44.154/futbol/tracks-v1a1/mono.m3u8
 #Познавательные
 
 #EXTINF:0 type="stream" group-title="Познавательные", TERRA
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные",Teletravel
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://193.33.240.8:8080/teletravel_hd/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Discovery Science
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.32.44.154/discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Travel + Adventure HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Усадьба
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:-1 type="stream" group-title="Познавательные", Охота и Рыбалка
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://78.25.155.47:1309/channel/Ohota_i_rib.ts
 #EXTINF:0 type="stream" group-title="Познавательные", T-24
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://195.26.83.96:7024/play/83
 #EXTINF:0 type="stream" group-title="Познавательные", RTД HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", MOSOBR TV HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", History HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0 type="stream" group="Познавательные", LOVE Nature
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 type="stream" group="Познавательные", Мособр TV HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 type="stream"  group-title="Познавательные", История
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://78.25.155.47:1309/channel/Istoria.ts
 #EXTINF:0 type="stream" group-title="Познавательные", С1 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Тайна
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Viasat Explore HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Наука
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://31.148.48.15/Nauka_2.0/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 type="stream" group-title="Познавательные", Просвещение
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Viasat Explore HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Da Vinci
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Nano HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-nano.cdnvideo.ru/Nano_HD_poz/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Viasat History
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Viasat Nature
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Ратник ТВ
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://live-okkotv.cdnvideo.ru/ratnik/ratnik_5q.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Моя Планета
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://185.32.44.154/moyaplaneta/tracks-v1a1/mono.m3u8
 #https://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Драйв
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
 #EXTINF:0 type="stream" group-title="Познавательные", Большая азия
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://109.197.192.121:8080/bigasia/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Nat Geo Wild
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Galaxy
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
 #EXTINF:0 type="stream" group-title="Познавательные", Natgeo
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://190.2.143.146/natgeo/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Министерство идей
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Univer TV HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Живая Планета
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://109.171.45.109:81/udp/239.54.5.166:1224
 #EXTINF:0 type="stream" group-title="Познавательные", Живая природа HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
 #EXTINF:0 type="stream" group-title="Познавательные", ТВ Экстра HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Родной канал HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Любимый HD
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Надежда
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8?hls_proxy_host=a8b876ccbc510550c20ccdb22a311ba2
 #EXTINF:0 type="stream" group-title="Познавательные", CGTN Русский
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Конний мир
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Luxury
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:0 type="stream" group-title="Познавательные", Доктор
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://195.26.83.96:7024/play/69
 #EXTINF:0 type="stream" group-title="Познавательные", Русский экстрим
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
