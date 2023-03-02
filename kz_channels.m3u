@@ -181,7 +181,24 @@ https://edge02.beetv.kz/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
 
 #Кино
 
-
+#EXTINF:-1 group-title="Кино",CINEMA
+https://edge02.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
+#EXTINF:-1 group-title="Кино",.black
+https://edge02.beetv.kz/btv/SWM/Black/Black.m3u8
+#EXTINF:-1 group-title="Кино",red
+https://edge02.beetv.kz/btv/SWM/Red/Red.m3u8
+#EXTINF:-1 group-title="Кино",Sci-Fi HD
+https://edge02.beetv.kz/btv/SWM/Sci-Fi/Sci-Fi.m3u8
+#EXTINF:-1 group-title="Кино",FoxLife HD
+https://edge02.beetv.kz/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1 group-title="Кино",FOX HD
+https://edge02.beetv.kz/btv/SWM/FOX/FOX.m3u8
+#EXTINF:-1 group-title="Кино",HCT HD
+https://edge02.beetv.kz/btv/SWM/HCT/HCT.m3u8
+#EXTINF:-1 group-title="Кино",Trash
+https://edge02.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
+#EXTINF:-1 group-title="Кино",plan B
+https://edge02.beetv.kz/btv/SWM/plan_b/plan_b.m3u8
 #EXTINF:-1 group-title="Кино",A1
 https://edge02.beetv.kz/btv/SWM/A1/A1.m3u8
 #EXTINF:-1 group-title="Кино",A2
@@ -190,25 +207,18 @@ https://edge02.beetv.kz/btv/SWM/A2/A2.m3u8
 https://edge02.beetv.kz/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium HD
 https://edge02.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
-#EXTINF:-1 group-title="Кино",.black
-#EXTINF:-1 group-title="Кино",CINEMA
-https://edge02.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
 https://edge02.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино Премиум
 https://edge02.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1 group-title="Кино",Dorama HD
 https://edge02.beetv.kz/btv/SWM/Dorama/Dorama.m3u8
+#EXTINF:-1 group-title="Кино",Кинеко
+https://edge02.beetv.kz/btv/SWM/kineko_hd/kineko_hd.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 https://edge02.beetv.kz/btv/SWM/Eurokino/Eurokino.m3u8
-#EXTINF:-1 group-title="Кино",FOX HD
-https://edge02.beetv.kz/btv/SWM/FOX/FOX.m3u8
 #EXTINF:-1 group-title="Кино",FilmUADrama
 https://edge02.beetv.kz/btv/SWM/FilmUADrama/FilmUADrama.m3u8
-#EXTINF:-1 group-title="Кино",FoxLife HD
-https://edge02.beetv.kz/btv/SWM/FoxLife/FoxLife.m3u8
-#EXTINF:-1 group-title="Кино",HCT HD
-https://edge02.beetv.kz/btv/SWM/HCT/HCT.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood HD
 https://edge02.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:-1 group-title="Кино",Иллюзион +
@@ -219,14 +229,10 @@ https://edge02.beetv.kz/btv/SWM/KinoAlem/KinoAlem.m3u8
 https://edge02.beetv.kz/btv/SWM/KinoHit/KinoHit.m3u8
 #EXTINF:-1 group-title="Кино",Наше любимое кино
 https://edge02.beetv.kz/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
-#EXTINF:-1 group-title="Кино",red
-https://edge02.beetv.kz/btv/SWM/Red/Red.m3u8
 #EXTINF:-1 group-title="Кино",Bollywood HD
 https://edge02.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
 https://edge02.beetv.kz/btv/SWM/Russky-Illuzion_SWM/Russky-Illuzion_SWM.m3u8
-#EXTINF:-1 group-title="Кино",Sci-Fi HD
-https://edge02.beetv.kz/btv/SWM/Sci-Fi/Sci-Fi.m3u8
 #EXTINF:-1 group-title="Кино",XX1
 https://edge02.beetv.kz/btv/SWM/tv21/tv21.m3u8
 #EXTINF:-1 group-title="Кино",Vip Comedy HD
@@ -237,8 +243,6 @@ https://edge02.beetv.kz/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
 https://edge02.beetv.kz/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
 #EXTINF:-1 group-title="Кино",Vip Serial HD
 https://edge02.beetv.kz/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
-#EXTINF:-1 group-title="Кино",Кинеко
-https://edge02.beetv.kz/btv/SWM/kineko_hd/kineko_hd.m3u8
 #EXTINF:-1 group-title="Кино",Мир Сериала
 https://edge02.beetv.kz/btv/SWM/mir_seriala/mir_seriala.m3u8
 #EXTINF:-1 group-title="Кино",НТВ Сериал
@@ -249,8 +253,6 @@ https://edge02.beetv.kz/btv/SWM/sapfir_hd/sapfir_hd.m3u8
 https://edge02.beetv.kz/btv/SWM/start_air_hd/start_air_hd.m3u8
 #EXTINF:-1 group-title="Кино",START World HD
 https://edge02.beetv.kz/btv/SWM/start_world_hd/start_world_hd.m3u8
-#EXTINF:-1 group-title="Кино",Trash
-https://edge02.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action HD
 https://edge02.beetv.kz/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 HD
@@ -261,8 +263,6 @@ https://edge02.beetv.kz/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
 https://edge02.beetv.kz/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:-1 group-title="Кино",Феникс
 https://edge02.beetv.kz/btv/SWM/phoenix/phoenix.m3u8
-#EXTINF:-1 group-title="Кино",plan B
-https://edge02.beetv.kz/btv/SWM/plan_b/plan_b.m3u8
 #EXTINF:-1 group-title="Кино",Твое Телевидение
 https://edge02.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
 
@@ -314,7 +314,6 @@ https://edge02.beetv.kz/btv/SWM/viasatsport/viasatsport.m3u8
 #Детские
 
 
-https://edge02.beetv.kz/btv/SWM/Black/Black.m3u8
 #EXTINF:-1 group-title="Детские",Boomerang
 https://edge02.beetv.kz/btv/SWM/Boomerang/Boomerang.m3u8
 #EXTINF:-1 group-title="Детские",Nikelodeon
