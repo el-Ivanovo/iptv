@@ -266,6 +266,17 @@ https://edge02.beetv.kz/btv/SWM/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="Кино",Твое Телевидение
 https://edge02.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
 
+#EXTINF:-1,group-title="Кино",KINOHIT
+http://178.124.210.172:8000/play/a00g1d/index.m3u8
+#EXTINF:-1,group-title="Кино",KINOKOMEDIA
+http://178.124.210.172:8000/play/a00hj/index.m3u8
+#EXTINF:-1,group-title="Кино",KINOPREMIERA
+http://178.124.210.172:8000/play/a00j9fg/index.m3u8
+#EXTINF:-1,group-title="Кино",KINOSEMIA_cosmos
+http://178.124.210.172:8000/play/a03x/index.m3u8
+#EXTINF:-1,group-title="Кино",KINOSVIDANIE
+http://178.124.210.172:8000/play/a00lcv/index.m3u8
+
 
 #Религиозные
 
