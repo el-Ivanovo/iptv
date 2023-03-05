@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
+ID:af8cab84 ID:b82020ca
 #EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="http://static.g-cdn.app/streams/pervyj.png" tvg-rec="7",Первый канал
 #EXTGRP:Общероссийские
 http://s01.wsbof.com:8090/s/b82020ca/pervyj.m3u8
