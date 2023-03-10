@@ -1,0 +1,340 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 1HD
+http://31.210.208.167:80/1hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Первый канал
+http://31.210.208.167:80/1kanal/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Первый канал HD
+http://31.210.208.167:80/1kanal_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 24Техно
+http://31.210.208.167:80/24tehno/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 2х2
+http://31.210.208.167:80/2x2/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 360 HD
+http://31.210.208.167:80/360hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 360 Новости
+http://31.210.208.167:80/360news/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 365 Дней
+http://31.210.208.167:80/365day/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 5 Канал
+http://31.210.208.167:80/5kanal/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 8 Канал
+http://31.210.208.167:80/8kanal/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Ani
+http://31.210.208.167:80/ani/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" ,  Авто24
+http://31.210.208.167:80/auto24/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Авто+
+http://31.210.208.167:80/autoplus/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Беларусь24
+http://31.210.208.167:80/belarus24/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , БОЕЦ
+http://31.210.208.167:80/boec/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , БОКС
+http://31.210.208.167:80/box_tv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Brazzers
+http://31.210.208.167:80/brazzers/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Bridge
+http://31.210.208.167:80/bridge/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Bridge CLASSIC
+http://31.210.208.167:80/bridge_classic/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Bridge HD
+http://31.210.208.167:80/bridge_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Bridge HIT
+http://31.210.208.167:80/bridgetv_hits/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Bridge TV
+http://31.210.208.167:80/bridgetv_rus/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ЧЕ
+http://31.210.208.167:80/che/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Cinema
+http://31.210.208.167:80/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Da Vinci Learing
+http://31.210.208.167:80/da_vinci_learning/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Доктор
+http://31.210.208.167:80/docktor/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Дом кино
+http://31.210.208.167:80/domkino/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ДОРАМА
+http://31.210.208.167:80/dorama/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Доверие
+http://31.210.208.167:80/doverie/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , E TV
+http://31.210.208.167:80/etv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Европлюс
+http://31.210.208.167:80/europaplus/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Еврокино
+http://31.210.208.167:80/evrokino/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , FAN
+http://31.210.208.167:80/fan/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Fashion
+http://31.210.208.167:80/fashiontv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Fenix kino
+http://31.210.208.167:80/fenixkino/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Футбол
+http://31.210.208.167:80/football/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Fox
+http://31.210.208.167:80/fox/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Fox Life
+http://31.210.208.167:80/fox_life/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , HDL
+http://31.210.208.167:80/hdl/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Хокей
+http://31.210.208.167:80/hockey/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Домашний
+http://31.210.208.167:80/home/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Hustler
+http://31.210.208.167:80/hustler/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Иллюзион +
+http://31.210.208.167:80/illuzion_plus/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Индийское кино
+http://31.210.208.167:80/indiskoe_kino/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , История
+http://31.210.208.167:80/istoriya/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Известие
+http://31.210.208.167:80/isvestie_voronez/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Жара
+http://31.210.208.167:80/jara/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Живи
+http://31.210.208.167:80/jivi/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Карусель
+http://31.210.208.167:80/karusel/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , KHL
+http://31.210.208.167:80/khl/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , KHL HD
+http://31.210.208.167:80/khl_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Киномикс
+http://31.210.208.167:80/kinomix/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Кинопоказ
+http://31.210.208.167:80/kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Киносерия
+http://31.210.208.167:80/kinoseriya/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Кино ТВ
+http://31.210.208.167:80/kinotv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Киноужас
+http://31.210.208.167:80/kinouzhas/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Кинокомедия
+http://31.210.208.167:80/komedia/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Кинокомедия 2
+http://31.210.208.167:80/komedia2/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Красная линия
+http://31.210.208.167:80/krasnayaliniya/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , КтоЕстьКто
+http://31.210.208.167:80/ktoestkto/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Кухня
+http://31.210.208.167:80/kuhnia/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , КВН
+http://31.210.208.167:80/kvn/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , la-Minor
+http://31.210.208.167:80/la_minor/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Любимое кино
+http://31.210.208.167:80/lubim_kino/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , MMA1
+http://31.210.208.167:80/m1_global/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Maghome
+http://31.210.208.167:80/maghome/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Малыш
+http://31.210.208.167:80/malysh/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Мама
+http://31.210.208.167:80/mama/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МАТЧ Арена
+http://31.210.208.167:80/match_arena/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МАТЧ Арена HD
+http://31.210.208.167:80/match_arenahd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МАТЧ HD
+http://31.210.208.167:80/match_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МАТЧ Игра
+http://31.210.208.167:80/match_igra/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МАТЧ Наш Спорт
+http://31.210.208.167:80/match_nashsport/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МАТЧ ТВ
+http://31.210.208.167:80/matctv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Министерство Идей
+http://31.210.208.167:80/ministry_of_ideas/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МИР
+http://31.210.208.167:80/mir/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МИР24
+http://31.210.208.167:80/mir24/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МИР24 HD
+http://31.210.208.167:80/mir24_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Москва24
+http://31.210.208.167:80/moskva_24/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Мотоспорт
+http://31.210.208.167:80/motorsport/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Мужской 18+
+http://31.210.208.167:80/mugskoy/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Мульт
+http://31.210.208.167:80/mult/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Мультимания
+http://31.210.208.167:80/multimania/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Мульт Музыка
+http://31.210.208.167:80/multimusic/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Мужское кино
+http://31.210.208.167:80/muzhskoekino/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Muzika perv
+http://31.210.208.167:80/muzika_perv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , МУЗТВ
+http://31.210.208.167:80/muztv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Моя Планета
+http://31.210.208.167:80/myplanet/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Наше новое кино
+http://31.210.208.167:80/nashe_novoe_kino/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , National Geographic
+http://31.210.208.167:80/nat_geo/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Наука20
+http://31.210.208.167:80/nauka20/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Ностальгия
+http://31.210.208.167:80/nostalgiya/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Новый век
+http://31.210.208.167:80/novi_vek/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , НСТ
+http://31.210.208.167:80/nst/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , НТВ
+http://31.210.208.167:80/ntv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , НТВ HD
+http://31.210.208.167:80/ntv_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , o2
+http://31.210.208.167:80/o2/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Охотник HD
+http://31.210.208.167:80/ohotnik_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Охотник и рыболов
+http://31.210.208.167:80/ohotribolov/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Оружие
+http://31.210.208.167:80/orugie/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ОТР
+http://31.210.208.167:80/otr/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Пятница
+http://31.210.208.167:80/piatnica/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Планета HD
+http://31.210.208.167:80/planeta_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , playboyTV
+http://31.210.208.167:80/playboytv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Приключение HD
+http://31.210.208.167:80/priklucheniya_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , РБК
+http://31.210.208.167:80/rbk/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , redlight 18+
+http://31.210.208.167:80/redlight/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Регион
+http://31.210.208.167:80/region/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Регион2
+http://31.210.208.167:80/region2/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , 4
+http://31.210.208.167:80/ren/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Родное кино
+http://31.210.208.167:80/rodnoe_kino/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , RT
+http://31.210.208.167:80/rt/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , RTDOC
+http://31.210.208.167:80/rtdoc_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , RTG
+http://31.210.208.167:80/rtg/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , RTG HD
+http://31.210.208.167:80/rtg_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Русский Иллюзион
+http://31.210.208.167:80/rus_illuzion/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Russian Music Box
+http://31.210.208.167:80/rus_musicbox/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Russian Extreme
+http://31.210.208.167:80/rusextrime/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Русская ночь
+http://31.210.208.167:80/rusnoch/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Россия1
+http://31.210.208.167:80/russia1/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Россия24
+http://31.210.208.167:80/russia24/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Россия HD
+http://31.210.208.167:80/russia_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Россия К
+http://31.210.208.167:80/russiak/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Б
+http://31.210.208.167:80/russian_bestsel/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Русский Детектив
+http://31.210.208.167:80/russian_detek/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Русский Роман
+http://31.210.208.167:80/russian_roman/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Рыжый
+http://31.210.208.167:80/ryzhij/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Сарафан
+http://31.210.208.167:80/sarafan/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Секретно
+http://31.210.208.167:80/secretno/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , SET
+http://31.210.208.167:80/set/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Шансон
+http://31.210.208.167:80/shanson/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Shot tv
+http://31.210.208.167:80/shottv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Солнце
+http://31.210.208.167:80/solnce/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , SCI FI
+http://31.210.208.167:80/sony_sci_fi/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , СОЮЗ
+http://31.210.208.167:80/soyz/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , СПАС
+http://31.210.208.167:80/spas/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Спорт
+http://31.210.208.167:80/sports/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , СТС
+http://31.210.208.167:80/sts/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , СТСLove
+http://31.210.208.167:80/stslove/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Суббота
+http://31.210.208.167:80/subbota/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Телекафе
+http://31.210.208.167:80/telecafe/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Телепутешествия
+http://31.210.208.167:80/teleputesh/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , tiji
+http://31.210.208.167:80/tiji/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Мульт Тлум
+http://31.210.208.167:80/tlum_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Tnomer
+http://31.210.208.167:80/tnomer/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ТНТ
+http://31.210.208.167:80/tnt/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ТНТ4
+http://31.210.208.167:80/tnt4/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ТНТ HD
+http://31.210.208.167:80/tnt_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ТНТ Музыка
+http://31.210.208.167:80/tnt_music/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ТНТ Губкин
+http://31.210.208.167:80/tntgubkin/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , TV1000 Action
+http://31.210.208.167:80/tv1000_action/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , TV1000 Russian
+http://31.210.208.167:80/tv1000_russian/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ТВ3
+http://31.210.208.167:80/tv3/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ТВЦ
+http://31.210.208.167:80/tvc/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Ю
+http://31.210.208.167:80/u/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Ювелирочка
+http://31.210.208.167:80/uvelir/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , В гостях у сказки
+http://31.210.208.167:80/v_gostyah_u_skazki/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Viasat Explore
+http://31.210.208.167:80/viasat_explore/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Viasat History
+http://31.210.208.167:80/viasat_history/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Viasat Sport
+http://31.210.208.167:80/viasat_sports/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ВРЕМЯ
+http://31.210.208.167:80/vremia/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Загородный ЖИЗНЬ
+http://31.210.208.167:80/zagorod_gizn/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Загородный
+http://31.210.208.167:80/zagorodniy/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Здоровье
+http://31.210.208.167:80/zdorovie/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ZEE TV
+http://31.210.208.167:80/zee/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Живая природа
+http://31.210.208.167:80/zhivaja_priroda/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Живая планета
+http://31.210.208.167:80/zhivajaplaneta/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , ZOO TV
+http://31.210.208.167:80/zootv/index.m3u8
+#EXTINF:-1 group-title="Кино", group-title="Кино" , Звезда
+http://31.210.208.167:80/zvezda/index.m3u8
