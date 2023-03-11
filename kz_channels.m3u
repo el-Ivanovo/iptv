@@ -266,6 +266,21 @@ https://edge02.beetv.kz/btv/SWM/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="Кино",Твое Телевидение
 https://edge02.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
 
+#EXTINF:-1 group-title="Кино",КИНОУЖАС
+http://31.210.208.167:80/kinouzhas/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино",КИНОСЕРИЯ
+http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://31.210.208.167:80/muzhskoekino/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО
+http://31.210.208.167:80/nashe_novoe_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино",КИНОМИКС
+http://31.210.208.167:80/kinomix/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино",КИНОПОКАЗ
+http://31.210.208.167:80/kinopokaz/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино",FAN
+http://31.210.208.167:80/fan/index.m3u8?token=test
+
 #EXTINF:-1,group-title="Кино",KINOHIT
 http://178.124.210.172:8000/play/a00g1d/index.m3u8
 #EXTINF:-1,group-title="Кино",KINOKOMEDIA
@@ -290,7 +305,22 @@ https://edge02.beetv.kz/btv/SWM/Spas/Spas.m3u8
 
 #Спорт
 
-
+#EXTINF:-1 group-title="Спортивные",ФУТБОЛ HD
+http://31.210.208.167:80/football/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",KHL
+http://31.210.208.167:80/khl/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",БОКС ТВ
+http://31.210.208.167:80/box_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",МОТОРСПОРТ ТВ
+http://31.210.208.167:80/motorsport/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",МАТЧ HD
+http://31.210.208.167:80/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! БОЕЦ
+http://31.210.208.167:80/boec/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Матч арена
+http://31.210.208.167:80/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Матч игра
+http://31.210.208.167:80/matc_igra_hd/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Спортивные",Eurosport
 https://edge02.beetv.kz/btv/SWM/Eurosport/Eurosport.m3u8
