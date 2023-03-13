@@ -281,7 +281,7 @@ http://31.210.208.167:80/kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино",FAN
 http://31.210.208.167:80/fan/index.m3u8?token=test
 
-#EXTINF:-1,group-title="Кино",KINOHIT
+{"#EXTINF:-1,group-title="Кино",KINOHIT
 http://178.124.210.172:8000/play/a00g1d/index.m3u8
 #EXTINF:-1,group-title="Кино",KINOKOMEDIA
 http://178.124.210.172:8000/play/a00hj/index.m3u8
@@ -290,8 +290,77 @@ http://178.124.210.172:8000/play/a00j9fg/index.m3u8
 #EXTINF:-1,group-title="Кино",KINOSEMIA_cosmos
 http://178.124.210.172:8000/play/a03x/index.m3u8
 #EXTINF:-1,group-title="Кино",KINOSVIDANIE
-http://178.124.210.172:8000/play/a00lcv/index.m3u8
+http://178.124.210.172:8000/play/a00lcv/index.m3u8"}
 
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/129.png",Кинокомедия
+http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/158.png",Киномикс
+http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/57.png",Киносвидание
+http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/76.png",Киносемья
+http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/116.jpg",Киносерия
+http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/30.png",КИНОХИТ
+http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/59.jpg",Мужское кино
+http://213.172.73.170:8081/nimble_live/1085__Mujskoye_Kino/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/177.jpg",Наше любимое кино
+http://213.172.73.170:8081/nimble_live/1049__Lyubimoye_Kino/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/95.png",Наше Новое Кино
+http://213.172.73.170:8081/nimble_live/1048__Nashe_Novoye_Kino/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/69.png",НСТ
+http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/349.jpg",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 ,Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/113.png",Родное Кино
+http://213.172.73.170:8081/nimble_live/1110__Rodnoye_kino/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/52.jpg",Русский Бестселлер
+http://213.172.73.170:8081/nimble_live/1062__Russkiy_Bestseller/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Наше Мужское
+http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Наш Кинопоказ
+http://185.23.80.28:8080/NashKinopokaz/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Блокбастер
+http://185.23.80.28:8080/Blockbaster/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Хит
+http://185.23.80.28:8080/Xit/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Про Любовь
+http://185.23.80.28:8080/ProLyubov/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Камеди
+http://185.23.80.28:8080/Camedi/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Кинопоказ
+http://185.23.80.28:8080/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Победа
+http://185.23.80.28:8080/Pobeda/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", НСТ
+http://185.23.80.28:8080/NST/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", КиноСат
+http://185.23.80.28:8080/KinoSat/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", ЕвроКино
+http://185.23.80.28:8080/EuroKino/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Русский Роман
+http://185.23.80.28:8080/RusskijRoman/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Русский Детектив
+http://185.23.80.28:8080/RusskijDetektiv/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Русский Иллюзион
+http://185.23.80.28:8080/RusIlluzion/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Иллюзион+
+http://185.23.80.28:8080/Illyuzion+/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Ретро
+http://185.23.80.28:8080/Retro/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Zee TV
+http://185.23.80.28:8080/ZeeTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Кино ТВ
+http://185.23.80.28:8080/Kino_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", FAN
+http://185.23.80.28:8080/FAN/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TelCel-Avd", Капитан Фантастика
+http://185.23.80.28:8080/KapitanFantastika/index.m3u8
 
 #Религиозные
 
