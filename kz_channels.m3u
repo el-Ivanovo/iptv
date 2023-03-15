@@ -116,6 +116,8 @@ https://edge02.beetv.kz/btv/SWM/etv/etv.m3u8
 https://edge02.beetv.kz/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
 #EXTINF:-1 group-title="Казахские",Анекдот HD
 https://edge02.beetv.kz/btv/SWM/anekdot_tv/anekdot_tv.m3u8
+#EXTINF:-1 group-title="Кино",Твое Телевидение
+https://edge02.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
 
 
 
@@ -263,8 +265,7 @@ https://edge02.beetv.kz/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
 https://edge02.beetv.kz/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:-1 group-title="Кино",Феникс
 https://edge02.beetv.kz/btv/SWM/phoenix/phoenix.m3u8
-#EXTINF:-1 group-title="Кино",Твое Телевидение
-https://edge02.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
+
 
 #EXTINF:-1 group-title="Кино",КИНОУЖАС
 http://31.210.208.167:80/kinouzhas/index.m3u8?token=test
