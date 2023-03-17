@@ -282,16 +282,6 @@ http://31.210.208.167:80/kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино",FAN
 http://31.210.208.167:80/fan/index.m3u8?token=test
 
-{"#EXTINF:-1,group-title="Кино",KINOHIT
-http://178.124.210.172:8000/play/a00g1d/index.m3u8
-#EXTINF:-1,group-title="Кино",KINOKOMEDIA
-http://178.124.210.172:8000/play/a00hj/index.m3u8
-#EXTINF:-1,group-title="Кино",KINOPREMIERA
-http://178.124.210.172:8000/play/a00j9fg/index.m3u8
-#EXTINF:-1,group-title="Кино",KINOSEMIA_cosmos
-http://178.124.210.172:8000/play/a03x/index.m3u8
-#EXTINF:-1,group-title="Кино",KINOSVIDANIE
-http://178.124.210.172:8000/play/a00lcv/index.m3u8"}
 
 #EXTINF:-1  group-title="Кино",Кинокомедия
 http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
