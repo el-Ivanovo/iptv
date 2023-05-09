@@ -267,91 +267,13 @@ https://edge02.beetv.kz/btv/SWM/mosfilm/mosfilm.m3u8
 https://edge02.beetv.kz/btv/SWM/phoenix/phoenix.m3u8
 
 
-#EXTINF:-1 group-title="Кино",КИНОУЖАС
-http://31.210.208.167:80/kinouzhas/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино",КИНОСЕРИЯ
-http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
-http://31.210.208.167:80/muzhskoekino/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО
-http://31.210.208.167:80/nashe_novoe_kino/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино",КИНОМИКС
-http://31.210.208.167:80/kinomix/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино",КИНОПОКАЗ
-http://31.210.208.167:80/kinopokaz/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино",FAN
-http://31.210.208.167:80/fan/index.m3u8?token=test
 
-
-#EXTINF:-1  group-title="Кино",Кинокомедия
-http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Киномикс
-http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Киносвидание
-http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Киносемья
-http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Киносерия
-http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
-#EXTINF:-1  group-title="Кино",КИНОХИТ
-http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Мужское кино
-http://213.172.73.170:8081/nimble_live/1085__Mujskoye_Kino/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Наше любимое кино
-http://213.172.73.170:8081/nimble_live/1049__Lyubimoye_Kino/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Наше Новое Кино
-http://213.172.73.170:8081/nimble_live/1048__Nashe_Novoye_Kino/playlist.m3u8
-#EXTINF:-1  group-title="Кино",НСТ
-http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
 #EXTINF:-1  group-title="Кино",Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Родное Кино
-http://213.172.73.170:8081/nimble_live/1110__Rodnoye_kino/playlist.m3u8
-#EXTINF:-1  group-title="Кино",Русский Бестселлер
-http://213.172.73.170:8081/nimble_live/1062__Russkiy_Bestseller/playlist.m3u8
 
-#EXTINF:-1  group-title="Кино", Наше Мужское
-http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
-#EXTINF:-1  group-title="Кино", Наш Кинопоказ
-http://185.23.80.28:8080/NashKinopokaz/index.m3u8
-#EXTINF:-1  group-title="Кино", Блокбастер
-http://185.23.80.28:8080/Blockbaster/index.m3u8
-#EXTINF:-1  group-title="Кино", Хит
-http://185.23.80.28:8080/Xit/index.m3u8
-#EXTINF:-1  group-title="Кино", Про Любовь
-http://185.23.80.28:8080/ProLyubov/index.m3u8
-#EXTINF:-1  group-title="Кино", Камеди
-http://185.23.80.28:8080/Camedi/index.m3u8
-#EXTINF:-1  group-title="Кино", Кинопоказ
-http://185.23.80.28:8080/Kinopokaz/index.m3u8
-#EXTINF:-1  group-title="Кино", Победа
-http://185.23.80.28:8080/Pobeda/index.m3u8
-#EXTINF:-1  group-title="Кино", НСТ
-http://185.23.80.28:8080/NST/index.m3u8
-#EXTINF:-1  group-title="Кино", КиноСат
-http://185.23.80.28:8080/KinoSat/index.m3u8
-#EXTINF:-1  group-title="Кино", ЕвроКино
-http://185.23.80.28:8080/EuroKino/index.m3u8
-#EXTINF:-1  group-title="Кино", Русский Роман
-http://185.23.80.28:8080/RusskijRoman/index.m3u8
-#EXTINF:-1  group-title="Кино", Русский Детектив
-http://185.23.80.28:8080/RusskijDetektiv/index.m3u8
-#EXTINF:-1  group-title="Кино", Русский Иллюзион
-http://185.23.80.28:8080/RusIlluzion/index.m3u8
-#EXTINF:-1  group-title="Кино", Иллюзион+
-http://185.23.80.28:8080/Illyuzion+/index.m3u8
-#EXTINF:-1  group-title="Кино", Ретро
-http://185.23.80.28:8080/Retro/index.m3u8
-#EXTINF:-1  group-title="Кино, Zee TV
-http://185.23.80.28:8080/ZeeTV/index.m3u8
-#EXTINF:-1  group-title="Кино", Кино ТВ
-http://185.23.80.28:8080/Kino_TV/index.m3u8
-#EXTINF:-1  group-title="Кино", FAN
-http://185.23.80.28:8080/FAN/index.m3u8
-#EXTINF:-1  group-title="Кино", Капитан Фантастика
-http://185.23.80.28:8080/KapitanFantastika/index.m3u8
+
 
 #Религиозные
 
@@ -364,22 +286,6 @@ https://edge02.beetv.kz/btv/SWM/Spas/Spas.m3u8
 
 #Спорт
 
-#EXTINF:-1 group-title="Спортивные",ФУТБОЛ HD
-http://31.210.208.167:80/football/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",KHL
-http://31.210.208.167:80/khl/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",БОКС ТВ
-http://31.210.208.167:80/box_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",МОТОРСПОРТ ТВ
-http://31.210.208.167:80/motorsport/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",МАТЧ HD
-http://31.210.208.167:80/match_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! БОЕЦ
-http://31.210.208.167:80/boec/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! Матч арена
-http://31.210.208.167:80/match_arena/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! Матч игра
-http://31.210.208.167:80/matc_igra_hd/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Спортивные",Eurosport
 https://edge02.beetv.kz/btv/SWM/Eurosport/Eurosport.m3u8
